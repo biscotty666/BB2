@@ -181,72 +181,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc90fdebde435190",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Advanced Slides Blocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Blocks.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":23},\"to\":{\"line\":28,\"ch\":54}}}"
-                },
-                {
-                  "title": "Advanced Slides Themes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Themes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Advanced Slides Frontmatter",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Frontmatter.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.149891439205955}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Advanced Slides Themes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "e80d0d6922bf8e04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db4ba9a49211e0d8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -403,7 +340,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -468,9 +404,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
-              }
+              "state": {}
             }
           },
           {
@@ -564,7 +498,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -590,7 +523,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -625,6 +557,7 @@
   },
   "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "index.html",
     "dist/reset.css",
     "css/layout.css",
@@ -635,7 +568,6 @@
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
     "plugin/chalkboard/img/whiteboard.png",
     "plugin/chalkboard/img/sponge.png",
     "plugin/chalkboard/img/chalk-yellow.png",
@@ -663,7 +595,6 @@
     "Personal Knowledge Management/plugin/menu/README.md",
     "Cards/Advanced Slides Themes.md",
     "Cards/Advanced Slides Blocks.md",
-    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
     "Spaces/ObsPKMClass/Intro to PKM.md",
     "Cards/Advanced Slides Frontmatter.md",

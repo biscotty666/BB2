@@ -195,10 +195,6 @@
     {
       "basename": "Nginx deep dive video",
       "path": "Cards/Nginx deep dive video.md"
-    },
-    {
-      "basename": "Notes to published articles",
-      "path": "Cards/Notes to published articles.md"
     }
   ],
   "omittedPaths": [],
