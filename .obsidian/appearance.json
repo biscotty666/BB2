@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Dracula Official",
+  "translucency": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "AlternateCheckboxes",
+    "mermaid"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "accentColor": "",
+  "nativeMenus": true,
+  "showViewHeader": true
+}

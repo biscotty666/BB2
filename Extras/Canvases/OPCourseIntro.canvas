@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"29c7f672de30c880","x":-540,"y":-400,"width":250,"height":300,"type":"file","file":"Atlas/BC Skill Areas.md"},
+		{"type":"file","file":"+ Encounters/Obsidian & PKM Course Introduction.md","id":"b25b8ef9796c619d","x":-220,"y":-440,"width":400,"height":280},
+		{"type":"text","text":"[[Benefits of Personal Knowledge Management]]","id":"e3db1c250efd65a8","x":-145,"y":-100,"width":250,"height":60},
+		{"type":"file","file":"Cards/Guiding Values of PKM.md","id":"a5b00fc321610cca","x":-600,"y":-70,"width":320,"height":290},
+		{"type":"file","file":"Cards/PKM Definition.md","id":"05e62fc62347f487","x":240,"y":-70,"width":320,"height":290},
+		{"type":"text","text":"[[What you will learn in this class]]","id":"1ab1747c5dd41883","x":-145,"y":260,"width":250,"height":60},
+		{"type":"text","text":"[[OP Class Resources]]","id":"a6dae4db8d743c91","x":-145,"y":460,"width":250,"height":60},
+		{"type":"text","text":"[[Getting Started with Obsidian]]","id":"13329334c1dada24","x":-145,"y":560,"width":250,"height":60},
+		{"type":"text","text":"[[Clean LYT Vault]]","id":"7fbd95dd808bcb50","x":-145,"y":660,"width":250,"height":60},
+		{"type":"text","text":"[[Create a Daily Note]]","id":"4c7b388ff5874ea2","x":-145,"y":760,"width":250,"height":60},
+		{"type":"text","text":"[[OP Class Pre-requisites]]","id":"5e066cd96ed1618e","x":-145,"y":360,"width":250,"height":60},
+		{"type":"file","file":"Spaces/Brian Carey.md","id":"567a583b4ccd9679","x":-900,"y":-400,"width":300,"height":300}
+	],
+	"edges":[
+		{"id":"aed65cdf8938b00d","fromNode":"29c7f672de30c880","fromSide":"top","toNode":"b25b8ef9796c619d","toSide":"left"},
+		{"id":"bb5f060ecf2cecf7","fromNode":"b25b8ef9796c619d","fromSide":"bottom","toNode":"e3db1c250efd65a8","toSide":"top"},
+		{"id":"f521f2e3d80209b0","fromNode":"e3db1c250efd65a8","fromSide":"bottom","toNode":"1ab1747c5dd41883","toSide":"top"},
+		{"id":"d94c5168ce8c1591","fromNode":"1ab1747c5dd41883","fromSide":"bottom","toNode":"5e066cd96ed1618e","toSide":"top"},
+		{"id":"64a7d389f5de60e7","fromNode":"5e066cd96ed1618e","fromSide":"bottom","toNode":"a6dae4db8d743c91","toSide":"top"},
+		{"id":"e94a34106b8c2ea8","fromNode":"a6dae4db8d743c91","fromSide":"bottom","toNode":"13329334c1dada24","toSide":"top"},
+		{"id":"23cc1cc3de213a12","fromNode":"13329334c1dada24","fromSide":"bottom","toNode":"7fbd95dd808bcb50","toSide":"top"},
+		{"id":"e8295a81549e570c","fromNode":"7fbd95dd808bcb50","fromSide":"bottom","toNode":"4c7b388ff5874ea2","toSide":"top"},
+		{"id":"9301bf0dd0379a78","fromNode":"e3db1c250efd65a8","fromSide":"left","toNode":"a5b00fc321610cca","toSide":"right"},
+		{"id":"767efa7f71b44c67","fromNode":"e3db1c250efd65a8","fromSide":"right","toNode":"05e62fc62347f487","toSide":"left"},
+		{"id":"5b8520f27648a1fb","fromNode":"567a583b4ccd9679","fromSide":"right","toNode":"29c7f672de30c880","toSide":"left"}
+	]
+}

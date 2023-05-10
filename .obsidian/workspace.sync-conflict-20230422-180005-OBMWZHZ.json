@@ -1,0 +1,540 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64a982313651d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d31b24eab445626",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2dadde68786c090a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/2023-04-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2669b73dec08ab89",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Data Visualization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1f0d52ddf552d22d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Probability and Statistics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d66ab1b911adef26",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2f067fa401a0574",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "134402620aa203a5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 80.59273422562141,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#on/Statistics",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#on/Probability",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4909162
+                      }
+                    },
+                    {
+                      "query": "tag:#on/Visualization",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5405920
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 0.7890625,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.223958333333333,
+                  "repelStrength": 7.8125,
+                  "linkStrength": 0.520833333333333,
+                  "linkDistance": 30,
+                  "scale": 0.5168584698559345,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d9d2e6a1c770753b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6092d768a4de5fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eda45eefa34f940",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0758e2c709544eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 19.407265774378583,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4d31b24eab445626",
+  "lastOpenFiles": [
+    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
+    "+ Encounters/Python statistics.md",
+    "Extras/Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Extras/Excalidraw/Saraswati.md",
+    "excalibrain.md",
+    "Sources/Bash Scripting Tutorial.md",
+    "Cards/Should I have an Articles folder under Sources.md",
+    "Cards/It's circular but true, we become what we do.md",
+    "Sources/Latex Tutorial Video.md",
+    "Extras/Excalidraw/Machine Learning.md",
+    "Cards/Financial Data Visualization Widgets.md",
+    "+ Encounters/FCC ml class.md",
+    "Cards/Advanced Slides Attribute Reference.md",
+    "Sources/Date String Formats.md",
+    "Calendar/Weekly Notes/2023-W13.md",
+    "Sources/The LYT Workshop.md",
+    "Sources/Obsidian Zettelkasten Youtube video Kirsanov.md",
+    "Cards/Beginners Guide to Dataview.md",
+    "+ Encounters/JavaScript.md",
+    "Sources/Obsidian Zettelkasten Note Taking.md",
+    "+ Encounters/Education.md",
+    "Cards/The forest entrance.md",
+    "Cards/Guiding Values of PKM.md",
+    "Cards/Idea Emergence (defn).md",
+    "Home.md",
+    "Cards/PKM video series.md",
+    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.svg",
+    "Extras/Canvases/New one.canvas",
+    "Extras/Images/Pasted image 20230420220607.png",
+    "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.svg",
+    "Extras/Images/Pasted image 20230419214311.png",
+    "Extras/Images/Pasted image 20230419213710.png",
+    "Extras/Images/Pasted image 20230419213703.png",
+    "Extras/Images/Pasted image 20230419211006.png",
+    "Extras/Images/Pasted image 20230419210956.png",
+    "Calendar/Daily Notes/Drawings",
+    "Extras/Canvases/Untitled 1.canvas",
+    "Extras/Canvases/Untitled 1.excalidraw.canvas",
+    "Extras/Canvases/Untitled.canvas",
+    "Calendar/Logs/Piano",
+    "Calendar/Logs",
+    "Extras/Excalidraw/Libraries/emojis.excalidrawlib",
+    "emojis.excalidrawlib",
+    "Extras/Excalidraw/Scripts/Downloaded",
+    "Extras/Canvases/Obsidian Proverbs.canvas",
+    "Extras/Excalidraw/Libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
+    "Extras/Excalidraw/Libraries/awesome-icons.excalidrawlib",
+    "Extras/Excalidraw/Libraries/data-viz.excalidrawlib",
+    "Extras/Excalidraw/Libraries/stick-figures.excalidrawlib",
+    "Extras/Canvases/OPCourseIntro.canvas",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Extras/Canvases/What is Obsidian?.canvas",
+    "Obsidian/Test.canvas",
+    "Obsidian/Brian2/Test.canvas"
+  ]
+}

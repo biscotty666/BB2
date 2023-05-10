@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"file","file":"Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md","id":"26bdc326251cf40f","x":-180,"y":-1520,"width":400,"height":400},
+		{"type":"text","text":"PKM: Definition, history","id":"564ef78fe9dd20e6","x":-103,"y":-640,"width":250,"height":80,"color":"4"},
+		{"type":"text","text":"Zettelkasten","id":"26eaf202278e4d66","x":-79,"y":-490,"width":199,"height":60,"color":"4"},
+		{"type":"text","text":"Notes","id":"4c4c9f4377f7f2a0","x":-79,"y":-340,"width":199,"height":60,"color":"4"},
+		{"type":"file","file":"Cards/On the process of note-making.md","id":"2a8da1a252d3d0ef","x":-580,"y":-450,"width":238,"height":280,"color":"4"},
+		{"type":"text","text":"Obsidian","id":"8f511aa87a8fc8b8","x":-103,"y":-230,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Installation and  Basic Use of Obsidian]]","id":"74684696c121719e","x":-104,"y":-120,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Vanilla Linking Your Thinking Vault","id":"af750de13e930afa","x":-103,"y":0,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Making Notes in Obsidian","id":"e2a016d8c17a50dc","x":-103,"y":120,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Daily and Weekly Notes","id":"8a73797dbb7f1aad","x":-104,"y":258,"width":250,"height":60,"color":"2"},
+		{"type":"file","file":"Atlas/Obsidian.md","id":"e239399dd5cb2abc","x":440,"y":-480,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"Atlas/Inbox.md","id":"b2ce35ff61ac8ff2","x":-637,"y":-60,"width":377,"height":285,"color":"2"},
+		{"type":"file","file":"Atlas/Daily Notes.md","id":"541acd7cabadb463","x":440,"y":0,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"Maps of Content","id":"a3b88c4a93dbe9bb","x":-79,"y":400,"width":200,"height":72,"color":"4"},
+		{"type":"file","file":"Atlas/Outbox.md","id":"c240d57f7bce2e1c","x":520,"y":640,"width":400,"height":400},
+		{"type":"file","file":"Atlas/Notebox.md","id":"30dac69e1e6f9ec0","x":-797,"y":720,"width":320,"height":320},
+		{"type":"text","text":"[[What is Obsidian?]]\n","id":"621e8bdd4f441f34","x":-103,"y":-740,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Obsidian & PKM Course Introduction]]","id":"dab9a1b46f4235b0","x":-103,"y":-1060,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"What is Personal Knowledge Management?","id":"2f6dac3644909602","x":-103,"y":-920,"width":250,"height":80,"color":"4"},
+		{"id":"531154482e8e53b2","x":440,"y":-1200,"width":400,"height":400,"type":"file","file":"+ Encounters/Conversation with Eric.md"}
+	],
+	"edges":[
+		{"id":"c51ac3f8e7daf122","fromNode":"621e8bdd4f441f34","fromSide":"top","toNode":"2f6dac3644909602","toSide":"bottom"},
+		{"id":"33881a45b466c899","fromNode":"26eaf202278e4d66","fromSide":"top","toNode":"564ef78fe9dd20e6","toSide":"bottom"},
+		{"id":"c4fce741871aab23","fromNode":"74684696c121719e","fromSide":"top","toNode":"8f511aa87a8fc8b8","toSide":"bottom"},
+		{"id":"9477f1ee624d4b8f","fromNode":"564ef78fe9dd20e6","fromSide":"top","toNode":"621e8bdd4f441f34","toSide":"bottom"},
+		{"id":"4b4217f680da8ac5","fromNode":"4c4c9f4377f7f2a0","fromSide":"top","toNode":"26eaf202278e4d66","toSide":"bottom"},
+		{"id":"1db2d745cbb6be00","fromNode":"e239399dd5cb2abc","fromSide":"left","toNode":"8f511aa87a8fc8b8","toSide":"right"},
+		{"id":"2e65458bcd1fb17a","fromNode":"2a8da1a252d3d0ef","fromSide":"right","toNode":"4c4c9f4377f7f2a0","toSide":"left"},
+		{"id":"2661963f23485f37","fromNode":"8f511aa87a8fc8b8","fromSide":"top","toNode":"4c4c9f4377f7f2a0","toSide":"bottom"},
+		{"id":"29f76129779a8ca0","fromNode":"af750de13e930afa","fromSide":"top","toNode":"74684696c121719e","toSide":"bottom"},
+		{"id":"8ed7b2796e8ec69d","fromNode":"e2a016d8c17a50dc","fromSide":"top","toNode":"af750de13e930afa","toSide":"bottom"},
+		{"id":"3ac9fc06bcd91029","fromNode":"b2ce35ff61ac8ff2","fromSide":"right","toNode":"e2a016d8c17a50dc","toSide":"left"},
+		{"id":"034c2a9f3be923ba","fromNode":"8a73797dbb7f1aad","fromSide":"top","toNode":"e2a016d8c17a50dc","toSide":"bottom"},
+		{"id":"cf139181a8742069","fromNode":"541acd7cabadb463","fromSide":"left","toNode":"8a73797dbb7f1aad","toSide":"right"},
+		{"id":"7b1837ab64291fac","fromNode":"a3b88c4a93dbe9bb","fromSide":"top","toNode":"8a73797dbb7f1aad","toSide":"bottom"},
+		{"id":"e2b52219e94c8294","fromNode":"dab9a1b46f4235b0","fromSide":"top","toNode":"26bdc326251cf40f","toSide":"bottom"},
+		{"id":"4a44f51873dd666e","fromNode":"2f6dac3644909602","fromSide":"top","toNode":"dab9a1b46f4235b0","toSide":"bottom"},
+		{"id":"3c090e6a19dee9ca","fromNode":"531154482e8e53b2","fromSide":"left","toNode":"2f6dac3644909602","toSide":"right"}
+	]
+}

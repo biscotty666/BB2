@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec105dea3adf419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042767b5ee6c8e50",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2023-03-30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}}}"
+                },
+                {
+                  "title": "2023-03-28",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2022/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2023-03-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2f067fa401a0574",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 48.36702954898911,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Calendar/2023-03-30.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5168584698559424,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/2023-03-30.md"
+              }
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 51.63297045101089,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/2023-03-30.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Calendar/2023-03-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "042767b5ee6c8e50",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
+  "lastOpenFiles": [
+    "Obsidian/Tutorial/Tutorial/ideas.md",
+    "Obsidian/Brian2/Cards/Sensemaking happens by triangulation.md",
+    "Obsidian/Brian2/Cards/The truest habit metaphors are additive.md",
+    "Obsidian/Brian2/Sources/+ About Sources.md",
+    "Obsidian/Cards/Idea Emergence (defn).md",
+    "Obsidian/Sources/PH125 Introduction to Data Science.md",
+    "Obsidian/Cards/The truest habit metaphors are additive.md",
+    "Obsidian/Sources/Obsidian Templater.md",
+    "Obsidian/Extras/Images/flow-zone-channel.jpg",
+    "Obsidian/Cards/Words I've used to describe important habits.md",
+    "Obsidian/Cards/Emergence (defn).md",
+    "Obsidian/Brian2/Cards/Lindy Effect.md",
+    "Obsidian/Tutorial/Tutorial/test back.md",
+    "Obsidian/Brian2/Tutorial/Tutorial/Thinking fast and slow/Table of contents.md",
+    "Obsidian/Cards/FlowCreation Theory.md",
+    "Obsidian/Cards/Small Wins foster a Sense of Control.md",
+    "Obsidian/Brian2/Cards/Munger's Mental Models.md",
+    "Obsidian/Sources/The LYT Workshop.md",
+    "Obsidian/Cards/Method of Loci.md",
+    "Obsidian/Cards/In what ways can we form useful relationships between notes.md",
+    "Obsidian/Cards/Meta-Skills for Flowcreation.md",
+    "Obsidian/Brian2/Cards/Seasons.md",
+    "Obsidian/Cards/Flow.md",
+    "Obsidian/Cards/Four Factors of Flow.md",
+    "Obsidian/Brian2/Extras/Images/lyt-logo-04.png",
+    "Obsidian/Brian2/Tutorial/Tutorial/Obsidian basics.md",
+    "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
+    "Obsidian/Brian2/Sources/Svelte & D3 Video.md",
+    "Obsidian/Home.md",
+    "Obsidian/Brian2/Extras/Images/feynman-triangulation-1.png",
+    "Obsidian/Extras/Images/feynman-triangulation-1.png",
+    "Obsidian/Extras/Images/lyt-mode-graphic-1.jpg",
+    "Obsidian/Extras/Images/lyt-kit-example-cooling-pad-.jpg",
+    "Obsidian/Extras/Images/stay-on-target.jpg",
+    "Obsidian/Brian2/Extras/Images/flow-map-original.jpg",
+    "Obsidian/Brian2/Extras/Images/lyt-kit-example-cooling-pad-.jpg",
+    "Obsidian/Brian2/Extras/Images/DSm1RBasics.pdf",
+    "Obsidian/Test.canvas",
+    "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
+    "Obsidian/Brian2/Extras/Images/NLP.pdf",
+    "Obsidian/Brian2/Test.canvas",
+    "Obsidian/Brian2/Extras/Images/DSm1RBasics 1.pdf",
+    "Obsidian/Extras/Images/DSm1RBasics.pdf",
+    "Obsidian/Extras/Images/DSm1RBasics 1.pdf",
+    "Obsidian/Extras/Images/NLP.pdf",
+    "Obsidian/Extras/Images/DSm2Visualization.pdf",
+    "Obsidian/Brian2/Brian2/Extras/Images/DSm1RBasics.pdf",
+    "Obsidian/Brian2/Brian/Attachments/DSm1RBasics.pdf",
+    "Obsidian/Brian2/Brian2/Test.canvas",
+    "Test.canvas",
+    "test.canvas"
+  ]
+}

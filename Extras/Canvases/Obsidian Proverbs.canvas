@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"e36771eba72d58fa","x":-700,"y":920,"width":1305,"height":580,"type":"group","label":"Create notes"},
+		{"id":"dc7bae66ce5199a1","x":-175,"y":-1100,"width":250,"height":60,"color":"1","type":"text","text":"Proverbs in Obsidian\nDataview Example"},
+		{"id":"ab2407b1fda400fa","x":-133,"y":-960,"width":166,"height":180,"color":"5","type":"file","file":"+ Encounters/Youtube suggests something interesting.md"},
+		{"id":"cd2f272a0cc33fc7","x":-330,"y":-700,"width":560,"height":140,"color":"2","type":"text","text":"- Click on the share button\n- Share to Obsidian\n- Paste into a new note with a good name\n- Add a basic template and tag it as a video to watch later"},
+		{"id":"3f0214a9ef96b957","x":-250,"y":-480,"width":400,"height":220,"color":"4","type":"file","file":"Cards/Chinese Proverbs.md"},
+		{"id":"6aff17d4f9a2900e","x":-355,"y":300,"width":610,"height":120,"color":"5","type":"text","text":"Consider what information you are interested in and make a basic template for the Proverbs. You can always add new fields later if you decide to capture other information later."},
+		{"id":"9789b6b48f326bc8","x":-250,"y":500,"width":400,"height":180,"color":"4","type":"file","file":"Extras/Templates/Proverb Note.md"},
+		{"id":"1f267c293434ff59","x":-250,"y":720,"width":400,"height":60,"color":"2","type":"text","text":"Start making notes from your list."},
+		{"id":"9a065d89c76c14df","x":-565,"y":2140,"width":1040,"height":620,"type":"file","file":"Atlas/Proverbs.md"},
+		{"id":"c4e20549fb0d5c99","x":-530,"y":-180,"width":400,"height":80,"color":"2","type":"text","text":"Make a list of proverbs from the video whcih I’d like to record a remember."},
+		{"id":"2fa7ecbeb60f13e1","x":-530,"y":-40,"width":400,"height":280,"color":"4","type":"file","file":"+ Encounters/List of Proverbs.md"},
+		{"id":"7869ec79b6c56785","x":0,"y":-180,"width":355,"height":80,"color":"2","type":"text","text":"Create a task."},
+		{"id":"55f25b005b1fc0cf","x":20,"y":-40,"width":420,"height":280,"type":"file","file":"Calendar/Daily Notes/Notes/2023-04/2023-04-15.md"},
+		{"id":"c2073b06d75b4b99","x":-170,"y":2820,"width":250,"height":60,"color":"2","type":"text","text":"Mark task as done"},
+		{"type":"file","file":"Calendar/Daily Notes/Notes/2023-04/2023-04-15.md","id":"064550d5d52e7e73","x":-255,"y":2980,"width":420,"height":280},
+		{"id":"805b4018c3758bf8","x":-680,"y":980,"width":400,"height":320,"color":"4","type":"file","file":"Cards/Warfare and Deception.md"},
+		{"id":"19691634c0a373c3","x":-210,"y":980,"width":330,"height":460,"color":"4","type":"file","file":"Cards/Moment of patience.md"},
+		{"id":"4cedbc3511495897","x":230,"y":980,"width":360,"height":320,"color":"4","type":"file","file":"Cards/The best cosmetic.md"}
+	],
+	"edges":[
+		{"id":"8114696f1bc43831","fromNode":"ab2407b1fda400fa","fromSide":"bottom","toNode":"cd2f272a0cc33fc7","toSide":"top"},
+		{"id":"0e50576852c18364","fromNode":"cd2f272a0cc33fc7","fromSide":"bottom","toNode":"3f0214a9ef96b957","toSide":"top"},
+		{"id":"f891ef10bb83fa8f","fromNode":"3f0214a9ef96b957","fromSide":"bottom","toNode":"c4e20549fb0d5c99","toSide":"top"},
+		{"id":"56b6dcb801b21346","fromNode":"c4e20549fb0d5c99","fromSide":"bottom","toNode":"2fa7ecbeb60f13e1","toSide":"top"},
+		{"id":"b2ab2c5356b2d4cc","fromNode":"2fa7ecbeb60f13e1","fromSide":"bottom","toNode":"6aff17d4f9a2900e","toSide":"top"},
+		{"id":"86916e93adae9e93","fromNode":"6aff17d4f9a2900e","fromSide":"bottom","toNode":"9789b6b48f326bc8","toSide":"top"},
+		{"id":"b71fb6fe4ad746e1","fromNode":"9789b6b48f326bc8","fromSide":"bottom","toNode":"1f267c293434ff59","toSide":"top"},
+		{"id":"a4eec02b025e5b90","fromNode":"1f267c293434ff59","fromSide":"bottom","toNode":"19691634c0a373c3","toSide":"top"},
+		{"id":"c324cd24fff1bfb6","fromNode":"1f267c293434ff59","fromSide":"bottom","toNode":"4cedbc3511495897","toSide":"top"},
+		{"id":"b00f8fd3e9009d4b","fromNode":"1f267c293434ff59","fromSide":"bottom","toNode":"805b4018c3758bf8","toSide":"top"},
+		{"id":"95b5bcddbb9e0750","fromNode":"3f0214a9ef96b957","fromSide":"bottom","toNode":"7869ec79b6c56785","toSide":"top"},
+		{"id":"e79f6456dfd01636","fromNode":"7869ec79b6c56785","fromSide":"bottom","toNode":"55f25b005b1fc0cf","toSide":"top"},
+		{"id":"7c5e6ccbd093a599","fromNode":"c2073b06d75b4b99","fromSide":"bottom","toNode":"064550d5d52e7e73","toSide":"top"},
+		{"id":"73fd0bb8dfc90f8c","fromNode":"9a065d89c76c14df","fromSide":"bottom","toNode":"c2073b06d75b4b99","toSide":"top"},
+		{"id":"ca3db577d1db6bb0","fromNode":"c2073b06d75b4b99","fromSide":"bottom","toNode":"55f25b005b1fc0cf","toSide":"bottom"}
+	]
+}

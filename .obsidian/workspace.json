@@ -1,0 +1,685 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64a982313651d96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfff6f5b177a792",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gamma distribution 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Gamma distribution 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":57},\"to\":{\"line\":15,\"ch\":57}},\"scroll\":0}"
+                },
+                {
+                  "title": "Gamma distribution",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Gamma distribution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "65bd100d09a6e4d5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-05-10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-05-10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Drawing 2023-05-09 23.37.56.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md\"}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4f968800778d2bfa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/ObsPKMClass/Intro to PKM.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Intro Obsidian PKM Outline",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a03ec79882bb7083",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ef5f7e2ee8db1873",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8408695ae6597c50",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc90fdebde435190",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Advanced Slides Blocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Blocks.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":23},\"to\":{\"line\":28,\"ch\":54}}}"
+                },
+                {
+                  "title": "Advanced Slides Themes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Themes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Advanced Slides Frontmatter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Frontmatter.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.149891439205955}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Advanced Slides Themes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "e80d0d6922bf8e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4ba9a49211e0d8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "qq pl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2f067fa401a0574",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "134402620aa203a5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "61f4306fa543a4e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 80.80614203454894,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#on/Statistics",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#on/Probability",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4909162
+                      }
+                    },
+                    {
+                      "query": "tag:#on/Visualization",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5405920
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 0.7890625,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.223958333333333,
+                  "repelStrength": 7.8125,
+                  "linkStrength": 0.520833333333333,
+                  "linkDistance": 30,
+                  "scale": 0.4530456641200585,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+              }
+            }
+          },
+          {
+            "id": "d9d2e6a1c770753b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6092d768a4de5fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eda45eefa34f940",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0758e2c709544eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 19.193857965451055,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "dddbab8b18fd423a",
+  "lastOpenFiles": [
+    "index.html",
+    "dist/reset.css",
+    "css/layout.css",
+    "css/mattropolis.css",
+    "css/vs2015.css",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "plugin/chalkboard/img/whiteboard.png",
+    "plugin/chalkboard/img/sponge.png",
+    "plugin/chalkboard/img/chalk-yellow.png",
+    "plugin/chalkboard/img/chalk-white.png",
+    "plugin/chalkboard/img/chalk-red.png",
+    "plugin/chalkboard/img/chalk-purple.png",
+    "plugin/chalkboard/img/chalk-orange.png",
+    "plugin/chalkboard/img/chalk-green.png",
+    "plugin/chalkboard/img/chalk-blue.png",
+    "plugin/chalkboard/img/boardmarker-yellow.png",
+    "plugin/menu/README.md",
+    "plugin/menu/CONTRIBUTING.md",
+    "plugin/chart/README.md",
+    "plugin/customcontrols/README.md",
+    "plugin/chalkboard/README.md",
+    "Extras/Slides/Personal Knowledge Management/plugin/chalkboard/README.md",
+    "Extras/Slides/Personal Knowledge Management/plugin/chart/README.md",
+    "Extras/Slides/Personal Knowledge Management/plugin/customcontrols/README.md",
+    "Extras/Slides/Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
+    "Extras/Slides/Personal Knowledge Management/plugin/menu/README.md",
+    "Personal Knowledge Management/plugin/chalkboard/README.md",
+    "Personal Knowledge Management/plugin/chart/README.md",
+    "Personal Knowledge Management/plugin/customcontrols/README.md",
+    "Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
+    "Personal Knowledge Management/plugin/menu/README.md",
+    "Cards/Advanced Slides Themes.md",
+    "Cards/Advanced Slides Blocks.md",
+    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+    "Spaces/ObsPKMClass/Intro to PKM.md",
+    "Cards/Advanced Slides Frontmatter.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
+    "+ Encounters/Walk today.sync-conflict-20230510-123855-BBO7X7A.md",
+    "+ Encounters/Walk today.md",
+    "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md",
+    "Extras/Canvases/New one.canvas",
+    "Extras/Canvases/Untitled 1.canvas",
+    "Extras/Canvases/Untitled 1.excalidraw.canvas",
+    "Extras/Canvases/Untitled.canvas",
+    "Extras/Canvases/Obsidian Proverbs.canvas",
+    "Extras/Canvases/OPCourseIntro.canvas",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Extras/Canvases/What is Obsidian?.canvas",
+    "Obsidian/Test.canvas",
+    "Obsidian/Brian2/Test.canvas"
+  ]
+}
