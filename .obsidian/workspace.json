@@ -159,33 +159,9 @@
               },
               "pinned": true
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "145cb796d894e99f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16684fd1deeddb57",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           },
           {
-            "id": "93b95953db431fa3",
+            "id": "04d09beb454b92ea",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -199,15 +175,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cards/Walk-2023-05-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qq pl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -314,7 +289,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -364,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -430,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Calendar/Daily Notes/Notes/2023-05-10.md"
               }
             }
           },
@@ -525,7 +501,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -551,7 +527,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -584,11 +560,16 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "93b95953db431fa3",
+  "active": "7dfff6f5b177a792",
   "lastOpenFiles": [
+    "Cards/Walk-2023-05-10.md",
+    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221811-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-10.md",
     "Spaces/ObsPKMClass/Personal Knowledge Management.md",
-    "README.md.md",
+    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
     "README.md",
+    "Extras/Slides/Personal.md",
+    "README.md.md",
     "Extras/Slides/Personal Knowledge Management/index.html",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
     "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
@@ -627,11 +608,6 @@
     "Personal Knowledge Management/plugin/customcontrols/README.md",
     "Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
     "Personal Knowledge Management/plugin/menu/README.md",
-    "Cards/Advanced Slides Themes.md",
-    "Cards/Advanced Slides Blocks.md",
-    "Cards/Advanced Slides Frontmatter.md",
-    "+ Encounters/Walk today.sync-conflict-20230510-123855-BBO7X7A.md",
-    "+ Encounters/Walk today.md",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

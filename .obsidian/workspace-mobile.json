@@ -121,8 +121,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
-                    "mode": "preview",
+                    "file": "README.md",
+                    "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
@@ -213,7 +213,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -242,7 +242,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+            "file": "README.md"
           }
         }
       },
@@ -285,6 +285,10 @@
   },
   "active": "f07513ee7487f218",
   "lastOpenFiles": [
+    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
+    "Extras/Slides/Personal.md",
+    "README.md",
+    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
     "Spaces/ObsPKMClass/Intro to PKM.md",
     "Calendar/Daily Notes/Notes/2023-05-10.md",
@@ -307,10 +311,6 @@
     "Cards/Ride-20230503.md",
     "+ Encounters/New ride.md",
     "Cards/A load of Python related cheat sheets.md",
-    "Cards/Probability Cheatsheet.md",
-    "+ Encounters/GitHub actions.md",
-    "Calendar/Daily Notes/Notes/2023-05-05.md",
-    "+ Encounters/Today's walk.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

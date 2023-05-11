@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "2023-05-10",
+      "path": "Calendar/Daily Notes/Notes/2023-05-10.md"
+    },
+    {
+      "basename": "Walk-2023-05-10",
+      "path": "Cards/Walk-2023-05-10.md"
     },
     {
       "basename": "Personal Knowledge Management",
       "path": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Intro Obsidian PKM Outline",
@@ -35,10 +43,6 @@
     {
       "basename": "2023-05-10.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md"
-    },
-    {
-      "basename": "2023-05-10",
-      "path": "Calendar/Daily Notes/Notes/2023-05-10.md"
     },
     {
       "basename": "Slides1",
@@ -195,10 +199,6 @@
     {
       "basename": "Lvm with btrfs",
       "path": "Cards/Lvm with btrfs.md"
-    },
-    {
-      "basename": "Nginx deep dive video",
-      "path": "Cards/Nginx deep dive video.md"
     }
   ],
   "omittedPaths": [],

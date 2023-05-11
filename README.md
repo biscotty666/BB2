@@ -2,7 +2,6 @@
 
 Howdy.
 
-[Presentation](Extras/Slides/Personal Knowledge Management/index.html)
+[Obsidian and PKM Part 1](Extras/Slides/Personal Knowledge Management/index.html)
 
-[Presentation]("Extras/Slides/Personal Knowledge Management/index.html")
 
