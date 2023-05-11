@@ -183,8 +183,31 @@
               "type": "reveal-preview-view",
               "state": {}
             }
+          },
+          {
+            "id": "93b95953db431fa3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,7 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -407,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+                "file": "README.md"
               }
             }
           },
@@ -502,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -528,7 +551,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -561,11 +584,11 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "16684fd1deeddb57",
+  "active": "93b95953db431fa3",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "README.md.md",
     "README.md",
-    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "Extras/Slides/Personal Knowledge Management/index.html",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
     "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
