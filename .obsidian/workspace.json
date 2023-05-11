@@ -159,9 +159,33 @@
               },
               "pinned": true
             }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "145cb796d894e99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16684fd1deeddb57",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           },
           {
-            "id": "8408695ae6597c50",
+            "id": "c751f34f810f3ad6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -175,7 +199,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -340,6 +364,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -404,7 +429,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md.md"
+              }
             }
           },
           {
@@ -498,6 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -523,6 +551,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -555,10 +584,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "c751f34f810f3ad6",
   "lastOpenFiles": [
     "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+    "README.md.md",
+    "Extras/Slides/Personal Knowledge Management/index.html",
+    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
     "index.html",
+    "Spaces/ObsPKMClass/Intro to PKM.md",
     "dist/reset.css",
     "css/layout.css",
     "css/mattropolis.css",
@@ -567,7 +601,6 @@
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
     "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
     "plugin/chalkboard/img/whiteboard.png",
     "plugin/chalkboard/img/sponge.png",
     "plugin/chalkboard/img/chalk-yellow.png",
@@ -595,10 +628,7 @@
     "Personal Knowledge Management/plugin/menu/README.md",
     "Cards/Advanced Slides Themes.md",
     "Cards/Advanced Slides Blocks.md",
-    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
-    "Spaces/ObsPKMClass/Intro to PKM.md",
     "Cards/Advanced Slides Frontmatter.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
     "+ Encounters/Walk today.sync-conflict-20230510-123855-BBO7X7A.md",
     "+ Encounters/Walk today.md",
     "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md",

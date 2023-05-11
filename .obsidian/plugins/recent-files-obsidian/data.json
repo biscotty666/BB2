@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "README.md",
+      "path": "README.md.md"
+    },
+    {
       "basename": "Personal Knowledge Management",
       "path": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "Intro Obsidian PKM Outline",
+      "path": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md"
+    },
+    {
+      "basename": "Obsidian PKM Class Map",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Class Map.md"
+    },
+    {
+      "basename": "Intro to PKM",
+      "path": "Spaces/ObsPKMClass/Intro to PKM.md"
     },
     {
       "basename": "Advanced Slides Themes",
@@ -13,20 +29,8 @@
       "path": "Cards/Advanced Slides Blocks.md"
     },
     {
-      "basename": "Intro Obsidian PKM Outline",
-      "path": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md"
-    },
-    {
-      "basename": "Intro to PKM",
-      "path": "Spaces/ObsPKMClass/Intro to PKM.md"
-    },
-    {
       "basename": "Advanced Slides Frontmatter",
       "path": "Cards/Advanced Slides Frontmatter.md"
-    },
-    {
-      "basename": "Obsidian PKM Class Map",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Class Map.md"
     },
     {
       "basename": "2023-05-10.excalidraw",
