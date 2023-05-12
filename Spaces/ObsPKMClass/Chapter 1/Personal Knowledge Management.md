@@ -10,7 +10,9 @@ transition: slide
 
 ### Personal Knowledge Management
 
-### Essentials <!--element style="margin-top: 1em" -->
+### Essentials <!--element style="margin: 1em" -->
+
+Chapter 1:  Basic concepts of PKM and usage of Obsidian.
 
 ---
 
@@ -21,7 +23,7 @@ transition: slide
 1. [[Personal Knowledge Management]] <!-- element class="fragment" -->
 2. Installing Obsidian and making your first note <!-- element class="fragment" -->
 3. Basics of markdown <!-- element class="fragment" -->
-4. Navigation/UI <!-- element class="fragment" -->
+4. Navigating Obsidian <!-- element class="fragment" -->
 
 note:
 In the first part (this presentation) we start with an explanation of the concept of PKM
@@ -134,7 +136,7 @@ This is a good time to think about how this note relates to other notes in your 
 - All notes are plain text <!-- element class="fragment" style="margin-top: 1em;" -->
 - Notes are stored locally on your computer <!-- element class="fragment" -->
 - Any directory can be opened "as a vault" in Obsidian <!-- element class="fragment" -->
-- Baking up and copying notes or vaults are simple file operations <!-- element class="fragment" -->
+- Backing up and copying notes or vaults are simple file operations <!-- element class="fragment" -->
 - Storage for life <!-- element class="fragment" -->
 
 note:
@@ -152,7 +154,7 @@ Here we really leverage the power of obsidian. We will spend time later going th
 
 Nothing gets lost! <!-- element class="fragment" style="color: red;" -->
 note:
-
+The more atomic your notes, the easier it is!
 
 ---
 
@@ -178,7 +180,9 @@ note:
 
 - As your vault grows the number of related notes grow.  <!-- element class="fragment" style="margin-top: 1em;" -->
 - These inter-connected notes become a neural network <!-- element class="fragment" -->
+- Out of the network new relationships emerge <!-- element class="fragment" -->
 - Gain insights and new ideas <!-- element class="fragment" -->
+- And when you reach "critical mass" with an idea...create something! <!-- element class="fragment" -->
 
 note:
 
@@ -195,6 +199,19 @@ Over time the network will have so many connections notes that patterns and rela
 ### Next steps
 
 Let's install Obsidian and make some notes!
+
+---
+
+### Installing Obsidian
+
+Obsidian is available for Linux, Mac and Windows
+
+![[Pasted image 20230512155444.png]]
+
+
+---
+
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video>
 
 ---
 

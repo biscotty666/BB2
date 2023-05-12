@@ -5,8 +5,28 @@
       "path": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
     },
     {
+      "basename": "Advanced Slides",
+      "path": "Cards/Advanced Slides.md"
+    },
+    {
+      "basename": "Advanced Slides Embeds",
+      "path": "Cards/Advanced Slides Embeds.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Cards/Probability and Statistics.md"
+    },
+    {
       "basename": "Obsidian PKM Essentials Outline",
       "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "2023-05-12",
+      "path": "Calendar/Daily Notes/Notes/2023-05-12.md"
+    },
+    {
+      "basename": "2023-05-12.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-12.excalidraw.md"
     },
     {
       "basename": "Obsidian installation and first note",
@@ -35,14 +55,6 @@
     {
       "basename": "SkeletonUI",
       "path": "Cards/SkeletonUI.md"
-    },
-    {
-      "basename": "2023-05-12",
-      "path": "Calendar/Daily Notes/Notes/2023-05-12.md"
-    },
-    {
-      "basename": "2023-05-12.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-05-12.excalidraw.md"
     },
     {
       "basename": "excalibrain",
@@ -187,18 +199,6 @@
     {
       "basename": "Data Science",
       "path": "Atlas/Data Science.md"
-    },
-    {
-      "basename": "Data Visualization",
-      "path": "Atlas/Data Visualization.md"
-    },
-    {
-      "basename": "Efforts",
-      "path": "Atlas/Efforts.md"
-    },
-    {
-      "basename": "Forecasting",
-      "path": "Atlas/Forecasting.md"
     }
   ],
   "omittedPaths": [],
