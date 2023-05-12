@@ -8,103 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dfff6f5b177a792",
+            "id": "d1e2ef8232849aaa",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Gamma distribution 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Gamma distribution 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":57},\"to\":{\"line\":15,\"ch\":57}},\"scroll\":0}"
-                },
-                {
-                  "title": "Gamma distribution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Gamma distribution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "65bd100d09a6e4d5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2023-05-10",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-05-10.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Drawing 2023-05-09 23.37.56.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md"
               },
               "pinned": true
             }
           },
           {
-            "id": "4f968800778d2bfa",
+            "id": "c3609b6df06a0e20",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/ObsPKMClass/Intro to PKM.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Intro Obsidian PKM Outline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,22 +35,13 @@
             }
           },
           {
-            "id": "a03ec79882bb7083",
+            "id": "8619661e2a3f5a41",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+                "file": "Cards/Probability and Statistics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,22 +50,13 @@
             }
           },
           {
-            "id": "ef5f7e2ee8db1873",
+            "id": "a52e6c79b51f7b32",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+                "file": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -161,28 +65,48 @@
             }
           },
           {
-            "id": "04d09beb454b92ea",
+            "id": "e779f8e614a94825",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Walk-2023-05-10.md",
+                "file": "Spaces/ObsPKMClass/Chapter 1/1.1 Personal Knowledge Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1ba4198306acc2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61a175e27da4beb",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "928cfd018273c882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,15 +122,6 @@
           {
             "id": "dddbab8b18fd423a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -217,19 +132,10 @@
           {
             "id": "77966b04a7f238ed",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sample average",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -241,15 +147,6 @@
           {
             "id": "f2f067fa401a0574",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "recent-files",
               "state": {}
@@ -258,15 +155,6 @@
           {
             "id": "134402620aa203a5",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "starred",
               "state": {}
@@ -275,22 +163,12 @@
           {
             "id": "61f4306fa543a4e1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,15 +186,6 @@
           {
             "id": "4f6e4ddebde66a86",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -328,19 +197,10 @@
           {
             "id": "4fd5ddab0d74cf4f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -394,34 +254,16 @@
           {
             "id": "90d026528dc7103b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-10.md"
+                "file": "README.md"
               }
             }
           },
           {
             "id": "d9d2e6a1c770753b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -430,15 +272,6 @@
           {
             "id": "a6092d768a4de5fb",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "empty",
               "state": {}
@@ -447,34 +280,8 @@
           {
             "id": "4eda45eefa34f940",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d0758e2c709544eb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
               "state": {}
             }
           }
@@ -489,19 +296,10 @@
           {
             "id": "d535bd36dbc98e0b",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -515,19 +313,10 @@
           {
             "id": "ae0aed29d208c352",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -553,61 +342,59 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7dfff6f5b177a792",
+  "active": "928cfd018273c882",
   "lastOpenFiles": [
-    "Cards/Walk-2023-05-10.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221811-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.md",
-    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
-    "README.md",
-    "Extras/Slides/Personal.md",
-    "README.md.md",
-    "Extras/Slides/Personal Knowledge Management/index.html",
-    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+    "Spaces/ObsPKMClass/Chapter 1/1.1 Personal Knowledge Management.md",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/README.md",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/_style.css",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/blackboard.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-black.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-blue.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-green.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-orange.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-purple.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-red.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/boardmarker-yellow.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/chalk-blue.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img/chalk-green.png",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/style.css",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/plugin.js",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/plugin (copy).js",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard/img",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chalkboard",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chart/plugin.js",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chart/chart.min.js",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chart/README.md",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/chart",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/customcontrols/style.css",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/customcontrols/README.md",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
+    "Extras/Slides/1.1 Personal Knowledge Management/plugin/menu/README.md",
+    "Cards/Advanced Slides CSS.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
-    "index.html",
-    "Spaces/ObsPKMClass/Intro to PKM.md",
-    "dist/reset.css",
-    "css/layout.css",
-    "css/mattropolis.css",
-    "css/vs2015.css",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "plugin/chalkboard/img/whiteboard.png",
-    "plugin/chalkboard/img/sponge.png",
-    "plugin/chalkboard/img/chalk-yellow.png",
-    "plugin/chalkboard/img/chalk-white.png",
-    "plugin/chalkboard/img/chalk-red.png",
-    "plugin/chalkboard/img/chalk-purple.png",
-    "plugin/chalkboard/img/chalk-orange.png",
-    "plugin/chalkboard/img/chalk-green.png",
-    "plugin/chalkboard/img/chalk-blue.png",
-    "plugin/chalkboard/img/boardmarker-yellow.png",
-    "plugin/menu/README.md",
-    "plugin/menu/CONTRIBUTING.md",
-    "plugin/chart/README.md",
-    "plugin/customcontrols/README.md",
-    "plugin/chalkboard/README.md",
-    "Extras/Slides/Personal Knowledge Management/plugin/chalkboard/README.md",
-    "Extras/Slides/Personal Knowledge Management/plugin/chart/README.md",
-    "Extras/Slides/Personal Knowledge Management/plugin/customcontrols/README.md",
-    "Extras/Slides/Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
-    "Extras/Slides/Personal Knowledge Management/plugin/menu/README.md",
-    "Personal Knowledge Management/plugin/chalkboard/README.md",
-    "Personal Knowledge Management/plugin/chart/README.md",
-    "Personal Knowledge Management/plugin/customcontrols/README.md",
-    "Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
-    "Personal Knowledge Management/plugin/menu/README.md",
+    "Spaces/+ About Spaces.md",
+    "excalibrain.md",
+    "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md",
+    "Atlas/Obsidian.md",
+    "+ Encounters/+ About Encounters.md",
+    "+ Encounters/Advanced Slides Doc Walkthrough.md",
+    "+ Encounters/Another Svelte project.md",
+    "+ Encounters/Bakery Customers.md",
+    "+ Encounters/Bernalillo movies in the park.md",
+    "+ Encounters/Demo.md.md",
+    "+ Encounters/Emoji Shortcode Reference.md",
+    "+ Encounters/Fedora Nvidia.md",
+    "+ Encounters/Fedora install.md",
+    "+ Encounters/Gangsta Rap, Narco Bolero and Blues.md",
+    "+ Encounters/GitHub actions.md",
+    "+ Encounters/GitHub credential configuration.md",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

@@ -21,7 +21,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Walk today.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -63,7 +62,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Walk today.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -103,33 +101,19 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b6293369f8e9d3f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/Walk today.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "f07513ee7487f218",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "+ Encounters/SkeletonUI.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -213,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "+ Encounters/SkeletonUI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -230,7 +214,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "+ Encounters/SkeletonUI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -242,7 +226,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "+ Encounters/SkeletonUI.md"
           }
         }
       },
@@ -251,14 +235,6 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "24654a0891009537",
-        "type": "leaf",
-        "state": {
-          "type": "BC-matrix",
           "state": {}
         }
       }
@@ -279,16 +255,22 @@
       "command-palette:Open command palette": false,
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f07513ee7487f218",
   "lastOpenFiles": [
+    "+ Encounters/Svelte Pagination.md",
+    "+ Encounters/SkeletonUI.md",
+    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
+    "+ Encounters/Ride-20230511.md",
+    "+ Encounters/Btrfs backup snapshots.md",
+    "Calendar/Daily Notes/Notes/2023-05-11.md",
+    "README.md",
+    "Cards/Walk-2023-05-10.md",
+    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221811-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
     "Extras/Slides/Personal.md",
-    "README.md",
-    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
     "Spaces/ObsPKMClass/Intro to PKM.md",
     "Calendar/Daily Notes/Notes/2023-05-10.md",
@@ -304,13 +286,6 @@
     "Atlas/Reading and video list.md",
     "+ Encounters/Record sales.md",
     "Calendar/Daily Notes/Notes/2023-05-08.md",
-    "Calendar/Daily Notes/Notes/2023-05-03.md",
-    "+ Encounters/Daily Ride a.md",
-    "+ Encounters/Ride-20230508.md",
-    "+ Encounters/Leg Cramps Study.md",
-    "Cards/Ride-20230503.md",
-    "+ Encounters/New ride.md",
-    "Cards/A load of Python related cheat sheets.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

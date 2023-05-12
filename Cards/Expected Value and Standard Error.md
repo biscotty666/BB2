@@ -6,10 +6,10 @@ X:: [[Expected Value Roulette]] [[Expected value of discrete variables]]
 
 The mean of [[Random variables]] is called the __expected value__. The standard deviation is called the __standard error__.
 
-The expected value is denoted $E[X]$  where $X$ is a random variable. With two possible outcomes $a$ and $b$ and probabilities $p$ and $(1-p)$, the _average_ is:
+The expected value is denoted $E[X]$  where $\bar{X}$ is a random variable. With two possible outcomes $a$ and $b$ and probabilities $p$ and $(1-p)$, the _average_ is:
 
 $$
-\mbox{E}[X] = ap + b(1-p)
+\mbox{E}[\bar{X}] = ap + b(1-p)
 $$
 
 So the expected value is
@@ -26,7 +26,7 @@ $$\sqrt{\text{number of draws}}\times \text{standard deviation of numbers in urn
 So 
 
 $$
-SE_{\text{sum}}=\mid b - a \mid \sqrt{p(1-p)}.
+SE(\bar{X})=\mid b - a \mid \sqrt{p(1-p)}.
 $$
 
 The sampling distribution of the mean refers to the distribution of the means of repeated randomly generated samples ([[Random variables]]). The sampling distribution itself has a mean and variance (SE). The larger the sample size the closer SE is to SD.

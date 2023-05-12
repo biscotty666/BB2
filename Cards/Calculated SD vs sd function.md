@@ -27,7 +27,7 @@ m;s
 ## [1] 4.08
 ```
 
-The `sd()` function uses a slightly different function which estimates the standard deviation based on random samples. So instead of observations, $x$, we use samples, $X$. The actual mean, $\mu$, is substituted by the sample mean, $\hat{X}$. The sum is divided by $N-1$ instead of $n$. For large values of $N$ the difference is negligible so it can be used instead of the actual calcuculation above if $N$ is large.
+The `sd()` function uses a slightly different function which estimates the standard deviation based on random samples. So instead of observations, $x$, we use samples, $X$. The actual mean, $\mu$, is substituted by the sample mean, $\hat{X}$. The sum is divided by $N-1$ instead of $n$. For large values of $N$ the difference is negligible so it can be used instead of the actual calculation above if $N$ is large.
 
 $$
 \bar{X} = \frac{1}{N} \sum_{i=1}^N X_i

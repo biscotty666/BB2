@@ -163,7 +163,12 @@
     "Extras/Excalidraw/2023-04-17 2023-04-17 08.56.11.excalidraw.md",
     "Atlas/Data Science.md",
     "Atlas/Probability and Statistics.md",
-    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
+    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
+    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+    "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md",
+    "Intro to PKM",
+    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
@@ -173,5 +178,6 @@
   "ontologySuggesterMidSentenceTrigger": "[",
   "boldFields": false,
   "allowAutozoom": true,
-  "allowAutofocuOnSearch": true
+  "allowAutofocuOnSearch": true,
+  "defaultAlwaysOnTop": false
 }
