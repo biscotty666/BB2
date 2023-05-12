@@ -164,11 +164,12 @@
     "Atlas/Data Science.md",
     "Atlas/Probability and Statistics.md",
     "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
-    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
     "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md",
     "Intro to PKM",
     "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md"
+    "Spaces/ObsPKMClass/Obsidian PKM Class Map.md",
+    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+    "Install Obsidian"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -1,6 +1,6 @@
 up:: [[Svelte]]
 tags:: #on/Svelte  #to/watch
-Priority:: 2
+Priority:: 1
 
 ## SvelteKit Course
 
@@ -8,7 +8,9 @@ Priority:: 2
 
 To remove the semicolons for prettier add `"semi": false` to `.prettierrc`
 
+Notice the scripts that can be run in package.json such as "format" to format (prettify) all files.
 
+[[Svelte Readme]]
 
 ---
 ### References

@@ -4,10 +4,39 @@ progress: true
 transition: slide
 ---
 
+### Obsidian
+
+&
+
 ### Personal Knowledge Management
 
+### Essentials <!--element style="margin-top: 1em" -->
+
+---
+
+### Obsidian and PKM Essentials
+
+#### In this chapter we will cover: <!--element style="margin: 1em" -->
+
+1. [[Personal Knowledge Management]] <!-- element class="fragment" -->
+2. Installing Obsidian and making your first note <!-- element class="fragment" -->
+3. Basics of markdown <!-- element class="fragment" -->
+4. Navigation/UI <!-- element class="fragment" -->
+
+note:
+In the first part (this presentation) we start with an explanation of the concept of PKM
+
+In the second part, with videos and screenshots, we will go through the process of installing Obsidian and writing a simple note
+
+Since markdown is the format in which you make notes, we will go through the basics of markdown. This may be a video as well
+
+Finally we will spend some time learning how to navigate Obsidian. This will likely be primarily video as well
+
+---
+
+### Personal Knowledge Management
 > [!tip] Wikipedia
-> Personal knowledge management (PKM) is a process of collecting information that a person uses to __gather, classify, store, search, retrieve and share__ knowledge in their daily activities and the way in which these processes support work activities. It is a response to the idea that knowledge workers need to be responsible for their own growth and learning. It is a bottom-up approach to knowledge management.
+> Personal knowledge management (PKM) is a process of collecting information that a person uses to __gather, classify, store, search, retrieve and share__ knowledge in their daily activities and the way in which these processes support work activities... It is a bottom-up approach to knowledge management.
 <!-- element style="width:95%"-->
 
 ---
@@ -21,7 +50,11 @@ People have many methods for note-taking:  <!-- element align="left" -->
 - Index Cards <!-- element class="fragment" -->
 - Computers <!-- element class="fragment" -->
 
-__But...__ <!-- element class="fragment" style="color:red;"-->
+---
+
+### The traditional approach  
+
+__But...__ <!-- element style="color:red; margin-top:10px;""-->
 
 How do you find the information again? How long does it take? <!-- element class="fragment" -->
 
@@ -52,18 +85,19 @@ Let's look at the way Personal Knowledge Management, in conjunction with Obsidia
 
 ### And add one more
 
-## Discover new relationships <!-- element class="fragment" style="color: red;" -->
+## Discover new relationships <!-- element class="fragment" style="color: red; margin-top:1em;" -->
 
 ---
 
 ### Gather
-#### Two main sources of information <!-- element class="fragment"  -->
-1. Media (books, articles, videos, etc.) <!-- element class="fragment" -->
+#### Two main sources of information <!-- element class="fragment" style="margin-top: 1em;"  -->
+1. Media (books, articles, videos, etc.) <!-- element class="fragment"  style="margin-top: 1em;"-->
 2. Your brain! <!-- element class="fragment" -->
 
 #### Note-taking techniques:  <!-- element class="fragment" style="margin-top: 1.5em;"-->
-1. Atomic notes <!-- element class="fragment" -->
+1. Atomic notes <!-- element class="fragment" style="margin-top: 1em;" -->
 2. Fleeting notes <!-- element class="fragment" -->
+3. Maps of content <!-- element class="fragment" -->
 
 note:
 
@@ -71,13 +105,17 @@ There are two main sources of information: media like books and video that you c
 
 For books and video we rely on a particular system of note taking which focuses on atomic notes. We will cover this a lot more later but the general idea is that notes should be stored as small complete and independent pieces of information, like index cards.
 
-For your own thoughts and ideas obsidian allows you to quickly jot things down as they occur to you, to which you can then go back later and ponder, _develop_, classify, or delete.
+Fleeting notes: For your own thoughts and ideas obsidian allows you to quickly jot things down as they occur to you, to which you can then go back later and ponder, _develop_, classify, or delete.
+
+Atomic notes: Discussing the concept of atomic notes and why they are important. Mention index cards and  __Zettlekasten__.
+
+Maps of content: Organizing and distilling your notes
 
 ---
 
 ### Classify
 
-- Review your note to ensure clarity <!-- element class="fragment" -->
+- Review your note to ensure clarity <!-- element class="fragment" style="margin-top: 1em;" -->
 - Relate the note to at least one other note <!-- element class="fragment" -->
 - Tag the note to describe it's nature and/or content <!-- element class="fragment" -->
 
@@ -93,31 +131,40 @@ This is a good time to think about how this note relates to other notes in your 
 
 ### Store
 
-- All notes are plain text <!-- element class="fragment" -->
+- All notes are plain text <!-- element class="fragment" style="margin-top: 1em;" -->
 - Notes are stored locally on your computer <!-- element class="fragment" -->
+- Any directory can be opened "as a vault" in Obsidian <!-- element class="fragment" -->
+- Baking up and copying notes or vaults are simple file operations <!-- element class="fragment" -->
 - Storage for life <!-- element class="fragment" -->
 
 note:
 
-Obsidian stores all of your notes in plain text files on your computer. Which means all of your information is yours and will always be accessible no matter what happens with Obsidian itself. So this is storage for life.
+Obsidian stores all of your notes in plain text files on your computer. Which means all of your information is yours and will always be accessible no matter what happens with Obsidian itself. So this is storage for life. And since they are just text files in directories and __any directory can be opened as a vault__. 
 
 ---
 
 ### Search and retrieve
 
-leverage he power of obsidian. We will spend time later going through all of the ways you can quickly:
+Here we really leverage the power of obsidian. We will spend time later going through all of the ways you can quickly:
 
 1. Find specific information you are looking for <!-- element class="fragment" -->
-2. Assemble all of your information on any given topic <!-- element class="fragment" -->
+2. Gather all of your information on any given topic <!-- element class="fragment" -->
+
+Nothing gets lost! <!-- element class="fragment" style="color: red;" -->
+note:
+
 
 ---
 
 ### Share
 
 There are many ways you can share information from your vault.
-- Send a copy of notes, directories or your entire vault  <!-- element class="fragment" -->
+- Send someone a copy of files, directories or your entire vault directory  <!-- element class="fragment" -->
 - Keep a copy of your vault in cloud storage or GitHub <!-- element class="fragment" -->
-- Make videos, write articles... create something! <!-- element class="fragment" -->
+
+And most important: <!-- element class="fragment" -->
+- Create something! <!-- element class="fragment" -->
+- Write an article, make a video, create drawings and images... <!-- element class="fragment" -->
 
 note:
 
@@ -129,10 +176,9 @@ note:
 
 ### Discovery of relationships
 
-- As your vault grows the number of related notes grow.  <!-- element class="fragment" -->
+- As your vault grows the number of related notes grow.  <!-- element class="fragment" style="margin-top: 1em;" -->
 - These inter-connected notes become a neural network <!-- element class="fragment" -->
 - Gain insights and new ideas <!-- element class="fragment" -->
-- Produce something new <!-- element class="fragment" -->
 
 note:
 
@@ -154,7 +200,7 @@ Let's install Obsidian and make some notes!
 
 up:: [[Obsidian PKM Essentials Outline]]
 prev:: [[Obsidian PKM Essentials Introduction]]
-next:: [[Install Obsidian]]
+next:: [[Obsidian installation and first note]]
 
 
 

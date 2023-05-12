@@ -106,7 +106,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/SkeletonUI.md",
+                    "file": "+ Encounters/Obsidian installation and first note.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -185,7 +185,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -197,7 +198,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/SkeletonUI.md",
+            "file": "+ Encounters/Obsidian installation and first note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,7 +215,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/SkeletonUI.md",
+            "file": "+ Encounters/Obsidian installation and first note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -226,7 +227,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/SkeletonUI.md"
+            "file": "+ Encounters/Obsidian installation and first note.md"
           }
         }
       },
@@ -243,7 +244,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "workspaces:Manage workspace layouts": false,
@@ -260,6 +260,11 @@
   },
   "active": "f07513ee7487f218",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md",
+    "+ Encounters/Obsidian installation and first note.md",
+    "+ Encounters/Install Obsidian.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "+ Encounters/Svelte Pagination.md",
     "+ Encounters/SkeletonUI.md",
     "Spaces/ObsPKMClass/Personal Knowledge Management.md",
@@ -281,11 +286,6 @@
     "Calendar/Daily Notes/Notes/2023-05-09.md",
     "+ Encounters/Svelte forms.md",
     "+ Encounters/Daily ride.md",
-    "Cards/Probability distribution of random variables.md",
-    "Cards/Sveltekit short course.md",
-    "Atlas/Reading and video list.md",
-    "+ Encounters/Record sales.md",
-    "Calendar/Daily Notes/Notes/2023-05-08.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

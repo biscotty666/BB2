@@ -6,10 +6,9 @@ tag:: #map #output/class
 
 1. Introduction to Obsidian
 	1. [[Personal Knowledge Management]]
-	2. Installation (screenshots)
-	3. Making your first note (screenshots)
-	4. Basics of markdown
-	5. Navigation/UI
+	2. Installing Obsidian and making your first note
+	3. Basics of markdown
+	4. Navigation/UI
 2. Concepts 
 	1. Approaches to note-taking 
 	2. Fleeting notes

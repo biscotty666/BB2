@@ -5,12 +5,68 @@
       "path": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
     },
     {
+      "basename": "Obsidian PKM Essentials Outline",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "Obsidian installation and first note",
+      "path": "+ Encounters/Obsidian installation and first note.md"
+    },
+    {
+      "basename": "Svelte Readme",
+      "path": "+ Encounters/Svelte Readme.md"
+    },
+    {
+      "basename": "SvelteKit Course",
+      "path": "Cards/SvelteKit Course.md"
+    },
+    {
+      "basename": "SvelteKit from Scratch",
+      "path": "Cards/SvelteKit from Scratch.md"
+    },
+    {
+      "basename": "Reading and video list",
+      "path": "Atlas/Reading and video list.md"
+    },
+    {
+      "basename": "Svelte forms",
+      "path": "Cards/Svelte forms.md"
+    },
+    {
+      "basename": "SkeletonUI",
+      "path": "Cards/SkeletonUI.md"
+    },
+    {
+      "basename": "2023-05-12",
+      "path": "Calendar/Daily Notes/Notes/2023-05-12.md"
+    },
+    {
+      "basename": "2023-05-12.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-12.excalidraw.md"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Personal",
+      "path": "Extras/Slides/Personal.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Obsidian PKM Essentials Outline",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+      "basename": "2023-05-11.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-11",
+      "path": "Calendar/Daily Notes/Notes/2023-05-11.md"
+    },
+    {
+      "basename": "Ride-20230511",
+      "path": "Cards/Ride-20230511.md"
     },
     {
       "basename": "1.1",
@@ -27,10 +83,6 @@
     {
       "basename": "+ About Spaces",
       "path": "Spaces/+ About Spaces.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
     },
     {
       "basename": "+ About Encounters",
@@ -147,50 +199,6 @@
     {
       "basename": "Forecasting",
       "path": "Atlas/Forecasting.md"
-    },
-    {
-      "basename": "Health",
-      "path": "Atlas/Health.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Atlas/Inbox.md"
-    },
-    {
-      "basename": "Laptop Log",
-      "path": "Atlas/Laptop Log.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Atlas/Latex.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Atlas/Linux.md"
-    },
-    {
-      "basename": "Mythology",
-      "path": "Atlas/Mythology.md"
-    },
-    {
-      "basename": "Notebox",
-      "path": "Atlas/Notebox.md"
-    },
-    {
-      "basename": "Obsidian Slides Plugin",
-      "path": "Atlas/Obsidian Slides Plugin.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Atlas/Obsidian.md"
-    },
-    {
-      "basename": "Outbox",
-      "path": "Atlas/Outbox.md"
-    },
-    {
-      "basename": "PKM",
-      "path": "Atlas/PKM.md"
     }
   ],
   "omittedPaths": [],

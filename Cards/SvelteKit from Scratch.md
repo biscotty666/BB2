@@ -60,7 +60,7 @@ export default config
 `src/app.html`
 
 ```
-%3Chead%3E
+<head>
 	%sveltekit.head%
 </head>
 <body>
@@ -69,11 +69,12 @@ export default config
 ```
 
 `src/routes/+page.svelte`
+
 ```
 <h1>Jello World</h1>
 ```
 
-`pnpm run dev`>)
+`pnpm run dev`
 
 ---
 ### References
