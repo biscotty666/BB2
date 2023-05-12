@@ -19,7 +19,7 @@ html * {
   --r-main-font-size: 40px;
   --r-main-color: #93a1a1;
   --r-block-margin: 20px;
-  --r-heading-margin: 0 0 30px 0;
+  --r-heading-margin: 0 0 0px 0;
   --r-heading-font:
     Roboto,
     Impact,
