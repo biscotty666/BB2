@@ -5,7 +5,7 @@ tag:: #map #output/class
 ---
 
 1. Introduction to Obsidian
-	1. [[1.1 Personal Knowledge Management]]
+	1. [[Personal Knowledge Management]]
 	2. Installation (screenshots)
 	3. Making your first note (screenshots)
 	4. Basics of markdown

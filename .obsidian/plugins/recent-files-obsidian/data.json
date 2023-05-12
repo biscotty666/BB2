@@ -5,8 +5,16 @@
       "path": "README.md"
     },
     {
-      "basename": "1.1 Personal Knowledge Management",
-      "path": "Spaces/ObsPKMClass/Chapter 1/1.1 Personal Knowledge Management.md"
+      "basename": "Obsidian PKM Essentials Outline",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "Personal Knowledge Management",
+      "path": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "1.1",
+      "path": "\"Extras/Slides/1.1.md"
     },
     {
       "basename": "Advanced Slides CSS",
@@ -15,10 +23,6 @@
     {
       "basename": "Obsidian PKM Essentials Introduction",
       "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md"
-    },
-    {
-      "basename": "Obsidian PKM Essentials Outline",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
     },
     {
       "basename": "+ About Spaces",
@@ -187,18 +191,6 @@
     {
       "basename": "PKM",
       "path": "Atlas/PKM.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Atlas/Programming.md"
-    },
-    {
-      "basename": "Proverbs",
-      "path": "Atlas/Proverbs.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Atlas/Python.md"
     }
   ],
   "omittedPaths": [],

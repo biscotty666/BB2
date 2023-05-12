@@ -32,7 +32,7 @@ Personal Knowledge Management ^vHrRCLMv
 
 [[Obsidian PKM Essentials Outline]] ^s2cuPUFx
 
-[[1.1 Personal Knowledge Management]] ^Jz3TdJnD
+[[Personal Knowledge Management]] ^Jz3TdJnD
 
 %%
 # Drawing
