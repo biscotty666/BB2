@@ -4,7 +4,7 @@ tag:: #map #output/class
 
 ---
 
-1. Introduction to Obsidian
+1. Introduction to Obsidian and PKM
 	1. [[Personal Knowledge Management]]
 	2. Installing Obsidian and making your first note
 	3. Basics of markdown

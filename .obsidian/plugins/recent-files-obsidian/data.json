@@ -5,6 +5,26 @@
       "path": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
     },
     {
+      "basename": "Obsidian PKM Essentials Outline",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "Common Audio-Video Format-Containers",
+      "path": "+ Encounters/Common Audio-Video Format-Containers.md"
+    },
+    {
+      "basename": "Video Terminology",
+      "path": "+ Encounters/Video Terminology.md"
+    },
+    {
+      "basename": "Advanced Slides CSS",
+      "path": "Cards/Advanced Slides CSS.md"
+    },
+    {
+      "basename": "External Markdown",
+      "path": "Cards/External Markdown.md"
+    },
+    {
       "basename": "Advanced Slides",
       "path": "Cards/Advanced Slides.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Probability and Statistics",
       "path": "Cards/Probability and Statistics.md"
-    },
-    {
-      "basename": "Obsidian PKM Essentials Outline",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
     },
     {
       "basename": "2023-05-12",
@@ -79,14 +95,6 @@
     {
       "basename": "Ride-20230511",
       "path": "Cards/Ride-20230511.md"
-    },
-    {
-      "basename": "1.1",
-      "path": "\"Extras/Slides/1.1.md"
-    },
-    {
-      "basename": "Advanced Slides CSS",
-      "path": "Cards/Advanced Slides CSS.md"
     },
     {
       "basename": "Obsidian PKM Essentials Introduction",
@@ -187,18 +195,6 @@
     {
       "basename": "BC Skill Areas",
       "path": "Atlas/BC Skill Areas.md"
-    },
-    {
-      "basename": "Box and Whiskers Plot",
-      "path": "Atlas/Box and Whiskers Plot.md"
-    },
-    {
-      "basename": "Daily Notes",
-      "path": "Atlas/Daily Notes.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
     }
   ],
   "omittedPaths": [],

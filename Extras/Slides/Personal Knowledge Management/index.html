@@ -94,20 +94,27 @@
 
 ### Personal Knowledge Management
 
-### Essentials <!-- .element: style="margin: 1em" -->
+#### Essentials <!-- .element: style="margin: 1em" -->
 
-Chapter 1:  Basic concepts of PKM and usage of Obsidian.
-</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+1. Introduction to Obsidian and PKM <!-- .element: style="color: red" -->
+2. PKM Concepts
+3. Notes in Obsidian
+4. Video walk-throughs
+</div>
+
+<aside class="notes"><p>Course welcome and introduction.</p>
+<p>The four parts.</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
 ### Obsidian and PKM Essentials
 
 #### In this chapter we will cover: <!-- .element: style="margin: 1em" -->
 
-1. Personal Knowledge Management <!-- .element: class="fragment" -->
-2. Installing Obsidian and making your first note <!-- .element: class="fragment" -->
-3. Basics of markdown <!-- .element: class="fragment" -->
-4. Navigating Obsidian <!-- .element: class="fragment" -->
+1. Intro to PKM <!-- .element: class="fragment" -->
+2. Installing Obsidian and making your first note <!-- .element: style="margin-top: 0.5em" class="fragment" -->
+3. Basics of markdown <!-- .element: style="margin-top: 0.5em" class="fragment" -->
+4. Navigating Obsidian <!-- .element: style="margin-top: 0.5em" class="fragment" -->
 </div>
 
 <aside class="notes"><p>In the first part (this presentation) we start with an explanation of the concept of PKM</p>
@@ -295,7 +302,124 @@ Obsidian is available for Linux, Mac and Windows
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video>
+#### Installing Obsidian <!-- .element: style="margin-bottom: 0em" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video> <!-- .element: style="margin-top: 0em" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Introduction to Markdown <!-- .element: style="margin-bottom: 0.5em" -->
+
+- Headers 
+- Emphasis  <!-- .element: class="fragment" -->
+- Lists <!-- .element: class="fragment" -->
+- Links <!-- .element: class="fragment" -->
+- Blockquotes <!-- .element: class="fragment" -->
+- Images, footnotes, codeblocks,  etc. <!-- .element: class="fragment" -->
+
+For now let's just look at the first four... <!-- .element: style="margin-top: 1em" class="fragment" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Headers <!-- .element: style="margin-bottom: 1em" -->
+
+Create sections in your notes
+
+- A line which starts with one or more # symbols (up to 6) followed by a space<!-- .element: style="margin-bottom: 0.5em" class="fragment" -->
+- Provides formatting <!-- .element: style="margin-bottom: 0.5em" class="fragment" -->
+- And hierarchical structure <!-- .element: style="margin-bottom: 0.5em" class="fragment" -->
+- Generates "folds" which can be used to hide parts of notes <!-- .element: style="margin-bottom: 0.5em" class="fragment" -->
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Emphasis <!-- .element: style="margin-bottom: 1em" -->
+
+Wrap text in delimiters <!-- .element: style="margin-bottom: 1em" -->
+
+| Effect          |                Use                 |
+|:--------------- |:----------------------------------:|
+| Bold/Strong     |              __ or **              |
+| Italic/Emphasis |              _ or **               |
+| Combined        | Use both asterisks and underscores |
+| Strike-through  |                 ~~                 |
+|                 |                                    |
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Lists <!-- .element: style="margin-bottom: 1em" -->
+
+Create numbered and bullet point lists  <!-- .element: style="margin-bottom: 1em" -->
+
+| List type               |      Start a line with       |
+|:----------------------- |:----------------------------:|
+| Unordered/bullet points |         \*, +, or -          |
+| Ordered/numbered        | a digit followed by a period |
+|                         |                              |
+
+To create sub-lists/nested lists press the tab key to indent a list item
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Links <!-- .element: style="margin-bottom: 1em" -->
+Simply typing a url automatically creates a link:
+- https://obsidian.md
+
+Show a description instead of the url: <!-- .element: style="margin-top: 0.5em" -->
+
+	```
+	[Obsidian](https://obsidian.md)
+	```
+	
+Produces: [Obsidian](https://obsidian.md)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Links <!-- .element: style="margin-bottom: 1em" -->
+You can also link to other notes in your vault this way, but you really don't want to 😉. We will soon learn about "backlinks"
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Blockquotes <!-- .element: style="margin-bottom: 1em" -->
+
+You can start a line with > to begin a blockquote.
+
+```
+>This is an example
+>of a blockquote.
+>I will make it long enough that you can see the full effect in ths slide.
+```
+
+Produces:
+
+>This is an example
+>of a blockquote
+>I will make it long enough that you can see the full effect.
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Miscellaneous Markdown <!-- .element: style="margin-bottom: 1em" -->
+
+- Use a blank line to indicate a new paragraph
+- A horizontal line can be created with three dashes
+- You can use most html tags in markdown documents
+- You can also use markdown for images, tables, footnotes, even YouTube videos
+
+You can look these up at [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+#### Obsidian Walkthrough 
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4" type="video/mp4"></video>
+</div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
+<div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
+
+### Up next <!-- .element: style="margin: 1em" -->
+
+1. Introduction to Obsidian and PKM
+2. PKM Concepts  <!-- .element: style="color: red" -->
+3. Notes in Obsidian
+4. Video walk-throughs
+<br ></br>
+This presentation can be downloaded from [my GitHub repository](https://github.com/biscotty666/BB2).
 </div></script></section><section  data-markdown><script type="text/template"><!-- .slide: class="drop" -->
 <div class="" style="position: absolute; left: 0px; top: 0px; height: 700px; width: 960px; min-height: 700px; display: flex; flex-direction: column; align-items: center; justify-content: center" absolute="true">
 

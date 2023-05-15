@@ -10,9 +10,17 @@ transition: slide
 
 ### Personal Knowledge Management
 
-### Essentials <!--element style="margin: 1em" -->
+#### Essentials <!--element style="margin: 1em" -->
 
-Chapter 1:  Basic concepts of PKM and usage of Obsidian.
+1. Introduction to Obsidian and PKM <!-- element style="color: red;" -->
+2. PKM Concepts
+3. Notes in Obsidian
+4. Video walk-throughs
+
+note:
+Course welcome and introduction.
+
+The four parts.
 
 ---
 
@@ -20,10 +28,10 @@ Chapter 1:  Basic concepts of PKM and usage of Obsidian.
 
 #### In this chapter we will cover: <!--element style="margin: 1em" -->
 
-1. [[Personal Knowledge Management]] <!-- element class="fragment" -->
-2. Installing Obsidian and making your first note <!-- element class="fragment" -->
-3. Basics of markdown <!-- element class="fragment" -->
-4. Navigating Obsidian <!-- element class="fragment" -->
+1. [[Personal Knowledge Management|Intro to PKM]] <!-- element class="fragment" -->
+2. Installing Obsidian and making your first note <!-- element class="fragment" style="margin-top: 0.5em;" -->
+3. Basics of markdown <!-- element class="fragment" style="margin-top: 0.5em;" -->
+4. Navigating Obsidian <!-- element class="fragment" style="margin-top: 0.5em;" -->
 
 note:
 In the first part (this presentation) we start with an explanation of the concept of PKM
@@ -211,7 +219,124 @@ Obsidian is available for Linux, Mac and Windows
 
 ---
 
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video>
+#### Installing Obsidian <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
+### Introduction to Markdown <!-- element style="margin-bottom: 0.5em;" -->
+
+- Headers 
+- Emphasis  <!-- element class="fragment" -->
+- Lists <!-- element class="fragment" -->
+- Links <!-- element class="fragment" -->
+- Blockquotes <!-- element class="fragment" -->
+- Images, footnotes, codeblocks,  etc. <!-- element class="fragment" -->
+
+For now let's just look at the first four... <!-- element class="fragment"  style="margin-top: 1em;" -->
+
+---
+
+### Headers <!-- element style="margin-bottom: 1em;" -->
+
+Create sections in your notes
+
+- A line which starts with one or more # symbols (up to 6) followed by a space<!-- element class="fragment" style="margin-bottom: 0.5em;" -->
+- Provides formatting <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- And hierarchical structure <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Generates "folds" which can be used to hide parts of notes <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+
+---
+
+### Emphasis <!-- element style="margin-bottom: 1em;" -->
+
+Wrap text in delimiters <!-- element style="margin-bottom: 1em;" -->
+
+| Effect          |                Use                 |
+|:--------------- |:----------------------------------:|
+| Bold/Strong     |              __ or **              |
+| Italic/Emphasis |              _ or **               |
+| Combined        | Use both asterisks and underscores |
+| Strike-through  |                 ~~                 |
+|                 |                                    |
+
+---
+
+### Lists <!-- element style="margin-bottom: 1em;" -->
+
+Create numbered and bullet point lists  <!-- element style="margin-bottom: 1em;" -->
+
+| List type               |      Start a line with       |
+|:----------------------- |:----------------------------:|
+| Unordered/bullet points |         \*, +, or -          |
+| Ordered/numbered        | a digit followed by a period |
+|                         |                              |
+
+To create sub-lists/nested lists press the tab key to indent a list item
+
+---
+
+### Links <!-- element style="margin-bottom: 1em;" -->
+Simply typing a url automatically creates a link:
+- https://obsidian.md
+
+Show a description instead of the url: <!-- element style="margin-top: 0.5em;" -->
+
+	```
+	[Obsidian](https://obsidian.md)
+	```
+	
+Produces: [Obsidian](https://obsidian.md)
+
+---
+
+### Links <!-- element style="margin-bottom: 1em;" -->
+You can also link to other notes in your vault this way, but you really don't want to 😉. We will soon learn about "backlinks"
+
+---
+
+### Blockquotes <!-- element style="margin-bottom: 1em;" -->
+
+You can start a line with > to begin a blockquote.
+
+```
+>This is an example
+>of a blockquote.
+>I will make it long enough that you can see the full effect in ths slide.
+```
+
+Produces:
+
+>This is an example
+>of a blockquote
+>I will make it long enough that you can see the full effect.
+
+---
+
+### Miscellaneous Markdown <!-- element style="margin-bottom: 1em;" -->
+
+- Use a blank line to indicate a new paragraph
+- A horizontal line can be created with three dashes
+- You can use most html tags in markdown documents
+- You can also use markdown for images, tables, footnotes, even YouTube videos
+
+You can look these up at [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+
+---
+
+#### Obsidian Walkthrough 
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4" type="video/mp4"></video>
+
+---
+
+### Up next <!--element style="margin: 1em" -->
+
+1. Introduction to Obsidian and PKM
+2. PKM Concepts  <!-- element style="color: red;" -->
+3. Notes in Obsidian
+4. Video walk-throughs
+<br />
+This presentation can be downloaded from [my GitHub repository](https://github.com/biscotty666/BB2).
 
 ---
 
