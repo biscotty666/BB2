@@ -296,6 +296,11 @@ To create sub-lists/nested lists press the tab key to indent a list item
 
 ---
 
+#### Lists <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Lists.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
 ### Links <!-- element style="margin-bottom: 1em;" -->
 Simply typing a url automatically creates a link:
 - https://obsidian.md
