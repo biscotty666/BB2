@@ -367,7 +367,7 @@ Examples:
 ---
 
 #### Tags <!-- element style="margin-bottom: 0em;" -->
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Lists.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Tags.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
 
 ---
 
