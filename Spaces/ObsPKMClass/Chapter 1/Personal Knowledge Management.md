@@ -241,9 +241,8 @@ Obsidian is available for Linux, Mac and Windows
 - Lists <!-- element class="fragment" -->
 - Links <!-- element class="fragment" -->
 - Blockquotes <!-- element class="fragment" -->
+- Tags <!-- element class="fragment" -->
 - Images, footnotes, codeblocks,  etc. <!-- element class="fragment" -->
-
-For now let's just look at the first four... <!-- element class="fragment"  style="margin-top: 1em;" -->
 
 ---
 
@@ -315,6 +314,11 @@ Produces: [Obsidian](https://obsidian.md)
 
 ---
 
+#### Links <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Links.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
 ### Links <!-- element style="margin-bottom: 1em;" -->
 You can also link to other notes in your vault this way, but you really don't want to 😉. We will soon learn about "backlinks"
 
@@ -338,6 +342,54 @@ Produces:
 
 ---
 
+### Tags <!-- element style="margin-bottom: 1em;" -->
+
+Tags are flexible and can be used to identify:
+
+- Type <!-- element class="fragment" style="margin-bottom: 0.5em;" -->
+- Topic <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Source <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Action <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+
+note:
+
+Examples:
+
+|        |                Tags                |
+|:------ |:----------------------------------:|
+| Type   | #note/moc #note/reference#note/new |
+| Topic  |        #on/Obsidian#on/PKM         |
+| Source | #source/presentation#source/Brian  |
+| Action |    #to/watch #to/read#to/review    |
+
+
+
+---
+
+#### Tags <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Lists.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
+### Backlinks <!-- element style="margin-bottom: 1em;" -->
+
+The glue that ties all you notes together
+- Make links between notes <!-- element style="margin-bottom: 0.5em;" -->
+- Give aliases to your links <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Display the contents of one note in another note <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Used in maps of content  <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+- Can be used anywhere <!-- element class="fragment"  style="margin-bottom: 0.5em;" -->
+
+note:
+
+
+---
+
+#### Backlinks <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Backlinks.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
 ### Miscellaneous Markdown <!-- element style="margin-bottom: 1em;" -->
 
 - Use a blank line to indicate a new paragraph
@@ -349,7 +401,12 @@ You can look these up at [Markdown Cheat Sheet | Markdown Guide](https://www.mar
 
 ---
 
-#### Obsidian Walkthrough 
+#### Sidebars revisited 
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4" type="video/mp4"></video>
+
+---
+
+#### Bonus images!
 <video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4" type="video/mp4"></video>
 
 ---

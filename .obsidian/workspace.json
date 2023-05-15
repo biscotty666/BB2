@@ -18,7 +18,7 @@
                 "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 220.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -292,8 +292,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "43d25e73fa768277",
+  "active": "69393e0470d48f67",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Resources/Backlinks.mp4",
+    "Spaces/ObsPKMClass/Resources/Links.mp4",
     "Extras/Slides/Personal Knowledge Management/Extras/Images/Pasted image 20230512155444.png",
     "Extras/Slides/Personal Knowledge Management/Extras/Images",
     "Extras/Slides/Personal Knowledge Management/Extras",
@@ -315,7 +317,6 @@
     "+ Encounters/Walk-2023-05-11.md",
     "Cards/External Markdown.md",
     "Spaces/ObsPKMClass/Resources/HelloWorld.mp4",
-    "Extras/Images/2023-05-12 17-10-56.mkv",
     "Cards/Advanced Slides.md",
     "Cards/Advanced Slides Embeds.md",
     "Cards/Probability and Statistics.md",
