@@ -229,6 +229,11 @@ Obsidian is available for Linux, Mac and Windows
 
 ---
 
+#### Shortcuts <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Shortcuts.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
 ### Introduction to Markdown <!-- element style="margin-bottom: 0.5em;" -->
 
 - Headers 
@@ -253,6 +258,11 @@ Create sections in your notes
 
 ---
 
+#### Headers <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Headers.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+
+---
+
 ### Emphasis <!-- element style="margin-bottom: 1em;" -->
 
 Wrap text in delimiters <!-- element style="margin-bottom: 1em;" -->
@@ -264,6 +274,11 @@ Wrap text in delimiters <!-- element style="margin-bottom: 1em;" -->
 | Combined        | Use both asterisks and underscores |
 | Strike-through  |                 ~~                 |
 |                 |                                    |
+
+---
+
+#### Emphasis <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Emphasis.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
 
 ---
 
