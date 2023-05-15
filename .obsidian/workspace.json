@@ -6,7 +6,7 @@
       {
         "id": "c54652fae99d5a2d",
         "type": "tabs",
-        "dimension": 53.2608695652174,
+        "dimension": 58.98692810457516,
         "children": [
           {
             "id": "69393e0470d48f67",
@@ -39,12 +39,12 @@
         ]
       },
       {
-        "id": "ab259a4dc64c5f7d",
+        "id": "bcec6377f983664e",
         "type": "tabs",
-        "dimension": 46.73913043478261,
+        "dimension": 41.01307189542484,
         "children": [
           {
-            "id": "399a8d2e1a6edecc",
+            "id": "43d25e73fa768277",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -293,8 +292,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69393e0470d48f67",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
     "Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4",
     "+ Encounters/Ride-20230514.md",
     "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
@@ -340,7 +340,6 @@
     "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/style.css",
     "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/plugin.js",
     "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/plugin (copy).js",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
