@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -294,6 +295,8 @@
   },
   "active": "69393e0470d48f67",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Resources/Images.mp4",
+    "Spaces/ObsPKMClass/Resources/Sidebars.mp4",
     "Spaces/ObsPKMClass/Resources/Tags.mp4",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4",
     "Spaces/ObsPKMClass/Resources/Links.mp4",
@@ -304,8 +307,6 @@
     "Spaces/ObsPKMClass/Resources/Emphasis.mp4",
     "Spaces/ObsPKMClass/Resources/Headers.mp4",
     "Spaces/ObsPKMClass/Resources/Shortcuts.mp4",
-    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
-    "Spaces/ObsPKMClass/Resources/OBSPKM1br72.mp4",
     "+ Encounters/Ride-20230514.md",
     "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
     "+ Encounters/Ride-20230513.md",
