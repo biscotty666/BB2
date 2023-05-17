@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Chapter 2",
+      "path": "+ Encounters/Chapter 2.md"
+    },
+    {
+      "basename": "+ About Sources",
+      "path": "Sources/+ About Sources.md"
+    },
+    {
+      "basename": "2023-05-16",
+      "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
+    },
+    {
+      "basename": "Walk-20230516",
+      "path": "Cards/Walk-20230516.md"
+    },
+    {
+      "basename": "Walk",
+      "path": "Extras/Templates/Walk.md"
+    },
+    {
+      "basename": "Ride",
+      "path": "Extras/Templates/Ride.md"
+    },
+    {
+      "basename": "2023-05-11",
+      "path": "Calendar/Daily Notes/Notes/2023-05-11.md"
+    },
+    {
+      "basename": "2023-05-15",
+      "path": "Calendar/Daily Notes/Notes/2023-05-15.md"
+    },
+    {
+      "basename": "2023-05-14",
+      "path": "Calendar/Daily Notes/Notes/2023-05-14.md"
+    },
+    {
+      "basename": "Ride-20230514",
+      "path": "Cards/Ride-20230514.md"
+    },
+    {
+      "basename": "2023-05-13",
+      "path": "Calendar/Daily Notes/Notes/2023-05-13.md"
+    },
+    {
+      "basename": "Palette loader",
+      "path": "Excalidraw/Scripts/Downloaded/Palette loader.md"
+    },
+    {
+      "basename": "Obsidia Logo",
+      "path": "Extras/Images/Obsidia Logo.png"
+    },
+    {
       "basename": "Personal Knowledge Management",
-      "path": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
+      "path": "Spaces/ObsPKMClass/Chapters/Personal Knowledge Management.md"
     },
     {
       "basename": "Obsidian PKM Essentials Outline",
@@ -89,10 +141,6 @@
       "path": "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md"
     },
     {
-      "basename": "2023-05-11",
-      "path": "Calendar/Daily Notes/Notes/2023-05-11.md"
-    },
-    {
       "basename": "Ride-20230511",
       "path": "Cards/Ride-20230511.md"
     },
@@ -151,50 +199,6 @@
     {
       "basename": "GitHub credential configuration",
       "path": "+ Encounters/GitHub credential configuration.md"
-    },
-    {
-      "basename": "Hestia",
-      "path": "+ Encounters/Hestia.md"
-    },
-    {
-      "basename": "History does not repeat",
-      "path": "+ Encounters/History does not repeat.md"
-    },
-    {
-      "basename": "Leg Cramps Study",
-      "path": "+ Encounters/Leg Cramps Study.md"
-    },
-    {
-      "basename": "Record sales",
-      "path": "+ Encounters/Record sales.md"
-    },
-    {
-      "basename": "Saraswati",
-      "path": "+ Encounters/Saraswati.md"
-    },
-    {
-      "basename": "Spinning obsidian logo",
-      "path": "+ Encounters/Spinning obsidian logo.md"
-    },
-    {
-      "basename": "Spread",
-      "path": "+ Encounters/Spread.md"
-    },
-    {
-      "basename": "Writeup Syncthing experience",
-      "path": "+ Encounters/Writeup Syncthing experience.md"
-    },
-    {
-      "basename": "Btrfs backup snapshots",
-      "path": "+ Encounters/Btrfs backup snapshots.md"
-    },
-    {
-      "basename": "Sample average",
-      "path": "+ Encounters/Sample average.md"
-    },
-    {
-      "basename": "BC Skill Areas",
-      "path": "Atlas/BC Skill Areas.md"
     }
   ],
   "omittedPaths": [],

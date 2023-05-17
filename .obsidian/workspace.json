@@ -6,16 +6,15 @@
       {
         "id": "c54652fae99d5a2d",
         "type": "tabs",
-        "dimension": 58.98692810457516,
         "children": [
           {
-            "id": "69393e0470d48f67",
+            "id": "b59d5a69a3cde104",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+                "file": "+ Encounters/Chapter 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,27 +23,28 @@
             }
           },
           {
-            "id": "b59d5a69a3cde104",
+            "id": "bd71caf9b343fda0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "bcec6377f983664e",
+        "id": "e6657f5c7b1e627b",
         "type": "tabs",
-        "dimension": 41.01307189542484,
         "children": [
           {
-            "id": "43d25e73fa768277",
+            "id": "68239cf5dbed795d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index.html",
+                "query": "color palette",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+                "file": "+ Encounters/Chapter 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md"
+                "file": "+ Encounters/Chapter 2.md"
               }
             }
           },
@@ -232,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+                "file": "+ Encounters/Chapter 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
+                "file": "+ Encounters/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,54 +292,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69393e0470d48f67",
+  "active": "b59d5a69a3cde104",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Resources/Images.mp4",
-    "Spaces/ObsPKMClass/Resources/Sidebars.mp4",
-    "Spaces/ObsPKMClass/Resources/Tags.mp4",
-    "Spaces/ObsPKMClass/Resources/Backlinks.mp4",
-    "Spaces/ObsPKMClass/Resources/Links.mp4",
-    "Extras/Slides/Personal Knowledge Management/Extras/Images/Pasted image 20230512155444.png",
-    "Extras/Slides/Personal Knowledge Management/Extras/Images",
-    "Extras/Slides/Personal Knowledge Management/Extras",
-    "Spaces/ObsPKMClass/Resources/Lists.mp4",
-    "Spaces/ObsPKMClass/Resources/Emphasis.mp4",
-    "Spaces/ObsPKMClass/Resources/Headers.mp4",
-    "Spaces/ObsPKMClass/Resources/Shortcuts.mp4",
-    "+ Encounters/Ride-20230514.md",
-    "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
+    "Sources/+ About Sources.md",
+    "+ Encounters/Chapter 2.md",
+    "Extras/Images/Pasted image 20230516232314.jpg",
+    "Extras/Images/Pasted image 20230516232109.jpg",
+    "Calendar/Daily Notes/Notes/2023-05-16.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175353-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175313-OBMWZHZ.md",
+    "Cards/Walk-20230516.md",
+    "Extras/Templates/Walk.md",
+    "Extras/Templates/Ride.md",
+    "Extras/Templates/Ride.sync-conflict-20230516-174703-OBMWZHZ.md",
+    "Extras/Templates/Ride.sync-conflict-20230516-174623-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-11.md",
+    "Calendar/Daily Notes/Notes/2023-05-15.md",
+    "Calendar/Daily Notes/Notes/2023-05-14.md",
+    "Cards/Ride-20230514.md",
     "+ Encounters/Ride-20230513.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
-    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
-    "+ Encounters/Common Audio-Video Format-Containers.md",
-    "+ Encounters/Video Terminology.md",
-    "+ Encounters/Untitled.md",
-    "Cards/Advanced Slides CSS.md",
-    "+ Encounters/Walk-2023-05-11.md",
-    "Cards/External Markdown.md",
-    "Cards/Advanced Slides.md",
-    "Cards/Advanced Slides Embeds.md",
-    "Cards/Probability and Statistics.md",
-    "Calendar/Daily Notes/Notes/2023-05-12.md",
-    "Calendar/Daily Notes/Drawings/2023-05-12.excalidraw.md",
-    "+ Encounters/Obsidian installation and first note.md",
-    "Extras/Images/Pasted image 20230512155444.png",
-    "Extras/Images/Pasted image 20230512154854.png",
-    "+ Encounters/Install Obsidian.md",
-    "+ Encounters/Svelte Readme.md",
-    "Cards/SvelteKit Course.md",
-    "Cards/SvelteKit from Scratch.md",
-    "Atlas/Reading and video list.md",
-    "Cards/Svelte forms.md",
-    "Cards/SkeletonUI.md",
-    "excalibrain.md",
-    "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.svg",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/img/blackboard.png",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/img/boardmarker-black.png",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/img/boardmarker-blue.png",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/img/boardmarker-green.png",
-    "Extras/Slides/1-1-Personal Knowledge Management/plugin/chalkboard/img/boardmarker-orange.png",
+    "+ Encounters/Ride-20230513.sync-conflict-20230516-173803-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-13.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Calendar/2022/2023-05-15.md",
+    "Calendar/2022",
+    "+ Encounters/Readwise glass web notes.md",
+    "Extras/Images/Obsidia Logo.png",
+    "Spaces/ObsPKMClass/Chapters/Personal Knowledge Management.md",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/Extras/Images/Pasted image 20230512155444.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/Extras/Images",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/Extras",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/README.md",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/_style.css",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/blackboard.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/boardmarker-black.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/boardmarker-blue.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/boardmarker-green.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/boardmarker-orange.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img/boardmarker-purple.png",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/style.css",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/plugin.js",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/plugin (copy).js",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard/img",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chalkboard",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chart/plugin.js",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/chart/README.md",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/customcontrols/README.md",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/menu/CONTRIBUTING.md",
+    "Spaces/ObsPKMClass/Slides/Personal Knowledge Management/plugin/menu/README.md",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

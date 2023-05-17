@@ -24,7 +24,7 @@ Personal Knowledge Management ^337kuAFF
 
 [[Install Obsidian]] ^JrhI9Pcr
 
-[[Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md]] ^TSb8DXBb
+[[Personal Knowledge Management]] ^TSb8DXBb
 
 %%
 # Drawing

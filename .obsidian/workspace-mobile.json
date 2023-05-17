@@ -47,12 +47,12 @@
                 "group": "667e7d1d7128059c"
               },
               {
-                "id": "3b41764028cb24ab",
+                "id": "8bc7895eea01f52e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/Ride-20230514.md",
+                    "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -129,7 +129,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Central lim",
+            "query": "Zettelkasten",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -173,7 +173,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -185,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Ride-20230514.md",
+            "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Ride-20230514.md",
+            "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -214,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Ride-20230514.md"
+            "file": "Calendar/Daily Notes/Notes/2023-05-16.md"
           }
         }
       },
@@ -245,36 +246,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b41764028cb24ab",
+  "active": "8bc7895eea01f52e",
   "lastOpenFiles": [
+    "Calendar/2022/2023-05-15.md",
+    "Cards/Walk-20230516.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175353-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175313-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.md",
+    "Extras/Templates/Walk.md",
+    "Extras/Templates/Ride.sync-conflict-20230516-174703-OBMWZHZ.md",
+    "Extras/Templates/Ride.sync-conflict-20230516-174623-OBMWZHZ.md",
+    "Cards/Walk-2023-05-11.md",
+    "Calendar/Daily Notes/Notes/2023-05-15.md",
+    "Cards/Ride-20230514.md",
+    "Calendar/Daily Notes/Notes/2023-05-14.md",
+    "+ Encounters/Ride-20230513.sync-conflict-20230516-173803-OBMWZHZ.md",
+    "+ Encounters/Ride-20230513.md",
+    "Calendar/Daily Notes/Notes/2023-05-13.md",
+    "Calendar/Daily Notes/Notes/2023-03/2023-03-25.md",
+    "Calendar/2022",
+    "+ Encounters/Walk-20230516.md",
+    "+ Encounters/Readwise glass web notes.md",
+    "+ Encounters/Chapter 2.md",
+    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
+    "Extras/Images/Pasted image 20230516023854.png",
+    "Atlas/Zettelkasten.md",
+    "+ Encounters/Ride-20230514.md",
     "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
     "+ Encounters/Walk-2023-05-11.md",
-    "+ Encounters/Ride-20230514.md",
     "+ Encounters/Obsidian installation and first note.md",
     "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md",
-    "+ Encounters/Install Obsidian.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
-    "+ Encounters/Svelte Pagination.md",
-    "+ Encounters/SkeletonUI.md",
-    "Spaces/ObsPKMClass/Personal Knowledge Management.md",
-    "+ Encounters/Ride-20230511.md",
-    "+ Encounters/Btrfs backup snapshots.md",
-    "Calendar/Daily Notes/Notes/2023-05-11.md",
-    "README.md",
-    "Cards/Walk-2023-05-10.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221811-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
-    "Extras/Slides/Personal.md",
-    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
-    "Spaces/ObsPKMClass/Intro to PKM.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.md",
-    "+ Encounters/Walk today.md",
-    "+ Encounters/Walk today.sync-conflict-20230510-123855-BBO7X7A.md",
-    "Spaces/ObsPKMClass/Class Introduction.md",
-    "Spaces/ObsPKMClass/Intro to PKM 1.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
-    "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
@@ -294,7 +296,6 @@
     "Obsidian/Brian2/Extras/Images/lyt-crafting-mocs-3.jpg",
     "Obsidian/Brian2/Brian/snippets/StackedPain.css",
     "Obsidian/Brian2/Brian2/Extras/Images/pale-blue-dot-banner.jpg",
-    "Obsidian/Extras/Images/flow-four-factors.png",
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
     "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
