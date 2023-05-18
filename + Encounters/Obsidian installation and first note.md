@@ -14,5 +14,5 @@ transition: slide
 ---
 
 up:: [[Obsidian PKM Essentials Outline]]
-prev:: [[Personal Knowledge Management]]
+prev:: [[Chapter 1]]
 

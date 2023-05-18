@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
+                    "file": "+ Encounters/Ride-20230517.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
+            "file": "+ Encounters/Ride-20230517.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-16.md",
+            "file": "+ Encounters/Ride-20230517.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-16.md"
+            "file": "+ Encounters/Ride-20230517.md"
           }
         }
       },
@@ -248,11 +248,14 @@
   },
   "active": "8bc7895eea01f52e",
   "lastOpenFiles": [
+    "+ Encounters/Chapter 2.md",
+    "+ Encounters/Ride-20230517.md",
+    "+ Encounters/Table demo.md",
+    "Calendar/Daily Notes/Notes/2023-05-16.md",
     "Calendar/2022/2023-05-15.md",
     "Cards/Walk-20230516.md",
     "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175353-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175313-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-16.md",
     "Extras/Templates/Walk.md",
     "Extras/Templates/Ride.sync-conflict-20230516-174703-OBMWZHZ.md",
     "Extras/Templates/Ride.sync-conflict-20230516-174623-OBMWZHZ.md",
@@ -267,15 +270,12 @@
     "Calendar/2022",
     "+ Encounters/Walk-20230516.md",
     "+ Encounters/Readwise glass web notes.md",
-    "+ Encounters/Chapter 2.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Extras/Images/Pasted image 20230516023854.png",
     "Atlas/Zettelkasten.md",
     "+ Encounters/Ride-20230514.md",
     "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
     "+ Encounters/Walk-2023-05-11.md",
-    "+ Encounters/Obsidian installation and first note.md",
-    "Spaces/ObsPKMClass/Chapter 1/Personal Knowledge Management.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",

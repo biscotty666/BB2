@@ -2,15 +2,39 @@
   "recentFiles": [
     {
       "basename": "Chapter 2",
-      "path": "+ Encounters/Chapter 2.md"
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
     },
     {
-      "basename": "+ About Sources",
-      "path": "Sources/+ About Sources.md"
+      "basename": "Chapter 1",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
+    },
+    {
+      "basename": "Chapter 3",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
+    },
+    {
+      "basename": "Obsidian PKM Essentials Outline",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "Obsidian PKM Essentials Introduction",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md"
     },
     {
       "basename": "2023-05-16",
       "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
+    },
+    {
+      "basename": "Ride-20230517",
+      "path": "+ Encounters/Ride-20230517.md"
+    },
+    {
+      "basename": "Table demo",
+      "path": "+ Encounters/Table demo.md"
+    },
+    {
+      "basename": "+ About Sources",
+      "path": "Sources/+ About Sources.md"
     },
     {
       "basename": "Walk-20230516",
@@ -51,14 +75,6 @@
     {
       "basename": "Obsidia Logo",
       "path": "Extras/Images/Obsidia Logo.png"
-    },
-    {
-      "basename": "Personal Knowledge Management",
-      "path": "Spaces/ObsPKMClass/Chapters/Personal Knowledge Management.md"
-    },
-    {
-      "basename": "Obsidian PKM Essentials Outline",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
     },
     {
       "basename": "Common Audio-Video Format-Containers",
@@ -145,10 +161,6 @@
       "path": "Cards/Ride-20230511.md"
     },
     {
-      "basename": "Obsidian PKM Essentials Introduction",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md"
-    },
-    {
       "basename": "+ About Spaces",
       "path": "Spaces/+ About Spaces.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Fedora install",
       "path": "+ Encounters/Fedora install.md"
-    },
-    {
-      "basename": "Gangsta Rap, Narco Bolero and Blues",
-      "path": "+ Encounters/Gangsta Rap, Narco Bolero and Blues.md"
-    },
-    {
-      "basename": "GitHub actions",
-      "path": "+ Encounters/GitHub actions.md"
-    },
-    {
-      "basename": "GitHub credential configuration",
-      "path": "+ Encounters/GitHub credential configuration.md"
     }
   ],
   "omittedPaths": [],

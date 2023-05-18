@@ -5,24 +5,25 @@ tag:: #map #output/class
 ---
 
 1. Introduction to Obsidian and PKM
-	1. [[Personal Knowledge Management]]
+	1. [[Chapter 1]]
 	2. Installing Obsidian and making your first note
-	3. Basics of markdown
-	4. Navigation/UI
-2. Concepts 
+	3. Navigating Obsidian
+	4. Basics of markdown
+2. Zettelkasten
 	1. Approaches to note-taking 
-	2. Fleeting notes
-	3. Atomic notes
+	2. Atomic notes
+	3. Categories of notes
 	4. Maps of content 
 	5. The daily note
-3. Your notes in Obsidian 
-	1. Backlinks
-	2. Tags
-	3. Directories
-	4. Templates 
-4. Video walk-throughs
+3. Obsidian 
+	1. Directories
+	2. Templates (templator)
+	3. Daily note template, weekly notes (with periodic notes)
+	4. Journals/logs (dataview)
+	5. Task management
+4. Putting it together (Videos)
 	1. Life-cycle of a note
-	2. The Daily Note - Organizing and Tracking your work 
+	2. Creating a Visual Daily Note with Excalidraw
 
 
 

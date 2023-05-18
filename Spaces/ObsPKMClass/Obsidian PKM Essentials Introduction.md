@@ -8,7 +8,7 @@ transition: slide
 
 ### This part will cover
 
-1. [[Personal Knowledge Management]]
+1. [[Chapter 1]]
 2. Installing Obsidian and making your first note
 3. Basics of markdown
 4. Navigation/UI
@@ -16,4 +16,4 @@ transition: slide
 ---
 
 up:: [[Obsidian PKM Essentials Outline]]
-next:: [[Personal Knowledge Management]]
+next:: [[Chapter 1]]
