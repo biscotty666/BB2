@@ -9,9 +9,9 @@ transition: slide
 ### Essentials
 
 1. Introduction to Obsidian and PKM 
-2. Zettelkasten <!-- element style="color: red;" -->
-3. Obsidian
-4. Putting it together (Videos)
+2. PKM Concepts <!-- element style="color: red;" -->
+3. Notes in Obsidian
+4. Video walk-throughs
 
 ---
 
@@ -244,7 +244,6 @@ Daily notes provide a place to <!-- element class="fragment" style="margin-top: 
 <br />
 This presentation can be downloaded from [my GitHub repository](https://github.com/biscotty666/BB2).
 
-
 ---
 
 
@@ -272,4 +271,4 @@ This presentation can be downloaded from [my GitHub repository](https://github.c
 </style>
 
 up:: [[Obsidian PKM Essentials Outline]]
-prev:: [[Chapter 1]]
+prev:: [[Personal Knowledge Management]]

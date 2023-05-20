@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b59d5a69a3cde104",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "bd71caf9b343fda0",
             "type": "leaf",
             "pinned": true,
@@ -40,6 +25,21 @@
           {
             "id": "d86e69f32271490f",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5575104b467679b2",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -50,14 +50,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "f0a07df01cd3535b",
+        "id": "2477b5a1e215b221",
         "type": "tabs",
         "children": [
           {
-            "id": "d40618a49f716d27",
+            "id": "f6bd26c6cbcdf394",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -158,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
               }
             }
           },
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,15 +306,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b59d5a69a3cde104",
+  "active": "5575104b467679b2",
   "lastOpenFiles": [
+    "+ Encounters/Untitled.md",
+    "Extras/Images/2023-05-19 13-35-52.mp4",
     "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
+    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4.part",
+    "Spaces/ObsPKMClass/Resources/Install and First Note.mp4",
+    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+    "Spaces/ObsPKMClass/Resources/Templates.mp4",
+    "Spaces/ObsPKMClass/Resources/Folders.mp4",
     "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+    "Extras/Templates/Boat Note.md",
+    "Extras/Templates/Proverb Note.md",
+    "Extras/Templates/Idea Compass.md",
+    "Extras/Templates/DSB Note.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Templates/C15.md",
+    "touch",
+    "test.md",
+    "dot/snippets",
+    "dot",
     "Spaces/ObsPKMClass/Slides/Chapter 1/Extras/Images/Pasted image 20230512155444.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/Extras/Images",
     "Spaces/ObsPKMClass/Slides/Chapter 1/Extras",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/README.md",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/_style.css",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/blackboard.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-black.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-blue.png",
@@ -323,18 +340,10 @@
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-red.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-yellow.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/chalk-blue.png",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/style.css",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/plugin.js",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/plugin (copy).js",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chart/README.md",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chart/chart.min.js",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chart/plugin.js",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/customcontrols/README.md",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/menu/CONTRIBUTING.md",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/menu/README.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md",
     "Calendar/Daily Notes/Notes/2023-05-16.md",
@@ -344,14 +353,6 @@
     "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175353-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175313-OBMWZHZ.md",
     "Cards/Walk-20230516.md",
-    "Extras/Templates/Walk.md",
-    "Extras/Templates/Ride.md",
-    "Extras/Templates/Ride.sync-conflict-20230516-174703-OBMWZHZ.md",
-    "Extras/Templates/Ride.sync-conflict-20230516-174623-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-11.md",
-    "Calendar/Daily Notes/Notes/2023-05-15.md",
-    "Calendar/Daily Notes/Notes/2023-05-14.md",
-    "Cards/Ride-20230514.md",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

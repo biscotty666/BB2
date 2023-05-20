@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Chapter 2",
-      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
-    },
-    {
       "basename": "Chapter 1",
       "path": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
     },
     {
+      "basename": "Untitled",
+      "path": "+ Encounters/Untitled.md"
+    },
+    {
       "basename": "Chapter 3",
       "path": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
+    },
+    {
+      "basename": "Boat Note",
+      "path": "Extras/Templates/Boat Note.md"
+    },
+    {
+      "basename": "Proverb Note",
+      "path": "Extras/Templates/Proverb Note.md"
+    },
+    {
+      "basename": "Idea Compass",
+      "path": "Extras/Templates/Idea Compass.md"
+    },
+    {
+      "basename": "DSB Note",
+      "path": "Extras/Templates/DSB Note.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Extras/Templates/Daily Note.md"
+    },
+    {
+      "basename": "C15",
+      "path": "Extras/Templates/C15.md"
     },
     {
       "basename": "Obsidian PKM Essentials Outline",
@@ -171,34 +199,6 @@
     {
       "basename": "Advanced Slides Doc Walkthrough",
       "path": "+ Encounters/Advanced Slides Doc Walkthrough.md"
-    },
-    {
-      "basename": "Another Svelte project",
-      "path": "+ Encounters/Another Svelte project.md"
-    },
-    {
-      "basename": "Bakery Customers",
-      "path": "+ Encounters/Bakery Customers.md"
-    },
-    {
-      "basename": "Bernalillo movies in the park",
-      "path": "+ Encounters/Bernalillo movies in the park.md"
-    },
-    {
-      "basename": "Demo.md",
-      "path": "+ Encounters/Demo.md.md"
-    },
-    {
-      "basename": "Emoji Shortcode Reference",
-      "path": "+ Encounters/Emoji Shortcode Reference.md"
-    },
-    {
-      "basename": "Fedora Nvidia",
-      "path": "+ Encounters/Fedora Nvidia.md"
-    },
-    {
-      "basename": "Fedora install",
-      "path": "+ Encounters/Fedora install.md"
     }
   ],
   "omittedPaths": [],

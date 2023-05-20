@@ -227,17 +227,12 @@ Obsidian is available for Linux, Mac and Windows
 ---
 
 #### First note <!-- element style="margin-bottom: 0em;" -->
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/HelloWorld.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Install and First Note.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
 
 ---
 
 #### GUI Introduction <!-- element style="margin-bottom: 0em;" -->
 <video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/GuiIntro.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
-
----
-
-#### Shortcuts <!-- element style="margin-bottom: 0em;" -->
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Shortcuts.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
 
 ---
 

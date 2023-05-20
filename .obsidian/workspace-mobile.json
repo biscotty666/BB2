@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/Ride-20230517.md",
+                    "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Ride-20230517.md",
+            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Ride-20230517.md",
+            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Ride-20230517.md"
+            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
           }
         }
       },
@@ -248,8 +248,8 @@
   },
   "active": "8bc7895eea01f52e",
   "lastOpenFiles": [
-    "+ Encounters/Chapter 2.md",
     "+ Encounters/Ride-20230517.md",
+    "+ Encounters/Chapter 2.md",
     "+ Encounters/Table demo.md",
     "Calendar/Daily Notes/Notes/2023-05-16.md",
     "Calendar/2022/2023-05-15.md",
