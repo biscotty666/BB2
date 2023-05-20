@@ -49,6 +49,7 @@ We can also use <span class="obs-emph-normal">Obsidian</span> for:
 :::
 
 ---
+
 ### Folders
 
 ::: block <!-- element class="fragment fade-out" style="margin-top: -0.5em"  -->
@@ -102,6 +103,11 @@ It's easier to just show you <!-- element class="fragment" style="margin-top:-5e
 
 note:
 Set the directory in Settings/Templates
+
+---
+
+#### Templates <!-- element style="margin-bottom: 0em;" -->
+<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Templates.mp4" type="video/mp4"></video> <!-- element style="margin-top: 0em;" -->
 
 ---
 
