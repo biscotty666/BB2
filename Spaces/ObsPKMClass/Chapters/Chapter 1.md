@@ -403,11 +403,6 @@ You can look these up at [Markdown Cheat Sheet | Markdown Guide](https://www.mar
 
 ---
 
-#### Sidebars revisited 
-<video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Sidebars.mp4" type="video/mp4"></video>
-
----
-
 #### Bonus images!
 <video data-autoplay controls width="800" height="600"><source src="Spaces/ObsPKMClass/Resources/Images.mp4" type="video/mp4"></video>
 
