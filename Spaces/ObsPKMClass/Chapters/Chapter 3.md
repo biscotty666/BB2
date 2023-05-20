@@ -111,18 +111,27 @@ Set the directory in Settings/Templates
 
 ---
 
-Before we make more notes consider
+### Considerations 
 
-Filenames should be descriptive and contain key words in the note or topic
-They can be as long as you want 
-Freely use spaces, dashes, underscores, avoid other punctuation
-
-Never copy paste text into your notes except quotes and code. Everything must be in your own words 
-
-If you can't say it yourself you don't understand it. Oftentimes I think I understand something until I need to State it and then I become aware of what was still fuzzy to me.
+#### Filenames
+- Descriptive containing key words in the note or topic
+- They can be as long as you want 
+- Freely use spaces, dashes, underscores, avoid other punctuation
 
 ---
 
+### Considerations 
+
+#### Writing notes
+::: block <!-- element class="fragment fade-out" -->
+- Never copy paste text into your notes except quotes and code
+- Everything must be in your own words 
+- If you can't say it yourself you don't understand it
+:::  
+
+Oftentimes I think I understand something until I need to state it and then I become aware of what was still fuzzy to me. <!-- element class="fragment" style="margin-top:-4.5em" -->
+
+---
 
 ### Data fields
 

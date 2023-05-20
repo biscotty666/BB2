@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,11 +54,11 @@
         "currentTab": 2
       },
       {
-        "id": "cfae94d3c8e7863f",
+        "id": "3a3f7da50dd5f257",
         "type": "tabs",
         "children": [
           {
-            "id": "be0c2d4701223008",
+            "id": "b306a5bbbe6d6900",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,20 +307,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5575104b467679b2",
+  "active": "b306a5bbbe6d6900",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Resources/Templates.mp4.part",
+    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
     "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+    "Spaces/ObsPKMClass/Resources/Templates.mp4.part",
     "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.part",
     "test",
     "Spaces/ObsPKMClass/Resources/Templates.mp4",
     "Spaces/ObsPKMClass/Resources/Install and First Note.mp4",
     "Extras/Images/2023-05-19 13-35-52.mp4",
-    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
     "+ Encounters/Untitled.md",
     "Spaces/ObsPKMClass/Resources/GuiIntro.mp4.part",
-    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "Spaces/ObsPKMClass/Resources/Folders.mp4",
     "Extras/Templates/Boat Note.md",
     "Extras/Templates/Proverb Note.md",
@@ -330,7 +330,6 @@
     "Extras/Templates/C15.md",
     "touch",
     "test.md",
-    "dot/snippets",
     "Spaces/ObsPKMClass/Slides/Chapter 1/Extras/Images/Pasted image 20230512155444.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/README.md",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/blackboard.png",
