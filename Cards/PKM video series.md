@@ -1,4 +1,4 @@
-up:: [[PKM]]
+up:: [[Atlas/PKM]]
 tags:: #on/PKM #source/video #to/watch 
 Priority:: 2
 

@@ -1,55 +1,13 @@
 ---
-theme: ObsPKM
-progress: true
-transition: slide
+aliases: PKMPart
 ---
+## Obsidian & Personal Knowledge Management
 
-### Obsidian
-
-&
-
-### Personal Knowledge Management
-
-#### Essentials <!--element style="margin: 1em" -->
-
-1. Introduction to Obsidian and PKM <!-- element style="color: red;" -->
-2. Zettelkasten
-3. Obsidian
-4. Putting it together (Videos)
-
-note:
-Course welcome and introduction.
-
-The four parts.
-
----
-
-### Obsidian and PKM Essentials
-
-#### In this chapter we will cover: <!--element style="margin: 1em" -->
-
-1. [[Chapter 1|Intro to PKM]] <!-- element class="fragment" -->
-2. Installing Obsidian and making your first note <!-- element class="fragment" style="margin-top: 0.5em;" -->
-3. Basics of markdown <!-- element class="fragment" style="margin-top: 0.5em;" -->
-4. Navigating Obsidian <!-- element class="fragment" style="margin-top: 0.5em;" -->
-
-note:
-In the first part (this presentation) we start with an explanation of the concept of PKM
-
-In the second part, with videos and screenshots, we will go through the process of installing Obsidian and writing a simple note
-
-Since markdown is the format in which you make notes, we will go through the basics of markdown. This may be a video as well
-
-Finally we will spend some time learning how to navigate Obsidian. This will likely be primarily video as well
-
----
-
-### Personal Knowledge Management
+#### Personal Knowledge Management
 > [!tip] Wikipedia
 > Personal knowledge management (PKM) is a process of collecting information that a person uses to __gather, classify, store, search, retrieve and share__ knowledge in their daily activities and the way in which these processes support work activities... It is a bottom-up approach to knowledge management.
 <!-- element style="width:95%"-->
 
----
 
 ### Zettelkasten Users
 

@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten Definition",
+      "path": "+ Encounters/Zettelkasten Definition.md"
+    },
+    {
+      "basename": "Traditional approaches to note-taking",
+      "path": "+ Encounters/Traditional approaches to note-taking.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Spaces/ObsPKMClass/Chapters/PKM.md"
+    },
+    {
+      "basename": "OPKMEssentials",
+      "path": "Spaces/ObsPKMClass/OPKMEssentials.canvas"
+    },
+    {
       "basename": "Chapter 1",
       "path": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
     },
     {
-      "basename": "Chapter 2",
-      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
+      "basename": "Obsidian PKM Essentials Outline",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
+    },
+    {
+      "basename": "PKM Definition Wikipedia",
+      "path": "Spaces/ObsPKMClass/PKM Definition Wikipedia.md"
+    },
+    {
+      "basename": "Introduction Outline",
+      "path": "Spaces/ObsPKMClass/Introduction Outline.md"
+    },
+    {
+      "basename": "Who Uses Personal Knowledge Management",
+      "path": "Spaces/ObsPKMClass/Who Uses Personal Knowledge Management.md"
+    },
+    {
+      "basename": "Obsidian PKM Essentials Introduction",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md"
+    },
+    {
+      "basename": "Patch Kali VM",
+      "path": "+ Encounters/Patch Kali VM.md"
+    },
+    {
+      "basename": "Ethical Hacking",
+      "path": "+ Encounters/Ethical Hacking.md"
+    },
+    {
+      "basename": "Networking Commands",
+      "path": "+ Encounters/Networking Commands.md"
+    },
+    {
+      "basename": "2023-05-16",
+      "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
     },
     {
       "basename": "Chapter 3",
       "path": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Atlas/Obsidian.md"
+    },
+    {
+      "basename": "Distributions vs Probability Distributions",
+      "path": "Cards/Distributions vs Probability Distributions.md"
+    },
+    {
+      "basename": "Random variables",
+      "path": "Cards/Random variables.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Cards/Probability and Statistics.md"
+    },
+    {
+      "basename": "Cooking Log",
+      "path": "Calendar/Logs/Cooking Log.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
     },
     {
       "basename": "Untitled",
@@ -39,18 +111,6 @@
     {
       "basename": "C15",
       "path": "Extras/Templates/C15.md"
-    },
-    {
-      "basename": "Obsidian PKM Essentials Outline",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
-    },
-    {
-      "basename": "Obsidian PKM Essentials Introduction",
-      "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md"
-    },
-    {
-      "basename": "2023-05-16",
-      "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
     },
     {
       "basename": "Ride-20230517",
@@ -129,10 +189,6 @@
       "path": "Cards/Advanced Slides Embeds.md"
     },
     {
-      "basename": "Probability and Statistics",
-      "path": "Cards/Probability and Statistics.md"
-    },
-    {
       "basename": "2023-05-12",
       "path": "Calendar/Daily Notes/Notes/2023-05-12.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "Obsidian installation and first note",
       "path": "+ Encounters/Obsidian installation and first note.md"
-    },
-    {
-      "basename": "Svelte Readme",
-      "path": "+ Encounters/Svelte Readme.md"
-    },
-    {
-      "basename": "SvelteKit Course",
-      "path": "Cards/SvelteKit Course.md"
-    },
-    {
-      "basename": "SvelteKit from Scratch",
-      "path": "Cards/SvelteKit from Scratch.md"
-    },
-    {
-      "basename": "Reading and video list",
-      "path": "Atlas/Reading and video list.md"
-    },
-    {
-      "basename": "Svelte forms",
-      "path": "Cards/Svelte forms.md"
-    },
-    {
-      "basename": "SkeletonUI",
-      "path": "Cards/SkeletonUI.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "Personal",
-      "path": "Extras/Slides/Personal.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "2023-05-11.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-05-11.excalidraw.md"
-    },
-    {
-      "basename": "Ride-20230511",
-      "path": "Cards/Ride-20230511.md"
-    },
-    {
-      "basename": "+ About Spaces",
-      "path": "Spaces/+ About Spaces.md"
-    },
-    {
-      "basename": "+ About Encounters",
-      "path": "+ Encounters/+ About Encounters.md"
-    },
-    {
-      "basename": "Advanced Slides Doc Walkthrough",
-      "path": "+ Encounters/Advanced Slides Doc Walkthrough.md"
     }
   ],
   "omittedPaths": [],

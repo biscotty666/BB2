@@ -13,7 +13,7 @@ alias: ["000"]
 	- [[Outbox]]
 - Topics
 	- [[Data Science]]
-	- [[PKM]]
+	- [[Atlas/PKM]]
 	- [[Technology]]
 	- [[Linguistics and Languages]]
 - Sources

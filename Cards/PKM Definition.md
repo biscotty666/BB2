@@ -1,4 +1,4 @@
-up:: [[PKM]]
+up:: [[Atlas/PKM]]
 tags:: #source/internet  #reference 
 X:: 
 

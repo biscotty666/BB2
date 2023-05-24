@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                    "file": "+ Encounters/Ethical Hacking.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+            "file": "+ Encounters/Ethical Hacking.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+            "file": "+ Encounters/Ethical Hacking.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
+            "file": "+ Encounters/Ethical Hacking.md"
           }
         }
       },
@@ -248,6 +248,11 @@
   },
   "active": "8bc7895eea01f52e",
   "lastOpenFiles": [
+    "+ Encounters/Networking Commands.md",
+    "+ Encounters/Ethical Hacking.md",
+    "Extras/Images/Subnet-Guide.xlsx.pdf",
+    "Extras/Images/Screenshot_20230522-073550.png",
+    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ Encounters/Ride-20230517.md",
     "+ Encounters/Chapter 2.md",
     "+ Encounters/Table demo.md",
@@ -273,9 +278,6 @@
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Extras/Images/Pasted image 20230516023854.png",
     "Atlas/Zettelkasten.md",
-    "+ Encounters/Ride-20230514.md",
-    "+ Encounters/Ride-20230513.sync-conflict-20230514-135430-OBMWZHZ.md",
-    "+ Encounters/Walk-2023-05-11.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
@@ -295,10 +297,8 @@
     "Obsidian/Brian2/Brian/Attachments/DSm1RBasics 1.pdf",
     "Obsidian/Brian2/Extras/Images/lyt-crafting-mocs-3.jpg",
     "Obsidian/Brian2/Brian/snippets/StackedPain.css",
-    "Obsidian/Brian2/Brian2/Extras/Images/pale-blue-dot-banner.jpg",
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
-    "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
     "Obsidian/Brian2/Test.canvas"
   ]
 }

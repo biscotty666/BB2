@@ -1,4 +1,4 @@
-up:: [[PKM]]
+up:: [[Atlas/PKM]]
 tags:: #map #on/PKM #on/Obsidian 
 Library:: 000
 
