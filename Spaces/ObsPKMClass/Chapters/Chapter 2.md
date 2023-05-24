@@ -153,7 +153,7 @@ Working with Zettelkasten forces/nudges you to think about your thinking.
 
 You may return to your notes when you gain more information or insight relating to the topic. 
 
-You may want to add metatdata.
+You may want to add metadata.
 
 Don't get too obsessed with the size. Just keep in mind that broad topics are for other types of notes (mocs or production notes)
 

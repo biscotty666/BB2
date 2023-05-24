@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/Ethical Hacking.md",
+                    "file": "+ Encounters/Satelite Imagery.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Ethical Hacking.md",
+            "file": "+ Encounters/Satelite Imagery.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Ethical Hacking.md",
+            "file": "+ Encounters/Satelite Imagery.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Ethical Hacking.md"
+            "file": "+ Encounters/Satelite Imagery.md"
           }
         }
       },
@@ -248,8 +248,9 @@
   },
   "active": "8bc7895eea01f52e",
   "lastOpenFiles": [
-    "+ Encounters/Networking Commands.md",
     "+ Encounters/Ethical Hacking.md",
+    "+ Encounters/Satelite Imagery.md",
+    "+ Encounters/Networking Commands.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
@@ -277,7 +278,6 @@
     "+ Encounters/Readwise glass web notes.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Extras/Images/Pasted image 20230516023854.png",
-    "Atlas/Zettelkasten.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",

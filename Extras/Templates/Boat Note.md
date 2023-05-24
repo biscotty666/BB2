@@ -1,5 +1,5 @@
 up::
-tags:: #note/boat🚤 
+tags:: #note/fleeting 
 X:: 
 
 ## {{title}}

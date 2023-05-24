@@ -39,6 +39,8 @@
       "j",
       "Jump",
       "Jumps",
+      "next",
+      "prev",
       "X"
     ]
   },
@@ -147,7 +149,9 @@
     "j": {},
     "Jump": {},
     "Jumps": {},
-    "X": {}
+    "X": {},
+    "prev": {},
+    "next": {}
   },
   "navigationHistory": [
     "Extras/Images/feynman-triangulation-1.png",

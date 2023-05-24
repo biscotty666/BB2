@@ -6,6 +6,7 @@
       {
         "id": "c54652fae99d5a2d",
         "type": "tabs",
+        "dimension": 63.592750533049035,
         "children": [
           {
             "id": "bd71caf9b343fda0",
@@ -23,57 +24,29 @@
             }
           },
           {
-            "id": "9af5bae3f48374ec",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "1062c29a9145d9de",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Spaces/ObsPKMClass/OPKMEssentials.canvas",
+                "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -633.4514091588759,
-                  "y": -1556.200680601272,
-                  "zoom": -0.8000000000000002
+                  "x": 56.299999999999855,
+                  "y": -1298,
+                  "zoom": -2.4
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "aef261ac10cc6220",
+            "id": "bf18bd7f3c57f480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/PKM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90e2da0c1e9035ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Zettelkasten Definition.md",
+                "file": "Spaces/ObsPKMClass/Metadata.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,11 +54,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "afa3c69634593760",
         "type": "tabs",
+        "dimension": 36.40724946695096,
         "children": [
           {
             "id": "d20e42b5b570d12a",
@@ -93,7 +67,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/PKM.md",
+                "file": "Spaces/ObsPKMClass/Part 1/PKM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18449aabce1f6170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Obsidian vaults.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f05b25df0f4253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Zettelkasten Definition.md",
+                "file": "Spaces/ObsPKMClass/Metadata.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Zettelkasten Definition.md"
+                "file": "Spaces/ObsPKMClass/Metadata.md"
               }
             }
           },
@@ -280,8 +280,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc261747cbab30f2",
@@ -294,7 +293,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Zettelkasten Definition.md",
+                "file": "Spaces/ObsPKMClass/Metadata.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Zettelkasten Definition.md",
+                "file": "Spaces/ObsPKMClass/Metadata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,8 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 853.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,31 +340,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e2da0c1e9035ad",
+  "active": "bf18bd7f3c57f480",
   "lastOpenFiles": [
-    "+ Encounters/Traditional approaches to note-taking.md",
-    "+ Encounters/Zettelkasten Definition.md",
-    "Spaces/ObsPKMClass/Chapters/PKM.md",
-    "Spaces/ObsPKMClass/OPKMEssentials.canvas",
+    "Spaces/ObsPKMClass/Sources of information.md",
+    "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
+    "Spaces/ObsPKMClass/Atomic Notes.md",
+    "Spaces/ObsPKMClass/Who Uses Zettelkasten.md",
+    "Spaces/ObsPKMClass/Zettelkasten Definition.md",
+    "Spaces/ObsPKMClass/Index Cards.md",
+    "+ New/Drawbacks to the traditional approach.md",
+    "Spaces/ObsPKMClass/Traditional approaches to note-taking.md",
+    "Spaces/ObsPKMClass/PKM Definition Wikipedia.md",
+    "Cards/PKM Definition.md",
+    "Spaces/ObsPKMClass/ObsPKMEssentials.md",
+    "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
+    "Spaces/ObsPKMClass/Resources/Card Catalog.png",
+    "Extras/Excalidraw/Daily.excalidraw.md",
+    "Spaces/ObsPKMClass/Part 1/PKM.md",
+    "Spaces/ObsPKMClass/Resources/Idea.png",
+    "Spaces/ObsPKMClass/Resources/Dictionary.png",
+    "Extras/Templates/Class Template.md",
+    "Spaces/ObsPKMClass/Part 1/Searching Obsidian.md",
+    "Spaces/ObsPKMClass/Part 1",
+    "+ New/Satelite Imagery.md",
+    "+ New/Sharing your information.md",
+    "Spaces/ObsPKMClass/Metadata.md",
+    "+ New/Storage for life.md",
+    "+ New/Obsidian vaults.md",
+    "+ New/Untitled 2.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+    "+ New/Untitled 1.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Spaces/ObsPKMClass/Introduction Outline.md",
-    "Spaces/ObsPKMClass/Who Uses Personal Knowledge Management.md",
-    "Spaces/ObsPKMClass/PKM Definition Wikipedia.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Essentials Introduction.md",
-    "+ Encounters/Patch Kali VM.md",
-    "+ Encounters/Ethical Hacking.md",
-    "+ Encounters/Networking Commands.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
-    "Calendar/Daily Notes/Notes/2023-05-16.md",
-    "Atlas/Obsidian.md",
-    "Cards/Distributions vs Probability Distributions.md",
-    "Cards/Random variables.md",
-    "Cards/Probability and Statistics.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
-    "Calendar/Logs/Cooking Log.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
     "Spaces/ObsPKMClass/Resources/Headers.mp4.part",
     "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
     "Spaces/ObsPKMClass/Resources/Templates.mp4.part",
@@ -375,22 +383,11 @@
     "Spaces/ObsPKMClass/Resources/Templates.mp4",
     "Spaces/ObsPKMClass/Resources/Install and First Note.mp4",
     "Extras/Images/2023-05-19 13-35-52.mp4",
-    "+ Encounters/Untitled.md",
-    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4.part",
-    "Extras/Templates/Boat Note.md",
-    "Extras/Templates/Proverb Note.md",
-    "Extras/Templates/Idea Compass.md",
-    "Extras/Templates/DSB Note.md",
-    "Extras/Templates/Daily Note.md",
     "Spaces/ObsPKMClass/Slides/Chapter 1/Extras/Images/Pasted image 20230512155444.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/blackboard.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-black.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-blue.png",
     "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-green.png",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-orange.png",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-purple.png",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-red.png",
-    "Spaces/ObsPKMClass/Slides/Chapter 1/plugin/chalkboard/img/boardmarker-yellow.png",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

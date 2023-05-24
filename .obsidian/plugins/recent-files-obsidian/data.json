@@ -1,20 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Zettelkasten Definition",
-      "path": "+ Encounters/Zettelkasten Definition.md"
+      "basename": "Metadata",
+      "path": "Spaces/ObsPKMClass/Metadata.md"
     },
     {
-      "basename": "Traditional approaches to note-taking",
-      "path": "+ Encounters/Traditional approaches to note-taking.md"
-    },
-    {
-      "basename": "PKM",
-      "path": "Spaces/ObsPKMClass/Chapters/PKM.md"
+      "basename": "Sources of information",
+      "path": "Spaces/ObsPKMClass/Sources of information.md"
     },
     {
       "basename": "OPKMEssentials",
-      "path": "Spaces/ObsPKMClass/OPKMEssentials.canvas"
+      "path": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas"
+    },
+    {
+      "basename": "Atomic Notes",
+      "path": "Spaces/ObsPKMClass/Atomic Notes.md"
+    },
+    {
+      "basename": "Who Uses Zettelkasten",
+      "path": "Spaces/ObsPKMClass/Who Uses Zettelkasten.md"
+    },
+    {
+      "basename": "Zettelkasten Definition",
+      "path": "Spaces/ObsPKMClass/Zettelkasten Definition.md"
+    },
+    {
+      "basename": "Index Cards",
+      "path": "Spaces/ObsPKMClass/Index Cards.md"
+    },
+    {
+      "basename": "Drawbacks to the traditional approach",
+      "path": "+ New/Drawbacks to the traditional approach.md"
+    },
+    {
+      "basename": "Traditional approaches to note-taking",
+      "path": "Spaces/ObsPKMClass/Traditional approaches to note-taking.md"
+    },
+    {
+      "basename": "PKM Definition Wikipedia",
+      "path": "Spaces/ObsPKMClass/PKM Definition Wikipedia.md"
+    },
+    {
+      "basename": "ObsPKMEssentials",
+      "path": "Spaces/ObsPKMClass/ObsPKMEssentials.md"
+    },
+    {
+      "basename": "Sharing your information",
+      "path": "+ New/Sharing your information.md"
+    },
+    {
+      "basename": "Searching Obsidian",
+      "path": "Spaces/ObsPKMClass/Part 1/Searching Obsidian.md"
+    },
+    {
+      "basename": "Obsidian vaults",
+      "path": "+ New/Obsidian vaults.md"
+    },
+    {
+      "basename": "Obsidia Logo",
+      "path": "Extras/Images/Obsidia Logo.png"
+    },
+    {
+      "basename": "Storage for life",
+      "path": "+ New/Storage for life.md"
+    },
+    {
+      "basename": "Card Catalog",
+      "path": "Spaces/ObsPKMClass/Resources/Card Catalog.png"
+    },
+    {
+      "basename": "Idea",
+      "path": "Spaces/ObsPKMClass/Resources/Idea.png"
+    },
+    {
+      "basename": "Dictionary",
+      "path": "Spaces/ObsPKMClass/Resources/Dictionary.png"
+    },
+    {
+      "basename": "Daily.excalidraw",
+      "path": "Extras/Excalidraw/Daily.excalidraw.png"
+    },
+    {
+      "basename": "Daily.excalidraw",
+      "path": "Extras/Excalidraw/Daily.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-03-29 22.55.51.excalidraw",
+      "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Spaces/ObsPKMClass/Part 1/PKM.md"
+    },
+    {
+      "basename": "Class Template",
+      "path": "Extras/Templates/Class Template.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "+ New/Untitled 2.md"
+    },
+    {
+      "basename": "Pasted image 20230516232314",
+      "path": "Extras/Images/Pasted image 20230516232314.jpg"
+    },
+    {
+      "basename": "Pasted image 20230516232109",
+      "path": "Extras/Images/Pasted image 20230516232109.jpg"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
+    },
+    {
+      "basename": "Determine proportions for categorical data",
+      "path": "Cards/Determine proportions for categorical data.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "+ New/Untitled 1.md"
     },
     {
       "basename": "Chapter 1",
@@ -25,16 +129,8 @@
       "path": "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md"
     },
     {
-      "basename": "PKM Definition Wikipedia",
-      "path": "Spaces/ObsPKMClass/PKM Definition Wikipedia.md"
-    },
-    {
       "basename": "Introduction Outline",
       "path": "Spaces/ObsPKMClass/Introduction Outline.md"
-    },
-    {
-      "basename": "Who Uses Personal Knowledge Management",
-      "path": "Spaces/ObsPKMClass/Who Uses Personal Knowledge Management.md"
     },
     {
       "basename": "Obsidian PKM Essentials Introduction",
@@ -42,15 +138,15 @@
     },
     {
       "basename": "Patch Kali VM",
-      "path": "+ Encounters/Patch Kali VM.md"
+      "path": "+ New/Patch Kali VM.md"
     },
     {
       "basename": "Ethical Hacking",
-      "path": "+ Encounters/Ethical Hacking.md"
+      "path": "+ New/Ethical Hacking.md"
     },
     {
       "basename": "Networking Commands",
-      "path": "+ Encounters/Networking Commands.md"
+      "path": "+ New/Networking Commands.md"
     },
     {
       "basename": "2023-05-16",
@@ -81,12 +177,8 @@
       "path": "Calendar/Logs/Cooking Log.md"
     },
     {
-      "basename": "Chapter 2",
-      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
-    },
-    {
       "basename": "Untitled",
-      "path": "+ Encounters/Untitled.md"
+      "path": "+ New/Untitled.md"
     },
     {
       "basename": "Boat Note",
@@ -103,102 +195,6 @@
     {
       "basename": "DSB Note",
       "path": "Extras/Templates/DSB Note.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
-    },
-    {
-      "basename": "C15",
-      "path": "Extras/Templates/C15.md"
-    },
-    {
-      "basename": "Ride-20230517",
-      "path": "+ Encounters/Ride-20230517.md"
-    },
-    {
-      "basename": "Table demo",
-      "path": "+ Encounters/Table demo.md"
-    },
-    {
-      "basename": "+ About Sources",
-      "path": "Sources/+ About Sources.md"
-    },
-    {
-      "basename": "Walk-20230516",
-      "path": "Cards/Walk-20230516.md"
-    },
-    {
-      "basename": "Walk",
-      "path": "Extras/Templates/Walk.md"
-    },
-    {
-      "basename": "Ride",
-      "path": "Extras/Templates/Ride.md"
-    },
-    {
-      "basename": "2023-05-11",
-      "path": "Calendar/Daily Notes/Notes/2023-05-11.md"
-    },
-    {
-      "basename": "2023-05-15",
-      "path": "Calendar/Daily Notes/Notes/2023-05-15.md"
-    },
-    {
-      "basename": "2023-05-14",
-      "path": "Calendar/Daily Notes/Notes/2023-05-14.md"
-    },
-    {
-      "basename": "Ride-20230514",
-      "path": "Cards/Ride-20230514.md"
-    },
-    {
-      "basename": "2023-05-13",
-      "path": "Calendar/Daily Notes/Notes/2023-05-13.md"
-    },
-    {
-      "basename": "Palette loader",
-      "path": "Excalidraw/Scripts/Downloaded/Palette loader.md"
-    },
-    {
-      "basename": "Obsidia Logo",
-      "path": "Extras/Images/Obsidia Logo.png"
-    },
-    {
-      "basename": "Common Audio-Video Format-Containers",
-      "path": "+ Encounters/Common Audio-Video Format-Containers.md"
-    },
-    {
-      "basename": "Video Terminology",
-      "path": "+ Encounters/Video Terminology.md"
-    },
-    {
-      "basename": "Advanced Slides CSS",
-      "path": "Cards/Advanced Slides CSS.md"
-    },
-    {
-      "basename": "External Markdown",
-      "path": "Cards/External Markdown.md"
-    },
-    {
-      "basename": "Advanced Slides",
-      "path": "Cards/Advanced Slides.md"
-    },
-    {
-      "basename": "Advanced Slides Embeds",
-      "path": "Cards/Advanced Slides Embeds.md"
-    },
-    {
-      "basename": "2023-05-12",
-      "path": "Calendar/Daily Notes/Notes/2023-05-12.md"
-    },
-    {
-      "basename": "2023-05-12.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-05-12.excalidraw.md"
-    },
-    {
-      "basename": "Obsidian installation and first note",
-      "path": "+ Encounters/Obsidian installation and first note.md"
     }
   ],
   "omittedPaths": [],

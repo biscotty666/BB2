@@ -2,5 +2,6 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "+ Encounters"
+  "newFileFolderPath": "+ Encounters",
+  "cardLabelVisibility": "hover"
 }
