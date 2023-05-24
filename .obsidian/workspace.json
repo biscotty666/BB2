@@ -32,21 +32,34 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": 56.299999999999855,
-                  "y": -1298,
-                  "zoom": -2.4
+                  "x": 2268,
+                  "y": -1311,
+                  "zoom": -1.5168818908211972
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "bf18bd7f3c57f480",
+            "id": "8be9bf3c117189a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Metadata.md",
+                "file": "Create something.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e0fea8f4558319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Sharing your information.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "afa3c69634593760",
@@ -80,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Obsidian vaults.md",
+                "file": "Spaces/ObsPKMClass/Obsidian vaults.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Metadata.md",
+                "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Metadata.md"
+                "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas"
               }
             }
           },
@@ -293,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Metadata.md",
+                "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Metadata.md",
+                "file": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,10 +353,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf18bd7f3c57f480",
+  "active": "1062c29a9145d9de",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Sources of information.md",
+    "Spaces/ObsPKMClass/Sharing your information.md",
     "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas",
+    "Create something.md",
+    "Spaces/ObsPKMClass/Searching Obsidian.md",
+    "Spaces/ObsPKMClass/Part 1/PKM.md",
+    "Spaces/ObsPKMClass/Storage for life.md",
+    "Spaces/ObsPKMClass/Obsidian vaults.md",
+    "Spaces/ObsPKMClass/Metadata.md",
+    "Spaces/ObsPKMClass/Sources of information.md",
     "Spaces/ObsPKMClass/Atomic Notes.md",
     "Spaces/ObsPKMClass/Who Uses Zettelkasten.md",
     "Spaces/ObsPKMClass/Zettelkasten Definition.md",
@@ -356,23 +376,16 @@
     "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
     "Spaces/ObsPKMClass/Resources/Card Catalog.png",
     "Extras/Excalidraw/Daily.excalidraw.md",
-    "Spaces/ObsPKMClass/Part 1/PKM.md",
     "Spaces/ObsPKMClass/Resources/Idea.png",
     "Spaces/ObsPKMClass/Resources/Dictionary.png",
     "Extras/Templates/Class Template.md",
-    "Spaces/ObsPKMClass/Part 1/Searching Obsidian.md",
     "Spaces/ObsPKMClass/Part 1",
     "+ New/Satelite Imagery.md",
-    "+ New/Sharing your information.md",
-    "Spaces/ObsPKMClass/Metadata.md",
-    "+ New/Storage for life.md",
-    "+ New/Obsidian vaults.md",
     "+ New/Untitled 2.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
     "+ New/Untitled 1.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
     "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
-    "Spaces/ObsPKMClass/Introduction Outline.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Spaces/ObsPKMClass/Resources/Headers.mp4.part",

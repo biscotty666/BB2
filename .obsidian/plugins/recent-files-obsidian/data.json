@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Metadata",
-      "path": "Spaces/ObsPKMClass/Metadata.md"
-    },
-    {
-      "basename": "Sources of information",
-      "path": "Spaces/ObsPKMClass/Sources of information.md"
-    },
-    {
       "basename": "OPKMEssentials",
       "path": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas"
     },
     {
+      "basename": "Index Cards",
+      "path": "Spaces/ObsPKMClass/Index Cards.md"
+    },
+    {
+      "basename": "Traditional approaches to note-taking",
+      "path": "Spaces/ObsPKMClass/Traditional approaches to note-taking.md"
+    },
+    {
+      "basename": "Drawbacks to the traditional approach",
+      "path": "+ New/Drawbacks to the traditional approach.md"
+    },
+    {
+      "basename": "Idea",
+      "path": "Spaces/ObsPKMClass/Resources/Idea.png"
+    },
+    {
+      "basename": "PKM Definition Wikipedia",
+      "path": "Spaces/ObsPKMClass/PKM Definition Wikipedia.md"
+    },
+    {
+      "basename": "Dictionary",
+      "path": "Spaces/ObsPKMClass/Resources/Dictionary.png"
+    },
+    {
+      "basename": "Create something",
+      "path": "Create something.md"
+    },
+    {
+      "basename": "Sharing your information",
+      "path": "Spaces/ObsPKMClass/Sharing your information.md"
+    },
+    {
+      "basename": "Searching Obsidian",
+      "path": "Spaces/ObsPKMClass/Searching Obsidian.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Spaces/ObsPKMClass/Part 1/PKM.md"
+    },
+    {
+      "basename": "Storage for life",
+      "path": "Spaces/ObsPKMClass/Storage for life.md"
+    },
+    {
+      "basename": "Obsidian vaults",
+      "path": "Spaces/ObsPKMClass/Obsidian vaults.md"
+    },
+    {
+      "basename": "Metadata",
+      "path": "Spaces/ObsPKMClass/Metadata.md"
+    },
+    {
       "basename": "Atomic Notes",
       "path": "Spaces/ObsPKMClass/Atomic Notes.md"
+    },
+    {
+      "basename": "Sources of information",
+      "path": "Spaces/ObsPKMClass/Sources of information.md"
     },
     {
       "basename": "Who Uses Zettelkasten",
@@ -25,56 +73,16 @@
       "path": "Spaces/ObsPKMClass/Zettelkasten Definition.md"
     },
     {
-      "basename": "Index Cards",
-      "path": "Spaces/ObsPKMClass/Index Cards.md"
-    },
-    {
-      "basename": "Drawbacks to the traditional approach",
-      "path": "+ New/Drawbacks to the traditional approach.md"
-    },
-    {
-      "basename": "Traditional approaches to note-taking",
-      "path": "Spaces/ObsPKMClass/Traditional approaches to note-taking.md"
-    },
-    {
-      "basename": "PKM Definition Wikipedia",
-      "path": "Spaces/ObsPKMClass/PKM Definition Wikipedia.md"
-    },
-    {
       "basename": "ObsPKMEssentials",
       "path": "Spaces/ObsPKMClass/ObsPKMEssentials.md"
-    },
-    {
-      "basename": "Sharing your information",
-      "path": "+ New/Sharing your information.md"
-    },
-    {
-      "basename": "Searching Obsidian",
-      "path": "Spaces/ObsPKMClass/Part 1/Searching Obsidian.md"
-    },
-    {
-      "basename": "Obsidian vaults",
-      "path": "+ New/Obsidian vaults.md"
     },
     {
       "basename": "Obsidia Logo",
       "path": "Extras/Images/Obsidia Logo.png"
     },
     {
-      "basename": "Storage for life",
-      "path": "+ New/Storage for life.md"
-    },
-    {
       "basename": "Card Catalog",
       "path": "Spaces/ObsPKMClass/Resources/Card Catalog.png"
-    },
-    {
-      "basename": "Idea",
-      "path": "Spaces/ObsPKMClass/Resources/Idea.png"
-    },
-    {
-      "basename": "Dictionary",
-      "path": "Spaces/ObsPKMClass/Resources/Dictionary.png"
     },
     {
       "basename": "Daily.excalidraw",
@@ -87,10 +95,6 @@
     {
       "basename": "Drawing 2023-03-29 22.55.51.excalidraw",
       "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
-    },
-    {
-      "basename": "PKM",
-      "path": "Spaces/ObsPKMClass/Part 1/PKM.md"
     },
     {
       "basename": "Class Template",

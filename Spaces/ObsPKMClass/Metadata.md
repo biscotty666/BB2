@@ -11,4 +11,4 @@ aliases:
 
 ---
 prev:: [[Sources of information]]
-next:: 
+next:: [[Obsidian vaults|Vaults]]
