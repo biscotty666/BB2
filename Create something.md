@@ -3,7 +3,7 @@ up: [[ObsPKMEssentials]]
 tags: on/Obsidian, on/PKM, note/product, space/ObsPKMClass, note/reference
 aliases: PKM Definition
 ---
-#### Create something to share
+## Create something to share
 
 And even better, create something new to share
 - articles
@@ -14,3 +14,4 @@ And even better, create something new to share
 
 ---
 prev:: [[Sharing your information|Sharing]]
+
