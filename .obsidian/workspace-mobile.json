@@ -50,13 +50,8 @@
                 "id": "8bc7895eea01f52e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/Satelite Imagery.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
@@ -186,7 +181,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Satelite Imagery.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +197,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Satelite Imagery.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -214,9 +207,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "+ Encounters/Satelite Imagery.md"
-          }
+          "state": {}
         }
       },
       {

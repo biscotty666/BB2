@@ -16,10 +16,8 @@
   "folder_templates": [],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "Extras/Templates/Class Template.md"
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "enable_ribbon_icon": true
 }

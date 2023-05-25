@@ -5,16 +5,76 @@
       "path": "Spaces/ObsPKMClass/Part 1/OPKMEssentials.canvas"
     },
     {
-      "basename": "Create something",
-      "path": "Create something.md"
+      "basename": "Headers",
+      "path": "Spaces/ObsPKMClass/Resources/Headers.mp4"
     },
     {
-      "basename": "Sharing your information",
-      "path": "Spaces/ObsPKMClass/Sharing your information.md"
+      "basename": "Headers",
+      "path": "Headers.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Spaces/ObsPKMClass/Markdown.md"
+    },
+    {
+      "basename": "Introduction to the Obsidian Interface",
+      "path": "Spaces/ObsPKMClass/Introduction to the Obsidian Interface.md"
+    },
+    {
+      "basename": "Getting started with Obsidian",
+      "path": "Spaces/ObsPKMClass/Getting started with Obsidian.md"
+    },
+    {
+      "basename": "New Vault",
+      "path": "Spaces/ObsPKMClass/New Vault.md"
+    },
+    {
+      "basename": "First Launch",
+      "path": "Spaces/ObsPKMClass/First Launch.md"
+    },
+    {
+      "basename": "Install Obsidian",
+      "path": "Spaces/ObsPKMClass/Install Obsidian.md"
+    },
+    {
+      "basename": "2023-05-16",
+      "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Chapter 1",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
+    },
+    {
+      "basename": "Who Uses Zettelkasten",
+      "path": "Spaces/ObsPKMClass/Who Uses Zettelkasten.md"
+    },
+    {
+      "basename": "Class Template",
+      "path": "Extras/Templates/Class Template.md"
+    },
+    {
+      "basename": "Install and First Note",
+      "path": "Spaces/ObsPKMClass/Resources/Install and First Note.mp4"
+    },
+    {
+      "basename": "Create something",
+      "path": "Spaces/ObsPKMClass/Create something.md"
     },
     {
       "basename": "Obsidian vaults",
       "path": "Spaces/ObsPKMClass/Obsidian vaults.md"
+    },
+    {
+      "basename": "Chapter 2",
+      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
+    },
+    {
+      "basename": "Sharing your information",
+      "path": "Spaces/ObsPKMClass/Sharing your information.md"
     },
     {
       "basename": "PKM",
@@ -65,10 +125,6 @@
       "path": "Spaces/ObsPKMClass/Sources of information.md"
     },
     {
-      "basename": "Who Uses Zettelkasten",
-      "path": "Spaces/ObsPKMClass/Who Uses Zettelkasten.md"
-    },
-    {
       "basename": "Zettelkasten Definition",
       "path": "Spaces/ObsPKMClass/Zettelkasten Definition.md"
     },
@@ -97,10 +153,6 @@
       "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
     },
     {
-      "basename": "Class Template",
-      "path": "Extras/Templates/Class Template.md"
-    },
-    {
       "basename": "Untitled 2",
       "path": "+ New/Untitled 2.md"
     },
@@ -113,20 +165,12 @@
       "path": "Extras/Images/Pasted image 20230516232109.jpg"
     },
     {
-      "basename": "Chapter 2",
-      "path": "Spaces/ObsPKMClass/Chapters/Chapter 2.md"
-    },
-    {
       "basename": "Determine proportions for categorical data",
       "path": "Cards/Determine proportions for categorical data.md"
     },
     {
       "basename": "Untitled 1",
       "path": "+ New/Untitled 1.md"
-    },
-    {
-      "basename": "Chapter 1",
-      "path": "Spaces/ObsPKMClass/Chapters/Chapter 1.md"
     },
     {
       "basename": "Obsidian PKM Essentials Outline",
@@ -153,52 +197,8 @@
       "path": "+ New/Networking Commands.md"
     },
     {
-      "basename": "2023-05-16",
-      "path": "Calendar/Daily Notes/Notes/2023-05-16.md"
-    },
-    {
       "basename": "Chapter 3",
       "path": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Atlas/Obsidian.md"
-    },
-    {
-      "basename": "Distributions vs Probability Distributions",
-      "path": "Cards/Distributions vs Probability Distributions.md"
-    },
-    {
-      "basename": "Random variables",
-      "path": "Cards/Random variables.md"
-    },
-    {
-      "basename": "Probability and Statistics",
-      "path": "Cards/Probability and Statistics.md"
-    },
-    {
-      "basename": "Cooking Log",
-      "path": "Calendar/Logs/Cooking Log.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "+ New/Untitled.md"
-    },
-    {
-      "basename": "Boat Note",
-      "path": "Extras/Templates/Boat Note.md"
-    },
-    {
-      "basename": "Proverb Note",
-      "path": "Extras/Templates/Proverb Note.md"
-    },
-    {
-      "basename": "Idea Compass",
-      "path": "Extras/Templates/Idea Compass.md"
-    },
-    {
-      "basename": "DSB Note",
-      "path": "Extras/Templates/DSB Note.md"
     }
   ],
   "omittedPaths": [],

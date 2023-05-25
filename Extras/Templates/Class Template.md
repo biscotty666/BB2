@@ -1,9 +1,11 @@
 ---
-up: [[Spaces/ObsPKMClass/Chapters/PKM|PKM]]
-prev: 
-next: 
-tags: on/Obsidian, on/PKM, note/product
+up: [[ObsPKMEssentials]]
+tags: on/Obsidian, on/PKM, note/product, space/ObsPKMClass, note/reference
+aliases: 
 ---
-## <% tp.file.title %>
+#### <% tp.file.title %>
 
 
+---
+prev:: 
+next:: 

@@ -14,4 +14,5 @@ And even better, create something new to share
 
 ---
 prev:: [[Sharing your information|Sharing]]
+next:: [[Install Obsidian]]
 

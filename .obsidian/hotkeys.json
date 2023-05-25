@@ -643,5 +643,14 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "templater-obsidian:Extras/Templates/Class Template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
