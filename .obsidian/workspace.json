@@ -30,9 +30,9 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": 2271.815066766248,
-                  "y": 2458.4928936681335,
-                  "zoom": -0.969448025019519
+                  "x": 4928.865312170276,
+                  "y": 775.5928615727593,
+                  "zoom": -2.9694480250195188
                 }
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/Footnotes View Mode.png",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/Footnotes View Mode.png"
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/Footnotes View Mode.png",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/Footnotes View Mode.png",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
