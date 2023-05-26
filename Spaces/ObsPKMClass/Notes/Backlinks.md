@@ -5,9 +5,24 @@ aliases:
 ---
 #### Backlinks
 
-- Links to other notes
-- Can link directly to headers
-- Can link to paragraphs
+Link to other notes using `[[ ]]` around the name of the note.
+[[Wasting time]]
+
+Hover over the link and press the Ctrl key for a pop-up preview of the linked note.
+
+#### Aliases
+
+
+#### Embedded Notes
+
+To embed the linked note, add an ! directly before the first square bracket.
+
+![[Wasting time]]
+
+
+#### Link directly to a header in another document.
+
+
 
 Links are created by using square brackets. Immediately after the name of the note special characters can be added to:
 
@@ -20,5 +35,5 @@ Links are created by using square brackets. Immediately after the name of the no
 Notes can be embedded by adding a ! before the note.
 
 ---
-prev:: [[Links]]
+prev:: [[Obsidian Embeds|Embeds]]
 next:: 

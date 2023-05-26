@@ -2,7 +2,7 @@
 up: [[ObsPKMEssentials]]
 tags: on/Obsidian, on/Markdown, note/product, space/ObsPKMClass, note/reference
 prev: [[Tags]]
-next: [[Backlinks]]
+next: [[Obsidian Embeds|Embeds]]
 aliases: Footnotes
 ---
 #### Footnotes in Obsidian
