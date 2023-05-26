@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c54652fae99d5a2d",
+        "id": "1a116e76bc1432d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc5ba115e769aae",
+            "id": "7bfcdaa90daaa429",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": 4480.471261644645,
+                  "y": 2309.3574647620603,
+                  "zoom": -1.1867844265211542
+                }
               }
             }
           }
@@ -70,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 227.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -98,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-26.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-26.md"
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
               }
             }
           },
@@ -197,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-26.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-26.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,14 +246,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bc5ba115e769aae",
+  "active": "7bfcdaa90daaa429",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Notes/Backlinks.md",
+    "Extras/Images/Pasted image 20230516232314.jpg",
+    "Spaces/ObsPKMClass/Resources/Pasted image 20230516232314.jpg",
+    "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
+    "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "+ New/Daily note video.md",
+    "Spaces/ObsPKMClass/Notes/Backlinks.md",
     "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-143122-OBMWZHZ.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Calendar/Daily Notes/Notes/2023-05-25.md",
     "Cards/Wasting time.md",
     "Atlas/Proverbs.md",
@@ -277,8 +284,6 @@
     "Cards/Exc-20230524.md",
     "Cards/Exc-20230521.md",
     "Calendar/Daily Notes/Notes/2023-05-23.md",
-    "Cards/Exc-20230523.md",
-    "Calendar/Daily Notes/Notes/2023-05-21.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats.mbtree.temp",
@@ -289,10 +294,7 @@
     "Spaces/ObsPKMClass/Resources/Obsidian New Vault.png",
     "Spaces/ObsPKMClass/Resources/Obsidian Open Vault.png",
     "Extras/Images/Obsidian Website.png",
-    "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
     "Spaces/ObsPKMClass/Resources/Card Catalog.png",
-    "Spaces/ObsPKMClass/Resources/Idea.png",
-    "Spaces/ObsPKMClass/Resources/Dictionary.png",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

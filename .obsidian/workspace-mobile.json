@@ -45,8 +45,22 @@
                   }
                 },
                 "group": "667e7d1d7128059c"
+              },
+              {
+                "id": "e2e228ed3522f203",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ New/Daily note video.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "f3a68d290a4d31bb",
@@ -172,6 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "+ New/Daily note video.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,6 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "+ New/Daily note video.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -198,7 +214,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "+ New/Daily note video.md"
+          }
         }
       },
       {
@@ -228,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ddbaf2f525adefe",
+  "active": "e2e228ed3522f203",
   "lastOpenFiles": [
+    "Calendar/Daily Notes/Notes/2023-05-26.md",
     "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
     "+ New/Exc-20230525.md",
     "Cards/Exc-20230525.md",
@@ -257,7 +276,6 @@
     "Extras/Images/Screenshot_20230522-073550.png",
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ Encounters/Ride-20230517.md",
-    "+ Encounters/Chapter 2.md",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230516023854.png",
     "Extras/Canvases/Obsidian Proverbs.canvas",
