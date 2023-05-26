@@ -45,17 +45,8 @@
                   }
                 },
                 "group": "667e7d1d7128059c"
-              },
-              {
-                "id": "8bc7895eea01f52e",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f3a68d290a4d31bb",
@@ -237,8 +228,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bc7895eea01f52e",
+  "active": "5ddbaf2f525adefe",
   "lastOpenFiles": [
+    "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
+    "+ New/Exc-20230525.md",
+    "Cards/Exc-20230525.md",
+    "Cards/Exc-20230523.md",
+    "+ New/Exc-20230524.md",
+    "Cards/Exc-20230524.md",
+    "Calendar/Daily Notes/Notes/2023-05-24.md",
+    "Calendar/Daily Notes/Notes/2023-05-23.md",
+    "Cards/Exc-20230521.md",
+    "Calendar/Daily Notes/Notes/2023-05-21.md",
+    "Cards/Ride-20240519.md",
+    "Calendar/Daily Notes/Notes/2023-05-19.md",
+    "Cards/Ride-20230518.md",
+    "Calendar/Daily Notes/Notes/2023-05-18.md",
+    "+ New/Exc-20230523.md",
+    "+ New/Exc-20230521.md",
+    "+ New/Exc-20230521.sync-conflict-20230525-135658-OBMWZHZ.md",
+    "+ New/Ride-20240519.md",
+    "+ New/Ride-20230518.md",
+    "+ New/Ride-20230518.sync-conflict-20230525-135039-BBO7X7A.md",
     "+ Encounters/Ethical Hacking.md",
     "+ Encounters/Satelite Imagery.md",
     "+ Encounters/Networking Commands.md",
@@ -247,27 +258,7 @@
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ Encounters/Ride-20230517.md",
     "+ Encounters/Chapter 2.md",
-    "+ Encounters/Table demo.md",
-    "Calendar/Daily Notes/Notes/2023-05-16.md",
-    "Calendar/2022/2023-05-15.md",
-    "Cards/Walk-20230516.md",
-    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175353-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-16.sync-conflict-20230516-175313-OBMWZHZ.md",
-    "Extras/Templates/Walk.md",
-    "Extras/Templates/Ride.sync-conflict-20230516-174703-OBMWZHZ.md",
-    "Extras/Templates/Ride.sync-conflict-20230516-174623-OBMWZHZ.md",
-    "Cards/Walk-2023-05-11.md",
-    "Calendar/Daily Notes/Notes/2023-05-15.md",
-    "Cards/Ride-20230514.md",
-    "Calendar/Daily Notes/Notes/2023-05-14.md",
-    "+ Encounters/Ride-20230513.sync-conflict-20230516-173803-OBMWZHZ.md",
-    "+ Encounters/Ride-20230513.md",
-    "Calendar/Daily Notes/Notes/2023-05-13.md",
-    "Calendar/Daily Notes/Notes/2023-03/2023-03-25.md",
     "Calendar/2022",
-    "+ Encounters/Walk-20230516.md",
-    "+ Encounters/Readwise glass web notes.md",
-    "Spaces/ObsPKMClass/Obsidian PKM Essentials Outline.md",
     "Extras/Images/Pasted image 20230516023854.png",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Images/Pasted image 20230401103803.jpg",

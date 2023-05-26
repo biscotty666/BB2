@@ -652,5 +652,13 @@
       ],
       "key": "C"
     }
+  ],
+  "canvas:jump-to-group": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }
