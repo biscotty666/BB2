@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #source/article #project/idea #studies #source/article/toread
+tags:: #source/article #project/idea #source/article #to/read 
 
 # Data Science Projects Youssef Hosni
 

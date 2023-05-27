@@ -4,7 +4,7 @@ X::
 
 ## Conditionally filter or remove data
 
-These are close but not exactly the same. #note/investigate🔎 
+These are close but not exactly the same. #to/investigate 
 
 [[R]]:
 

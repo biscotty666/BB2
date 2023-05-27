@@ -1,7 +1,7 @@
 ---
 up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, space/ObsPKMClass, note/reference
-aliases: 
+tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
+aliases: Atomic notes revisited
 ---
 #### Atomic notes
 

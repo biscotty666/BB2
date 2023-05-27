@@ -1,5 +1,5 @@
 up:: [[Thinking]]
-tags:: #on/thinking 
+tags:: #on/Thinking 
 
 # Fluid Thinking
 Being able to think fluidly gives you the awareness and skill to think from the right level of abstraction at the right time.

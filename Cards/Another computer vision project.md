@@ -1,5 +1,5 @@
 up:: [[Machine Learning]]
-tags:: #on/ML  #note/investigate🔎  #source/article #to/read
+tags:: #on/ML  #to/investigate  #source/article #to/read
 Priority:: 3
 
 ## Another computer vision project

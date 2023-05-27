@@ -1,5 +1,5 @@
 up:: [[Forecasting]]
-tags:: #source/article #source/article/toread
+tags:: #source/article #source/article #to/read 
 X:: 
 
 [Data science - Wikipedia](https://en.wikipedia.org/wiki/Data_science)

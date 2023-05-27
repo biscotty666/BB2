@@ -10,19 +10,126 @@
           {
             "id": "7bfcdaa90daaa429",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": 4480.471261644645,
-                  "y": 2309.3574647620603,
-                  "zoom": -1.1867844265211542
+                  "x": 184.96623567350898,
+                  "y": -833.0057700388375,
+                  "zoom": -0.8785788307689869
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e9795934215651e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Maps of content (MOC).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493eef6337987e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/No laughing matter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e03a21029f1dddc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Notes and MOCs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07009d9376e2e17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Types of notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc414e8175554512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Maps of content (MOC).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6348df7c7afc5412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Daily Notes in Obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdc57934842b7dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c555f7447951db2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -51,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sync-confl",
+                "query": "tag:#to/review",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,11 +175,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -100,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -157,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md"
               }
             }
           },
@@ -199,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +335,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,44 +356,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bfcdaa90daaa429",
+  "active": "c555f7447951db2d",
   "lastOpenFiles": [
+    "+ New/Origins of free market.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Maps of content (MOC).md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
+    "+ New/Daily Notes in Obsidian.md",
+    "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
+    "+ New/Types of notes.md",
+    "+ New/No laughing matter.md",
+    "Spaces/ObsPKMClass/Notes/Atomic Notes.md",
+    "+ New/Notes and MOCs.md",
+    "Extras/Templates/Daily Note.md",
+    "+ New/Permanent Notes.md",
+    "Spaces/ObsPKMClass/Notes/Metadata.md",
+    "Extras/Templates/Class Template.md",
+    "+ New/Enter Obsidian.md",
+    "Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md",
+    "+ New/Computer Age Note-taking.md",
+    "Cards/Zettelkasten History.md",
+    "Cards/Niklas Luhmann.md",
+    "Cards/Conditionally filter or remove data.md",
+    "Cards/Another computer vision project.md",
+    "Calendar/Daily Notes/Notes/2023-04/2023-04-03.md",
+    "Cards/Comparison of R and Python for Data Science.md",
+    "Cards/Normal Distribution.md",
+    "Calendar/Daily Notes/Notes/2023-03/2023-03-28.md",
+    "Calendar/Daily Notes/Notes/2023-03/2023-03-29.md",
+    "Calendar/Daily Notes/Notes/2023-03/2023-03-26.md",
+    "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
+    "Extras/Images/Obsidian_software_logo.svg",
+    "Extras/Images/Niklas Luhmann.png",
     "Extras/Images/Pasted image 20230516232314.jpg",
     "Spaces/ObsPKMClass/Resources/Pasted image 20230516232314.jpg",
     "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
     "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "Calendar/Daily Notes/Notes/2023-05-26.md",
-    "+ New/Daily note video.md",
-    "Spaces/ObsPKMClass/Notes/Backlinks.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221600-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-143122-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-05-25.md",
-    "Cards/Wasting time.md",
-    "Atlas/Proverbs.md",
-    "Cards/Sun Tsu Proverbs.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
-    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
     "Extras/PDFs/amsldoc.pdf",
     "Extras/PDFs",
-    "Cards/Ride-20230518.md",
     "Spaces/ObsPKMClass/Resources/Footnotes View Mode.jpg",
     "Spaces/ObsPKMClass/Resources/Footnotes Edit Mode.png",
-    "Spaces/ObsPKMClass/Resources/Footnotes View Mode.png",
-    "Spaces/ObsPKMClass/Notes/Who Uses Zettelkasten.md",
-    "Spaces/ObsPKMClass/Notes/Tags.md",
     "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
-    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
-    "Calendar/Logs/Piano Log.md",
-    "Calendar/Daily Notes/Notes/2023-05-10.sync-conflict-20230510-221811-OBMWZHZ.md",
-    "Calendar/Logs/Domestic Log.md",
-    "Calendar/Logs/Exercise Log.md",
-    "Cards/Exc-20230525.md",
-    "Calendar/Daily Notes/Notes/2023-05-24.md",
-    "Cards/Exc-20230524.md",
-    "Cards/Exc-20230521.md",
-    "Calendar/Daily Notes/Notes/2023-05-23.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/Backlinks.mp4.x264.stats.mbtree.temp",
@@ -291,10 +405,6 @@
     "Spaces/ObsPKMClass/Resources/Backlinks_edit.mp4",
     "Spaces/ObsPKMClass/Resources/Backlinks_edit.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/Backlinks_edit.mp4.x264.stats",
-    "Spaces/ObsPKMClass/Resources/Obsidian New Vault.png",
-    "Spaces/ObsPKMClass/Resources/Obsidian Open Vault.png",
-    "Extras/Images/Obsidian Website.png",
-    "Spaces/ObsPKMClass/Resources/Card Catalog.png",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

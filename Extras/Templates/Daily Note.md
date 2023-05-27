@@ -9,13 +9,11 @@ tags:: #log/journal #note/daily
 <% tp.web.daily_quote() %>
 
 
-### Progress
-
-Work towards something
-
 ### Reflections
 
-Any thoughts or insights
+#### Thoughts
+
+#### Progress
 
 ### Today
 

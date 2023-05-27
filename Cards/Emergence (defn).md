@@ -1,5 +1,5 @@
 up:: [[Idea Emergence (defn)]]
-tags:: #on/systems
+tags:: #on/Systems
 
 # Emergence (defn)
 **Emergence** refers to the existence or formation of collective behaviors — what parts of a system do together that they would not do alone. 

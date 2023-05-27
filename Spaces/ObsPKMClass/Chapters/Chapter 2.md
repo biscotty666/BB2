@@ -49,12 +49,7 @@ transition: slide
 - Scholars still kept notes in books, or slips pasted in books <!-- element class="fragment" -->
 
 ---
-### Niklas Luhmann
-
-- Mid-20$^{th}$ century social scientist
-- Wrote more than 70 books and 400 articles  <!-- element class="fragment" -->
-- Had more than 90,000 index cards   <!-- element class="fragment" -->
-
+![[Niklas Luhmann]]
 ---
 ### A  20$^{th}$ century example
 
@@ -195,19 +190,7 @@ After you've processed a fleeting note to ensure that it is atomic and has the a
 
 ---
 
-### Map of content (MOC)
-
-As you accumulate notes around a given topic, you can create MOCs for the subject.   <!-- element style="margin-top: 0.5em" -->
-
-MOCs are not atomic. They are "guides" through the information you have in your vault.  <!-- element class="fragment fade-in-then-out" style="margin-top: 0.5em" -->
-
-They begin as an annotated table of contents or index.   <!-- element class="fragment fade-in-then-out" style="margin-top: -1.5em" -->
-
-Over time you can develop a narrative around all of these notes.   <!-- element class="fragment fade-in-then-out" style="margin-top: -1.2em" -->
-
-Eventually some will become rich enough to become a Production Note.   <!-- element class="fragment fade-in-then-out" style="margin-top: -1.2em" -->
-
----
+[[Maps of content (MOC)]]
 
 ### Production Notes
 

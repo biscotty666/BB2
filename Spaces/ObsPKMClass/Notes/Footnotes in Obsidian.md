@@ -1,6 +1,6 @@
 ---
 up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, space/ObsPKMClass, note/reference
+tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
 prev: [[Tags]]
 next: [[Obsidian Embeds|Embeds]]
 aliases: Footnotes
@@ -13,7 +13,7 @@ I would like to give this text a reference[^1]
 
 [^1]:The content of the reference
 
-2. You can add the contents of the reference in-line as well with `^[in-line reference]`
+2. You can add the contents of the reference in-line as well with `^[in-line reference]` ^8f03aa
 
 In this case I'll just make a citation^[in-line citation] in-line.
 

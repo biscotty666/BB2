@@ -1,5 +1,5 @@
 up:: [[Python]]
-tags:: #note/reference #on/Python #on/Syntax #note/gotcha
+tags:: #note/reference #on/Python #on/Syntax
 X:: [[Syntax]]
 
 ## Numpy case statement where() gotchas

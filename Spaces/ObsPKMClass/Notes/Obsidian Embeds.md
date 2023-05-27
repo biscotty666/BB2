@@ -1,6 +1,6 @@
 ---
 up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, space/ObsPKMClass, note/reference
+tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
 aliases: Embeds
 ---
 #### Embeds

@@ -1,5 +1,5 @@
 up::  [[Probability and Statistics]]
-tags:: #source/book #note/reference #definition #on/Probability 
+tags:: #source/book #note/reference #on/Probability 
 X:: [[Central Limit Theorem]] [[The 68-95-99.7]] [[Introduction to Data Science]] [[dnorm, pnorm, qnorm, rnorm]]
 
 ## Normal Distribution

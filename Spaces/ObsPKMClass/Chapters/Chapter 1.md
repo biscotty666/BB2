@@ -372,7 +372,7 @@ Examples:
 
 |        |                Tags                |
 |:------ |:----------------------------------:|
-| Type   | #note/moc #note/reference#note/new |
+| Type   | #map #note/reference#note/new |
 | Topic  |        #on/Obsidian#on/PKM         |
 | Source | #source/presentation#source/Brian  |
 | Action |    #to/watch #to/read#to/review    |

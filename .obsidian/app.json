@@ -153,9 +153,6 @@
     "editor:insert-link"
   ],
   "showUnsupportedFiles": false,
-  "userIgnoreFilters": [
-    "Cards/Sources/Courses/",
-    "Spaces/Life/Cards/Finance Calendar/"
-  ],
+  "userIgnoreFilters": null,
   "showInlineTitle": false
 }

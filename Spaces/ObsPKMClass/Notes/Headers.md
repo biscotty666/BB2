@@ -1,6 +1,6 @@
 ---
 up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, space/ObsPKMClass, note/reference, on/Markdown
+tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference, on/Markdown
 aliases: 
 ---
 #### Headers

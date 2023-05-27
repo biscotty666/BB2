@@ -1,6 +1,6 @@
 ---
 up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, space/ObsPKMClass, note/reference
+tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference
 aliases: PKM Definition
 ---
 ## Getting started with Obsidian
