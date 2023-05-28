@@ -10,14 +10,10 @@
   "obsidian-tasks-plugin",
   "obsidian-icons-plugin",
   "emoji-shortcodes",
-  "mermaid-tools",
   "table-editor-obsidian",
-  "excalibrain",
   "obsidian-excalidraw-plugin",
-  "obsidian-advanced-slides",
   "obsidian-enhancing-export",
   "webpage-html-export",
   "obsidian-html-plugin",
-  "obsidian-pandoc",
-  "obsidian-charts"
+  "obsidian-pandoc"
 ]

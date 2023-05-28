@@ -16,9 +16,9 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -1450.4478003821428,
-                  "y": -3287.46303551038,
-                  "zoom": 0.8
+                  "x": -2381.3314126913288,
+                  "y": 2608.9891788119444,
+                  "zoom": -1.6
                 }
               },
               "pinned": true
@@ -40,21 +40,59 @@
             }
           },
           {
-            "id": "4844eb6c2eba9570",
+            "id": "4890207afa3a2d2d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-27.md",
+                "file": "+ New/Obsidian Templates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "4b421b61a79a5253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Daily Notes in Obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "647389e5b1df5395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Daily Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a0f00db46f35288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -191,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4"
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md"
               }
             }
           },
@@ -233,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,50 +312,49 @@
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bfcdaa90daaa429",
+  "active": "6a0f00db46f35288",
   "lastOpenFiles": [
     "Calendar/Daily Notes/Notes/2023-05-27.md",
+    "Calendar/Daily Notes/Notes/2023-05-28.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
+    "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Daily Notes in Obsidian.md",
+    "Extras/Templates/Daily Note.md",
+    "+ New/Other considerations making notes in Obsidian.md",
+    "+ New/Obsidian Templates.md",
+    "+ New/Testing.md",
+    "+ New/Exc-20230527.md",
+    "Extras/Templates/Class Template.md",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.temp",
-    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ New/Notes and MOCs.md",
     "+ New/Obsidian Folders.md",
     "+ New/No laughing matter.md",
-    "+ New/Obsidian Templates.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Resources/Obsidian New Vault.png",
     "Spaces/ObsPKMClass/Resources/Obsidian Open Vault.png",
     "Spaces/ObsPKMClass/Resources/Folders.mp4",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.xcf",
-    "+ New/Exc-today.md",
     "+ New/Maps of content (MOC).md",
     "+ New/Origins of free market.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
-    "+ New/Daily Notes in Obsidian.md",
-    "Calendar/Daily Notes/Notes/2023-05-26.md",
     "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
     "+ New/Types of notes.md",
     "Spaces/ObsPKMClass/Notes/Atomic Notes.md",
-    "Extras/Templates/Daily Note.md",
     "+ New/Permanent Notes.md",
     "Spaces/ObsPKMClass/Notes/Metadata.md",
-    "Extras/Templates/Class Template.md",
     "+ New/Enter Obsidian.md",
     "Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md",
     "+ New/Computer Age Note-taking.md",
     "Cards/Zettelkasten History.md",
     "Cards/Niklas Luhmann.md",
-    "Cards/Conditionally filter or remove data.md",
-    "Cards/Another computer vision project.md",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
     "Extras/Images/Obsidian_software_logo.svg",
     "Extras/Images/Niklas Luhmann.png",

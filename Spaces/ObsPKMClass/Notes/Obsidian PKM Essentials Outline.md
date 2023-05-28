@@ -1,11 +1,16 @@
 ---
 aliases: Outline
 ---
-#### OPKM Essentials
-1. Introduction to Obsidian and Personal Knowledge Management
-2. Concepts of Zettelkasten
-3. Working with Obsidian
-4. Advanced Topics
+# Personal Knowledge Management with Obsidian
+
+## Essentials
+
+1. Personal Knowledge Management
+2. Zettelkasten
+3. Obsidian
+4. Markdown
+5. Zettelkasten 💗 Obsidian
+6. Advanced topics
 
 
 tag:: #output/class

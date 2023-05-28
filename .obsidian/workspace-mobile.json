@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Exc-today.md",
+                    "file": "+ New/Testing.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-today.md",
+            "file": "+ New/Testing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-today.md",
+            "file": "+ New/Testing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-today.md"
+            "file": "+ New/Testing.md"
           }
         }
       },
@@ -248,6 +248,7 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
+    "+ New/Testing.md",
     "+ New/Origins of free market.md",
     "+ New/Exc-today.md",
     "Calendar/Logs/Exercise Log.md",
@@ -273,7 +274,6 @@
     "+ New/Exc-20230521.sync-conflict-20230525-135658-OBMWZHZ.md",
     "+ New/Ride-20240519.md",
     "+ New/Ride-20230518.md",
-    "+ New/Ride-20230518.sync-conflict-20230525-135039-BBO7X7A.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",

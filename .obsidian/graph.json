@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
-  "showAttachments": false,
+  "search": "Obsidian PKM",
+  "showTags": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#map",
@@ -78,24 +78,10 @@
       }
     },
     {
-      "query": "#log",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "#ideas/proverbs",
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "#excalidraw",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     },
     {
@@ -132,11 +118,11 @@
   "textFadeMultiplier": -1.2,
   "nodeSizeMultiplier": 1.2484375,
   "lineSizeMultiplier": 0.355208333333333,
-  "collapse-forces": false,
-  "centerStrength": 0.380208333333333,
-  "repelStrength": 13.125,
+  "collapse-forces": true,
+  "centerStrength": 0.447916666666667,
+  "repelStrength": 13.75,
   "linkStrength": 0.34375,
-  "linkDistance": 336,
-  "scale": 0.06797403749020833,
+  "linkDistance": 373,
+  "scale": 0.15294158435296862,
   "close": true
 }
