@@ -66,7 +66,6 @@ due before today
 ```tasks
 not done
 due today
-status.type is not IN_PROGRESS
 ```
 
 #### Completed Today

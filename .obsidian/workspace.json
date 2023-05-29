@@ -16,9 +16,9 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -2381.3314126913288,
-                  "y": 2608.9891788119444,
-                  "zoom": -1.6
+                  "x": -5995.232387909908,
+                  "y": 2563.7505652108916,
+                  "zoom": -1.2000000000000002
                 }
               },
               "pinned": true
@@ -40,42 +40,18 @@
             }
           },
           {
-            "id": "4890207afa3a2d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/Obsidian Templates.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b421b61a79a5253",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Daily Notes in Obsidian.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "647389e5b1df5395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Daily Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -84,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "file": "+ New/Queries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#on/Obsidian",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -316,17 +292,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a0f00db46f35288",
+  "active": "4b421b61a79a5253",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-05-27.md",
-    "Calendar/Daily Notes/Notes/2023-05-28.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
-    "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "+ New/Queries.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "+ New/Daily Notes in Obsidian.md",
-    "Extras/Templates/Daily Note.md",
-    "+ New/Other considerations making notes in Obsidian.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ New/Obsidian Templates.md",
+    "Calendar/Daily Notes/Notes/2023-05-28.md",
+    "Cards/Exc-20230528.md",
+    "Extras/Templates/Daily Note.md",
+    "+ New/JavaScript Select Random Note.md",
+    "+ New/Daily Notes in Obsidian.md",
+    "Cards/Statquest Statistics Series.md",
+    "Calendar/Daily Notes/Notes/2023-05-27.md",
+    "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "+ New/Other considerations making notes in Obsidian.md",
     "+ New/Testing.md",
     "+ New/Exc-20230527.md",
     "Extras/Templates/Class Template.md",
@@ -350,11 +330,6 @@
     "Spaces/ObsPKMClass/Notes/Atomic Notes.md",
     "+ New/Permanent Notes.md",
     "Spaces/ObsPKMClass/Notes/Metadata.md",
-    "+ New/Enter Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md",
-    "+ New/Computer Age Note-taking.md",
-    "Cards/Zettelkasten History.md",
-    "Cards/Niklas Luhmann.md",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
     "Extras/Images/Obsidian_software_logo.svg",
     "Extras/Images/Niklas Luhmann.png",
