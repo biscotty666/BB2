@@ -5,6 +5,6 @@
 
 ---
 
-up:: [[Exercise Log]]
+up:: [[Logs]]
 tags:: #log/walk 
 

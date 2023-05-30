@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bfcdaa90daaa429",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-                "viewState": {
-                  "x": -5995.232387909908,
-                  "y": 2563.7505652108916,
-                  "zoom": -1.2000000000000002
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "c555f7447951db2d",
             "type": "leaf",
             "pinned": true,
@@ -40,35 +23,37 @@
             }
           },
           {
-            "id": "4b421b61a79a5253",
+            "id": "08bea3ac87dc3c28",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "file": "+ New/Dataview.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
-              },
-              "pinned": true
+                "source": true
+              }
             }
           },
           {
-            "id": "6a0f00db46f35288",
+            "id": "c29898c2064a5b2f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "+ New/Queries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": -6931.368249419516,
+                  "y": 4122.307937645121,
+                  "zoom": -1.6
+                }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#log/ride",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -148,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "file": "+ New/Dataview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -205,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md"
+                "file": "+ New/Dataview.md"
               }
             }
           },
@@ -233,8 +218,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "cc261747cbab30f2",
@@ -247,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "file": "+ New/Dataview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "file": "+ New/Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,54 +277,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b421b61a79a5253",
+  "active": "08bea3ac87dc3c28",
   "lastOpenFiles": [
-    "+ New/Queries.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Dataview.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
-    "+ New/Obsidian Templates.md",
-    "Calendar/Daily Notes/Notes/2023-05-28.md",
+    "+ New/Dataview Queries.md",
+    "Extras/Templates/Walk.md",
+    "Extras/Templates/Ride.md",
     "Cards/Exc-20230528.md",
+    "Calendar/Daily Notes/Notes/2023-05-29.md",
     "Extras/Templates/Daily Note.md",
-    "+ New/JavaScript Select Random Note.md",
-    "+ New/Daily Notes in Obsidian.md",
-    "Cards/Statquest Statistics Series.md",
-    "Calendar/Daily Notes/Notes/2023-05-27.md",
-    "Calendar/Daily Notes/Notes/2023-05-26.md",
-    "+ New/Other considerations making notes in Obsidian.md",
-    "+ New/Testing.md",
-    "+ New/Exc-20230527.md",
-    "Extras/Templates/Class Template.md",
+    "Cards/Logs.md",
+    "Calendar/Logs/Output Log.md",
+    "Calendar/Logs/Study Log.md",
+    "Calendar/Logs/Cooking Log.md",
+    "Calendar/Logs/Exercise Log.md",
+    "Calendar/Logs/Piano Log.md",
+    "Calendar/Logs/Domestic Log.md",
+    "+ New/Dataview Implicit Fields.md",
+    "Extras/Templates/Obsidian Note.md",
+    "Templates",
+    "Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md",
+    "Cards/Zettelkasten History.md",
+    "+ New/Dataview Fields.md",
+    "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
+    "+ New/Untitled 2.md",
+    "Cards/Library.md",
+    "+ New/Obsidian Frontmatter.md",
+    "Cards/Dataview deep dive.md",
+    "Cards/Beginners Guide to Dataview.md",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.temp",
-    "+ New/Notes and MOCs.md",
-    "+ New/Obsidian Folders.md",
-    "+ New/No laughing matter.md",
     "Spaces/ObsPKMClass/Resources/Obsidian New Vault.png",
     "Spaces/ObsPKMClass/Resources/Obsidian Open Vault.png",
     "Spaces/ObsPKMClass/Resources/Folders.mp4",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.xcf",
-    "+ New/Maps of content (MOC).md",
-    "+ New/Origins of free market.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 2.md",
     "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
-    "+ New/Types of notes.md",
-    "Spaces/ObsPKMClass/Notes/Atomic Notes.md",
-    "+ New/Permanent Notes.md",
-    "Spaces/ObsPKMClass/Notes/Metadata.md",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
     "Extras/Images/Obsidian_software_logo.svg",
     "Extras/Images/Niklas Luhmann.png",
     "Extras/Images/Pasted image 20230516232314.jpg",
     "Spaces/ObsPKMClass/Resources/Pasted image 20230516232314.jpg",
     "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
-    "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
     "Extras/PDFs/amsldoc.pdf",
     "Extras/PDFs",
-    "Spaces/ObsPKMClass/Resources/GuiIntro.mp4",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
