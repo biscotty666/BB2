@@ -3,7 +3,8 @@ up: [[ObsPKMEssentials]]
 tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: 
 ---
-#### Daily Notes
+
+##### Daily Notes
 
 Daily notes provide a central location to
 
@@ -49,6 +50,7 @@ tR += "[[" + [[yesterday]] + "]]"
 3. Open the right sidebar and click the calendar icon.
 4. Click on a day to create a note for that day.
 5. The note will be created and the template automatically applied.
+6. Use Ctrl-R to replace the JavaScript with yesterday's note.
 
 ---
 prev:: 

@@ -44,16 +44,55 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -6931.368249419516,
-                  "y": 4122.307937645121,
-                  "zoom": -1.6
+                  "x": -995.5,
+                  "y": 781.5,
+                  "zoom": -3.022883462469664
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f9d01eb602850dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Daily Note Example 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d999e87ce7f59ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Daily Note Simple.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909c9d14ddcc2b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Daily Notes in Obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Dataview.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -190,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Dataview.md"
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
               }
             }
           },
@@ -231,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Dataview.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Dataview.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,9 +316,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08bea3ac87dc3c28",
+  "active": "c29898c2064a5b2f",
   "lastOpenFiles": [
+    "+ New/Exc-20230529.sync-conflict-20230530-155745-BBO7X7A.md",
+    "+ New/Exc-20230529.md",
+    "+ New/Exc-20230530.md",
+    "+ New/Daily Notes in Obsidian.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Daily Note Example 1.md",
+    "Extras/Templates/Daily Note Simple.md",
     "+ New/Dataview.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ New/Dataview Queries.md",
@@ -302,11 +347,6 @@
     "Cards/Zettelkasten History.md",
     "+ New/Dataview Fields.md",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
-    "+ New/Untitled 2.md",
-    "Cards/Library.md",
-    "+ New/Obsidian Frontmatter.md",
-    "Cards/Dataview deep dive.md",
-    "Cards/Beginners Guide to Dataview.md",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats",
