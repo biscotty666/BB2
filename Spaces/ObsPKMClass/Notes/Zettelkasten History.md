@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/PKM, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Zettelkasten History
 
 - Earliest examples from 16th century
@@ -11,5 +6,8 @@ aliases:
 - Little used in the US until the $20^{th}$ century, where scholars still kept notes in books, or slips pasted in books
 
 ---
-prev:: [[Zettelkasten Definition]]
-next:: [[Niklas Luhmann]]
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass  #note/reference 
+prev:: [[Who Uses Zettelkasten|Zettelkasten users]]
+next:: [[Computer Age Note-taking]]
+

@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Some other important considerations
 
 ##### Filenames
@@ -17,5 +12,7 @@ aliases:
 - Sometimes it's good to leave a note for a while before returning to it to make it a permanent note
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Maps of content (MOC)]]
+next:: [[Obsidian Templates]]

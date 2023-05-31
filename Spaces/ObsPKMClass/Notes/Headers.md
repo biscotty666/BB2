@@ -21,5 +21,7 @@ displays
 ###### Header 6
 
 ---
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
 prev:: [[Markdown]]
 next:: [[Emphasis]]

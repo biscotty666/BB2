@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: Embeds
----
 #### Embeds
 
 ##### Images
@@ -39,5 +34,8 @@ These can be drag-and-dropped from anywhere in your filesystem.
 ![[HelloWorld.mp4]]
 
 ---
-prev:: [[Footnotes in Obsidian|Footnotes]]
-next:: [[Backlinks]]
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
+prev:: [[Backlinks]]
+next:: [[Notes and MOCs]]
+

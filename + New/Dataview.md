@@ -1,8 +1,3 @@
----
-up: [[Obsidian]]
-tags: on/Obsidian, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Dataview
 
 Dataview is a community plug-in and not part of base Obsidian. However it is so useful that I consider it an essential feature.
@@ -17,5 +12,8 @@ Dataview provides 4 types of queries, __LIST__, __TABLE__, __TASK__ and __CALEND
 
 
 ---
-prev:: 
-next:: [[Dataview Queries|Queries]]
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Obsidian Folders|Folders]]
+next:: [[Dataview Fields]]
+

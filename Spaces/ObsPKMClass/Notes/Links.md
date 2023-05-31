@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Links
 
 Typing a well-formed url will automatically create a clickable link.
@@ -17,5 +12,7 @@ To display a description rather than a url place the description between square 
 
 
 ---
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
 prev:: [[Lists]]
-next:: [[Backlinks]]
+next:: [[Blockquotes and Callouts]]

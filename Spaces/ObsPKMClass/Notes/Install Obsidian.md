@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference
 aliases: Installation
 ---
 #### Install Obsidian
@@ -12,5 +10,7 @@ Obsidian is available for Linux, Mac, Windows, Android, iPad and iPhone. It is f
 I recommend the flatpak which can be installed with `flatpak install flathub md.obsidian.Obsidian`.
 
 ---
+up:: [[Introduction to Obsidian]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[Getting started with Obsidian]]
-next:: [[Introduction to the Obsidian Interface|GUIIntro]]
+next:: [[First Launch]]

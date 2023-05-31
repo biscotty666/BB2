@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Fleeting Notes
 
 - In developing a Zettelkasten, fleeting notes are the seeds.
@@ -35,5 +30,7 @@ These include
 - We will keep these in the `Cards` folder in our vault
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
+prev:: [[Notes and MOCs]]
+next:: [[Maps of content (MOC)]]

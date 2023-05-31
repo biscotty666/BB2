@@ -11,5 +11,7 @@ And take a look around.
 
 
 ---
+up:: [[Introduction to Obsidian]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[New Vault]]
 next:: [[Markdown]]

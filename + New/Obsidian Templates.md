@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: Templates
----
 #### Obsidian Templates
 
 NB. in a later part of this course we will look at a plugin called Templater. For now we'll stick with the native Template functionality.
@@ -41,5 +36,7 @@ We only need a simple template for these notes. We'll have the template show the
 4. Create a new note, hit Ctrl-T and select the Fleeting Note template
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Other considerations making notes in Obsidian]]
+next:: [[Obsidian Folders|Folders]]

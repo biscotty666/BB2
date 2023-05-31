@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: Sharing
 ---
 #### Sharing your information
@@ -12,6 +10,8 @@ There are many ways you can share information from your vault.
 And even better, [[Create something]]
 
 ---
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[Storage for life]]
 next:: [[Create something]]
 

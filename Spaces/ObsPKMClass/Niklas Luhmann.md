@@ -19,6 +19,7 @@ His work focused on
 [^Nick]: [Niklas Luhmann - Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 
 ---
-
-prev:: [[Zettelkasten History]]
-next:: [[Computer Age Note-taking]]
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM #note/product #effort/ObsPKMClass #note/reference 
+next:: [[No laughing matter]]
+prev:: [[Computer Age Note-taking]]

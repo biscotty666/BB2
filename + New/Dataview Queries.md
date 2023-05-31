@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 ### Dataview Queries
 
 
@@ -154,3 +149,9 @@ WHERE (file.cday >= date(today) - dur(4 days))
 SORT file.cday desc
 LIMIT 7
 ```
+
+---
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Dataview Fields]]
+next:: 

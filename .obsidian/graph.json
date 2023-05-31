@@ -1,24 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "Obsidian PKM",
+  "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#map",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "#on/Probability",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
       }
     },
     {
@@ -111,18 +104,39 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#effort/ObsPKMClass",
+      "color": {
+        "a": 1,
+        "rgb": 16451849
+      }
+    },
+    {
+      "query": "#on/Probability",
+      "color": {
+        "a": 1,
+        "rgb": 2129464
+      }
+    },
+    {
+      "query": "#on/PnS",
+      "color": {
+        "a": 1,
+        "rgb": 10092288
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.2484375,
-  "lineSizeMultiplier": 0.355208333333333,
-  "collapse-forces": true,
-  "centerStrength": 0.447916666666667,
-  "repelStrength": 13.75,
-  "linkStrength": 0.34375,
-  "linkDistance": 373,
-  "scale": 0.15294158435296862,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.40625,
+  "repelStrength": 14.2708333333333,
+  "linkStrength": 0.348958333333333,
+  "linkDistance": 346,
+  "scale": 0.1019610562353124,
   "close": true
 }

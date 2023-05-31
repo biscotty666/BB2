@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Exc-20230529.md",
+                    "file": "+ New/Exc-20230531.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-20230529.md",
+            "file": "+ New/Exc-20230531.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-20230529.md",
+            "file": "+ New/Exc-20230531.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-20230529.md"
+            "file": "+ New/Exc-20230531.md"
           }
         }
       },
@@ -247,9 +247,10 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
+    "+ New/Exc-20230529.md",
+    "+ New/Exc-20230531.md",
     "+ New/Exc-20230529.sync-conflict-20230530-155745-BBO7X7A.md",
     "+ New/Exc-20230530.md",
-    "+ New/Exc-20230529.md",
     "+ New/JavaScript Select Random Note.md",
     "+ New/Exc-20230528.md",
     "+ New/Testing.md",
@@ -272,7 +273,6 @@
     "Cards/Ride-20240519.md",
     "Calendar/Daily Notes/Notes/2023-05-19.md",
     "Cards/Ride-20230518.md",
-    "Calendar/Daily Notes/Notes/2023-05-18.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",

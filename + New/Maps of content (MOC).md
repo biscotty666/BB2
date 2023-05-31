@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Map of content (MOC)
 
 - Organize your notes around a given topic of interest
@@ -21,5 +16,7 @@ aliases:
 
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Types of notes]]
+next:: [[Other considerations making notes in Obsidian]]

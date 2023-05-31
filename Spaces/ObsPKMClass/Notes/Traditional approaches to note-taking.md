@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: Traditional Note-taking
 ---
 #### Traditional approaches  to note-taking
@@ -11,6 +9,8 @@ PDAs and PCs allowed for more efficient storage and accessibility.
 
 
 ---
+up:: [[Introduction to PKM]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass  
 prev:: [[PKM Definition Wikipedia]]
 next:: [[Drawbacks to the traditional approach]]
 

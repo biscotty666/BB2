@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Blockquotes and Callouts
 
 Start a line with > followed by a space.
@@ -60,5 +55,7 @@ Blockquotes and callouts can contain formatting, links and backlinks.
 - Quote
 
 ---
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
 prev:: [[Links]]
 next:: [[Tags]]

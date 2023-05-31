@@ -17,5 +17,7 @@ Plus we need an additional folder for fleeting notes. Directories are sorted alp
 - \+ New (fleeting notes)
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Obsidian Templates]]
+next:: [[Dataview]]

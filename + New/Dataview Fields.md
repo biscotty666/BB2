@@ -52,6 +52,8 @@ Field COM:: A field in comments
 
 
 ---
-up:: [[Obsidian]]
-X:: [[ObsPKMEssentials]]
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/PKM 
+prev:: [[Dataview]]
+next:: [[Dataview Queries]]
 aliases:: Another inline

@@ -24,3 +24,9 @@ I gave a quote in an earlier note[^2]
 Notice that it automatically adjusts the numbering of the footnotes in display view
 
 [^2]: Halasz, Frank G. (July 1988). ["Reflections on NoteCards: Seven Issues for the Next Generation of Hypermedia Systems"](https://doi.org/10.1145%2F48511.48514). _[Communications of the ACM](https://en.wikipedia.org/wiki/Communications_of_the_ACM "Communications of the ACM")_. **31** (7): 836–852. [doi](https://en.wikipedia.org/wiki/Doi_(identifier) "Doi (identifier)"):[10.1145/48511.48514](https://doi.org/10.1145%2F48511.48514).
+
+---
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
+prev:: [[Tags]]
+next:: [[Backlinks]]

@@ -22,5 +22,7 @@ We will look at
 - Embeds
 
 ---
-prev:: [[Introduction to the Obsidian Interface|GUIIntro]]
+up:: [[ObsPKMEssentials]]
+tags:: #note/product, #effort/ObsPKMClass, #on/Obsidian , #on/Markdown 
+prev:: [[Introduction to Obsidian]]
 next:: [[Headers]]

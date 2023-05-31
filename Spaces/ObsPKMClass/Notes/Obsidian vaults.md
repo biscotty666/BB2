@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: Vaults
 ---
 #### Vaults
@@ -12,5 +10,7 @@ aliases: Vaults
 - Backing up and copying notes or vaults are simple file operations
 
 ---
-prev:: [[Obsidian vaults|Vaults]]
-next:: [[Storage for life]]
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
+[prev:: [[Metadata]]]
+[next:: [[Storage for life]]]

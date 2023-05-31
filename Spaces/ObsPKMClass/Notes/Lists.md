@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Lists
 All lists can be nested/unnested using `Tab` and `Shft-Tab`. Folds are automatically created for nested lists.
 
@@ -34,5 +29,7 @@ Begin a line with `- [ ]`. A shortcut is `Ctrl-Space`
 - [ ] Third task
 
 ---
+up:: [[Markdown]]
+tags:: #on/Obsidian #on/Markdown #effort/ObsPKMClass #note/product #note/reference 
 prev:: [[Emphasis]]
 next:: [[Links]]

@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: 
 ---
 #### Storage for life
@@ -14,5 +12,7 @@ Because of this you are not tied to any specific
 - financial obligation
 
 ---
-prev:: [[Obsidian vaults|Vaults]]
-next:: [[Searching Obsidian]]
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
+[prev:: [[Obsidian vaults|Vaults]]]
+[next:: [[Searching Obsidian]]]

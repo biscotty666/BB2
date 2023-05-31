@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Note-taking in the age of computers
 
 Information stored digitally allows for greater volume and quicker retrieval. **However** note-taking practices in the US did not change. So quicker, but not that much quicker. 
@@ -16,5 +11,7 @@ And still, the more information, the more files to look through to find what you
 ** And a tool to implement it.**
 
 ---
-prev:: [[Niklas Luhmann]]
-next:: 
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM , #note/product , #effort/ObsPKMClass 
+prev:: [[Zettelkasten History]]
+next:: [[Niklas Luhmann]]

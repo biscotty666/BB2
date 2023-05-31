@@ -1,3 +1,6 @@
+---
+banner: "![[Idea.png]]"
+---
 ```start-multi-column  
 ID: ExampleRegion1  
 number of columns: 2  

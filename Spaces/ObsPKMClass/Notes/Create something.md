@@ -1,7 +1,5 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
-aliases: PKM Definition
+aliases:
 ---
 ## Create something to share
 
@@ -13,6 +11,8 @@ And even better, create something new to share
 - drawings, images
 
 ---
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[Sharing your information|Sharing]]
-next:: [[Install Obsidian]]
+next:: [[Getting started with Obsidian]]
 

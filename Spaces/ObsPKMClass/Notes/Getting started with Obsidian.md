@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference
-aliases: PKM Definition
----
 ## Getting started with Obsidian
 
 In this section we will cover
@@ -11,6 +6,8 @@ In this section we will cover
 - Markdown
 
 ---
+up:: [[Introduction to Obsidian]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[Create something]]
 next:: [[Install Obsidian]]
 

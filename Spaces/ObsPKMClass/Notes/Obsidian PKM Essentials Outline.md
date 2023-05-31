@@ -12,8 +12,12 @@ aliases: Outline
 5. Zettelkasten 💗 Obsidian
 6. Advanced topics
 
+---
+prev:: [[ObsPKMEssentials]]
+next:: [[PKM Definition Wikipedia|PKM Definition]]
+up:: [[ObsPKMEssentials]]
+tags:: #on/Obsidian #on/Markdown #effort/ObsPKMClass #note/product #note/reference 
 
-tag:: #output/class
 
 
 

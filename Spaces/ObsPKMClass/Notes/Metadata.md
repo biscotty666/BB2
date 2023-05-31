@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: 
 ---
 #### Metadata
@@ -10,5 +8,7 @@ aliases:
 - tags:  topic, source, dates, etc.
 
 ---
-prev:: [[Sources of information]]
+up:: [[Introduction to Zettelkasten]]
+tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
+prev:: [[Atomic Notes]]
 next:: [[Obsidian vaults|Vaults]]

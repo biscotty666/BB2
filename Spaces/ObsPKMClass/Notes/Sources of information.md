@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: 
 ---
 #### Sources of information
@@ -10,5 +8,7 @@ aliases:
 3. Interactions with others
 
 ---
-prev:: [[Atomic Notes]]
-next:: [[Metadata]]
+up:: [[Introduction to Zettelkasten]]
+[tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference  ]
+[prev:: [[No laughing matter]]]
+[next:: [[Atomic Notes]]]

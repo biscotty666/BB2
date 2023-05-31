@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 aliases: Atomic notes revisited
 ---
 #### Atomic notes
@@ -12,7 +10,8 @@ aliases: Atomic notes revisited
 5. Should contain metadata
 
 ---
-prev:: [[Who Uses Zettelkasten|Zettelkasten users]]
-next:: [[Sources of information]]
-
+up:: [[Introduction to Zettelkasten]]
+[tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference  ]
+[prev:: [[Sources of information]]]
+[next:: [[Metadata]]]
 

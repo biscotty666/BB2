@@ -1,8 +1,3 @@
----
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
----
 #### Backlinks
 - Link to other notes using `[[ ]]` around the name of the note
 - To embed the note in the current note add an ! before the opening brackets
@@ -41,5 +36,7 @@ You can directly link to text in another document by adding #^ directly after th
 
 ####
 ---
-prev:: [[Obsidian Embeds|Embeds]]
-next:: 
+up:: [[Markdown]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
+next:: [[Obsidian Embeds|Embeds]]
+prev:: [[Footnotes in Obsidian|Footnotes]]

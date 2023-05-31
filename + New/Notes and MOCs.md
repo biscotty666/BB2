@@ -14,5 +14,7 @@ We will consider several types of notes:
 Give structure to your notes with _Maps of content (MOCs)_. These can be anything from simple lists of notes to finished products like articles, blogs and even books.
 
 ---
-prev:: 
-next:: 
+up:: [[Zettelkasten Implementation in Obsidian|Implementation]]
+tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
+prev:: [[Obsidian Embeds]]
+next:: [[Types of notes]]
