@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Dataview.md",
-                "mode": "source",
+                "file": "Calendar/Daily Notes/Notes/2023-05-28.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -44,34 +44,21 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -995.5,
-                  "y": 781.5,
-                  "zoom": -3.022883462469664
+                  "x": -4752,
+                  "y": 1571,
+                  "zoom": -1.0620747821324488
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "f9d01eb602850dc6",
+            "id": "2b60ae7d06d07db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Daily Note Example 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d999e87ce7f59ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Daily Note Simple.md",
+                "file": "+ New/Daily Notes in Obsidian.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,9 +77,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "760268f65faa79a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Multi-Column Sandbox.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,8 +138,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Multi-Column Sandbox.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
+                "file": "+ New/Multi-Column Sandbox.md"
               }
             }
           },
@@ -256,8 +255,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0acdb0a51d0e68aa",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "cc261747cbab30f2",
@@ -270,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Multi-Column Sandbox.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Multi-Column Sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,16 +323,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c29898c2064a5b2f",
+  "active": "760268f65faa79a0",
   "lastOpenFiles": [
+    "+ New/Multi-Column Sandbox.md",
+    "+ New/Daily Notes in Obsidian.md",
+    "+ New/Meta Bind Plugin.md",
+    "Calendar/Daily Notes/Notes/2023-05-28.md",
+    "+ New/Dataview.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "+ New/Exc-20230529.sync-conflict-20230530-155745-BBO7X7A.md",
     "+ New/Exc-20230529.md",
     "+ New/Exc-20230530.md",
-    "+ New/Daily Notes in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "+ New/Daily Note Example 1.md",
     "Extras/Templates/Daily Note Simple.md",
-    "+ New/Dataview.md",
     "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
     "+ New/Dataview Queries.md",
     "Extras/Templates/Walk.md",
@@ -343,9 +353,6 @@
     "+ New/Dataview Implicit Fields.md",
     "Extras/Templates/Obsidian Note.md",
     "Templates",
-    "Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md",
-    "Cards/Zettelkasten History.md",
-    "+ New/Dataview Fields.md",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",

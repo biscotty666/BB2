@@ -15,19 +15,25 @@ Daily notes provide a central location to
 
 ##### Obsidian setup
 
-1. First we need to create 4 folders.
-	- Extras/Templates/Daily Note
-	- Calendar/Notes/Daily Note
+1. First create the folder "Calendar/Daily Notes.
 2. In Obsidian install _and enable_ the Calendar plugin
-3. In the Settings for Daily Note add the newly created directories where indicated
+3. In the Settings for "Daily Note" add
+ 	- Calendar/Daily Notes for New file location
+ 	- Extras/Templates/Daily Note for Template file location
 
-##### A basic daily note
 
-1. Let's start with a simple note. Later we can add task management and logging functions. For fun I threw in a little JavaScript to embed the prior day's note. (Yes you can use JavaScript in notes!)
+##### Daily note template
+
+1. Let's start with some frontmatter. Create a file Extras/Templates/Daily Note and add
 ```
-dates:: {{date}}
-tags:: #log/journal #note/daily 
 ---
+date: {{date}}
+tags: #log/journal #note/daily 
+---
+```
+
+2. Then create a basic layout with headers
+```
 ## {{title}}
 
 ### Today's Goals
@@ -35,6 +41,10 @@ tags:: #log/journal #note/daily
 ### Today's Progress
 
 ### Reflections
+
+### Logs
+
+### Tasks
 
 ---
 ## Yesterday's Note

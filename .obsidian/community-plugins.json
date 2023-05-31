@@ -15,5 +15,7 @@
   "obsidian-enhancing-export",
   "webpage-html-export",
   "obsidian-html-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-checklist-plugin",
+  "multi-column-markdown"
 ]
