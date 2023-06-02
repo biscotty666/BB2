@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Exc-20230531.md",
+                    "file": "+ New/Exc-20230602.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-20230531.md",
+            "file": "+ New/Exc-20230602.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-20230531.md",
+            "file": "+ New/Exc-20230602.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-20230531.md"
+            "file": "+ New/Exc-20230602.md"
           }
         }
       },
@@ -247,8 +247,11 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Exc-20230529.md",
+    "+ New/Exc-20230602.sync-conflict-20230602-160942-BBO7X7A.md",
+    "Extras/Images/inkscape-shortcuts.pdf",
+    "+ New/Exc-20230602.md",
     "+ New/Exc-20230531.md",
+    "+ New/Exc-20230529.md",
     "+ New/Exc-20230529.sync-conflict-20230530-155745-BBO7X7A.md",
     "+ New/Exc-20230530.md",
     "+ New/JavaScript Select Random Note.md",
@@ -271,8 +274,6 @@
     "Cards/Exc-20230521.md",
     "Calendar/Daily Notes/Notes/2023-05-21.md",
     "Cards/Ride-20240519.md",
-    "Calendar/Daily Notes/Notes/2023-05-19.md",
-    "Cards/Ride-20230518.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
@@ -297,7 +298,6 @@
     "Obsidian/Brian2/Extras/Images/lyt-crafting-mocs-3.jpg",
     "Obsidian/Brian2/Brian/snippets/StackedPain.css",
     "Obsidian/Brian2/Brian2/Test.canvas",
-    "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
     "Obsidian/Brian2/Test.canvas"
   ]
 }

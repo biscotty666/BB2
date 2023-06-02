@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c555f7447951db2d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Chapters/Chapter 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "c29898c2064a5b2f",
             "type": "leaf",
             "pinned": true,
@@ -31,31 +16,21 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": -3735.7241046096356,
-                  "y": 799.3157768704878,
-                  "zoom": -2.0292929793637873
+                  "x": -4210.329091183445,
+                  "y": -1443.471509554976,
+                  "zoom": -1.4228834624696645
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "b26d382779578042",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "fc972038544211a1",
+            "id": "f254f47b0df09c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Dataview Queries.md",
+                "file": "+ New/Animal Observation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,12 +38,25 @@
             }
           },
           {
-            "id": "3064ebf143b08626",
+            "id": "1a2e40bb203e827b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Zettelkasten Implementation in Obsidian.md",
+                "file": "+ New/Exc-20230602.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93839b392c723a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,6 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -210,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-02.md"
+              }
             }
           },
           {
@@ -251,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,10 +288,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b26d382779578042",
+  "active": "93839b392c723a51",
   "lastOpenFiles": [
+    "+ New/Observations.md",
+    "Calendar/Daily Notes/Notes/2023-06-02.md",
+    "+ New/Animal Observation.md",
+    "+ New/Exc-20230602.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Cards/Slope charts to compare a small number of observations.md",
     "+ New/Dataview Queries.md",
+    "Extras/Images/inkscape-shortcuts.pdf",
+    "+ New/Exc-20230602.sync-conflict-20230602-160942-BBO7X7A.md",
+    "Calendar/Daily Notes/Drawings/2023-05-04.excalidraw.md",
+    "Atlas/R.md",
+    "Calendar/Daily Notes/Notes/2023-05-04.md",
+    "+ New/Untitled 3.md",
+    "Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md",
+    "+ New/Dummy note.md",
+    "+ New/This is a new.md",
+    "+ New/Rookie.md",
+    "+ New/Untitled 2.md",
+    "Spaces/ObsPKMClass/Notes/Metadata.md",
     "+ New/Dataview Fields.md",
     "+ New/Dataview.md",
     "+ New/Obsidian Folders.md",
@@ -308,21 +318,6 @@
     "Spaces/ObsPKMClass/Notes/Markdown.md",
     "+ New/Introduction to Obsidian.md",
     "+ New/Introduction to Zettelkasten.md",
-    "+ New/Introduction to PKM.md",
-    "+ New/Maps of content (MOC).md",
-    "+ New/Types of notes.md",
-    "+ New/Notes and MOCs.md",
-    "Spaces/ObsPKMClass/Notes/Backlinks.md",
-    "Spaces/ObsPKMClass/Notes/Introduction to the Obsidian Interface.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
-    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Tags.md",
-    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
-    "Spaces/ObsPKMClass/Notes/Links.md",
-    "Spaces/ObsPKMClass/Notes/Lists.md",
-    "Spaces/ObsPKMClass/Notes/Emphasis.md",
-    "Spaces/ObsPKMClass/Notes/Headers.md",
-    "Spaces/ObsPKMClass/Notes/New Vault.md",
     "Templates",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
@@ -342,7 +337,6 @@
     "Spaces/ObsPKMClass/Resources/Pasted image 20230516232314.jpg",
     "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
     "Extras/PDFs/amsldoc.pdf",
-    "Extras/PDFs",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

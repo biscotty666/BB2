@@ -3,7 +3,7 @@ aliases: Vaults
 ---
 #### Vaults
 
-- All notes are plain text
+- All notes are plain text Markdown files
 - Notes are stored locally on your computer
 - Storage for life
 - Any directory can be opened "as a vault" in Obsidian

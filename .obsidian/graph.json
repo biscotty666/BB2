@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#effort/ObsPKM",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -129,14 +129,14 @@
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.6,
+  "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 0.865625,
   "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.40625,
+  "centerStrength": 0.479166666666667,
   "repelStrength": 14.2708333333333,
   "linkStrength": 0.348958333333333,
-  "linkDistance": 346,
-  "scale": 0.1019610562353124,
+  "linkDistance": 348,
+  "scale": 0.3441185647941794,
   "close": true
 }
