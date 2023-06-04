@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Animal Observation.md",
+                "file": "+ New/Mountain Logo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,25 +38,12 @@
             }
           },
           {
-            "id": "1a2e40bb203e827b",
+            "id": "a92a59225d726289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Exc-20230602.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93839b392c723a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
+                "file": "+ New/Inkscape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
+                "file": "+ New/Inkscape.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -200,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-02.md"
+                "file": "+ New/Inkscape.md"
               }
             }
           },
@@ -242,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
+                "file": "+ New/Inkscape.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-02.md",
+                "file": "+ New/Inkscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,11 +275,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93839b392c723a51",
+  "active": "a92a59225d726289",
   "lastOpenFiles": [
-    "+ New/Observations.md",
-    "Calendar/Daily Notes/Notes/2023-06-02.md",
+    "+ New/Mountain Logo.md",
+    "+ New/Inkscape.md",
+    "Extras/Images/MountainLogo.svg",
+    "+ New/Colorful Birds.md",
+    "Cards/Logs.md",
+    "Extras/Templates/Logo.md",
     "+ New/Animal Observation.md",
+    "Extras/Images/GRCircleBird.png",
+    "Extras/Images/GRCircleBird.svg",
+    "Extras/Images/MountainLogo.png",
+    "Calendar/Daily Notes/Notes/2023-06-02.md",
+    "+ New/Inkscape fish text.md",
+    "+ New/Inkscape power stroke.md",
+    "+ New/Inkscape fancy font.md",
+    "+ New/Observations.md",
     "+ New/Exc-20230602.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Cards/Slope charts to compare a small number of observations.md",
@@ -309,15 +308,6 @@
     "+ New/Rookie.md",
     "+ New/Untitled 2.md",
     "Spaces/ObsPKMClass/Notes/Metadata.md",
-    "+ New/Dataview Fields.md",
-    "+ New/Dataview.md",
-    "+ New/Obsidian Folders.md",
-    "+ New/Obsidian Templates.md",
-    "+ New/Zettelkasten Implementation in Obsidian.md",
-    "+ New/Other considerations making notes in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Markdown.md",
-    "+ New/Introduction to Obsidian.md",
-    "+ New/Introduction to Zettelkasten.md",
     "Templates",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
@@ -332,10 +322,6 @@
     "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
     "Extras/Images/Obsidian_software_logo.svg",
-    "Extras/Images/Niklas Luhmann.png",
-    "Extras/Images/Pasted image 20230516232314.jpg",
-    "Spaces/ObsPKMClass/Resources/Pasted image 20230516232314.jpg",
-    "Spaces/ObsPKMClass/Resources/Card Catalog o50.png",
     "Extras/PDFs/amsldoc.pdf",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
