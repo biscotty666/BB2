@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Inkscape.md",
+                "file": "+ New/Vector Font Logo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -130,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Inkscape.md",
+                "file": "+ New/Vector Font Logo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Inkscape.md"
+                "file": "+ New/Vector Font Logo.md"
               }
             }
           },
@@ -229,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Inkscape.md",
+                "file": "+ New/Vector Font Logo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Inkscape.md",
+                "file": "+ New/Vector Font Logo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,8 +276,11 @@
   },
   "active": "a92a59225d726289",
   "lastOpenFiles": [
-    "+ New/Mountain Logo.md",
+    "+ New/Create Palette Gradient in Inkscape.md",
+    "+ New/Vector Font Logo.md",
     "+ New/Inkscape.md",
+    "+ New/Obsidian Concept Visualization.md",
+    "+ New/Mountain Logo.md",
     "Extras/Images/MountainLogo.svg",
     "+ New/Colorful Birds.md",
     "Cards/Logs.md",
@@ -306,8 +308,6 @@
     "+ New/Dummy note.md",
     "+ New/This is a new.md",
     "+ New/Rookie.md",
-    "+ New/Untitled 2.md",
-    "Spaces/ObsPKMClass/Notes/Metadata.md",
     "Templates",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",

@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Inkscape fish text.md",
+                    "file": "+ New/Inkscape path set operations.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Inkscape fish text.md",
+            "file": "+ New/Inkscape path set operations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Inkscape fish text.md",
+            "file": "+ New/Inkscape path set operations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Inkscape fish text.md"
+            "file": "+ New/Inkscape path set operations.md"
           }
         }
       },
@@ -247,8 +247,10 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Inkscape power stroke.md",
+    "+ New/Obsidian Concept Visualization.md",
+    "+ New/Inkscape path set operations.md",
     "+ New/Inkscape fish text.md",
+    "+ New/Inkscape power stroke.md",
     "+ New/Inkscape fancy font.md",
     "+ New/Exc-20230602.md",
     "+ New/Exc-20230602.sync-conflict-20230602-160942-BBO7X7A.md",
@@ -272,8 +274,6 @@
     "Cards/Exc-20230523.md",
     "+ New/Exc-20230524.md",
     "Cards/Exc-20230524.md",
-    "Calendar/Daily Notes/Notes/2023-05-24.md",
-    "Calendar/Daily Notes/Notes/2023-05-23.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
