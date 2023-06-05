@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Inkscape path set operations.md",
+                    "file": "+ New/Fediverse info.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Inkscape path set operations.md",
+            "file": "+ New/Fediverse info.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Inkscape path set operations.md",
+            "file": "+ New/Fediverse info.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Inkscape path set operations.md"
+            "file": "+ New/Fediverse info.md"
           }
         }
       },
@@ -247,8 +247,11 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Obsidian Concept Visualization.md",
+    "+ New/Inkscape tutorial Logos By Nick.md",
+    "+ New/Fediverse info.md",
     "+ New/Inkscape path set operations.md",
+    "Extras/Images/windows-shortcuts.pdf",
+    "+ New/Obsidian Concept Visualization.md",
     "+ New/Inkscape fish text.md",
     "+ New/Inkscape power stroke.md",
     "+ New/Inkscape fancy font.md",
@@ -272,8 +275,6 @@
     "+ New/Exc-20230525.md",
     "Cards/Exc-20230525.md",
     "Cards/Exc-20230523.md",
-    "+ New/Exc-20230524.md",
-    "Cards/Exc-20230524.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
@@ -296,7 +297,6 @@
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Brian/Attachments/DSm1RBasics 1.pdf",
     "Obsidian/Brian2/Extras/Images/lyt-crafting-mocs-3.jpg",
-    "Obsidian/Brian2/Brian/snippets/StackedPain.css",
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Obsidian/Brian2/Test.canvas"
   ]

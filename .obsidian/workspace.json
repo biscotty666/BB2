@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Vector Font Logo.md",
+                "file": "+ New/Fediverse info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Vector Font Logo.md",
+                "file": "+ New/Fediverse info.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Vector Font Logo.md"
+                "file": "+ New/Fediverse info.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Vector Font Logo.md",
+                "file": "+ New/Fediverse info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Vector Font Logo.md",
+                "file": "+ New/Fediverse info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,8 +276,11 @@
   },
   "active": "a92a59225d726289",
   "lastOpenFiles": [
-    "+ New/Create Palette Gradient in Inkscape.md",
     "+ New/Vector Font Logo.md",
+    "Extras/Images/windows-shortcuts.pdf",
+    "+ New/Fediverse info.md",
+    "+ New/Inkscape tutorial Logos By Nick.md",
+    "+ New/Create Palette Gradient in Inkscape.md",
     "+ New/Inkscape.md",
     "+ New/Obsidian Concept Visualization.md",
     "+ New/Mountain Logo.md",
@@ -305,9 +308,6 @@
     "Calendar/Daily Notes/Notes/2023-05-04.md",
     "+ New/Untitled 3.md",
     "Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md",
-    "+ New/Dummy note.md",
-    "+ New/This is a new.md",
-    "+ New/Rookie.md",
     "Templates",
     "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
@@ -322,7 +322,6 @@
     "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
     "Extras/Images/Obsidian_software_logo.svg",
-    "Extras/PDFs/amsldoc.pdf",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
