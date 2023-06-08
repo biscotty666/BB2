@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Fediverse info.md",
+                    "file": "+ New/Color palettes.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Fediverse info.md",
+            "file": "+ New/Color palettes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Fediverse info.md",
+            "file": "+ New/Color palettes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Fediverse info.md"
+            "file": "+ New/Color palettes.md"
           }
         }
       },
@@ -247,8 +247,11 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Inkscape tutorial Logos By Nick.md",
+    "+ New/Exc-20230605.md",
+    "+ New/Color palettes.md",
     "+ New/Fediverse info.md",
+    "+ New/Inkscape tutorial Logos By Nick.sync-conflict-20230605-140922-OBMWZHZ.md",
+    "+ New/Inkscape tutorial Logos By Nick.md",
     "+ New/Inkscape path set operations.md",
     "Extras/Images/windows-shortcuts.pdf",
     "+ New/Obsidian Concept Visualization.md",
@@ -272,9 +275,6 @@
     "+ New/Daily note video.md",
     "Calendar/Daily Notes/Notes/2023-05-26.md",
     "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
-    "+ New/Exc-20230525.md",
-    "Cards/Exc-20230525.md",
-    "Cards/Exc-20230523.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",

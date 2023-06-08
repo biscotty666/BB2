@@ -8,42 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c29898c2064a5b2f",
+            "id": "fe5a86beb08dc74f",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-                "viewState": {
-                  "x": -4210.329091183445,
-                  "y": -1443.471509554976,
-                  "zoom": -1.4228834624696645
-                }
+                "file": "+ New/Inkscape.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "f254f47b0df09c4c",
+            "id": "5639a7bf8bdf93c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Mountain Logo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92a59225d726289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/Fediverse info.md",
+                "file": "+ New/Forest Images.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Fediverse info.md",
+                "file": "+ New/Forest Images.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -186,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Fediverse info.md"
+                "file": "+ New/Forest Images.md"
               }
             }
           },
@@ -228,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Fediverse info.md",
+                "file": "+ New/Forest Images.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Fediverse info.md",
+                "file": "+ New/Forest Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,54 +259,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a92a59225d726289",
+  "active": "5639a7bf8bdf93c2",
   "lastOpenFiles": [
-    "+ New/Vector Font Logo.md",
-    "Extras/Images/windows-shortcuts.pdf",
-    "+ New/Fediverse info.md",
-    "+ New/Inkscape tutorial Logos By Nick.md",
-    "+ New/Create Palette Gradient in Inkscape.md",
+    "Extras/Images/IMG_20230519_085734439_HDR.jpg",
+    "Extras/Images/ForestTrace1.png",
+    "Extras/Images/GhostForest.png",
+    "Extras/Images/1686132605856.png",
+    "Extras/Images/1686132597837.png",
+    "Extras/Images/1686132588151.png",
+    "Extras/Images/1686132625694.png",
+    "Extras/Images/1686132718825.png",
     "+ New/Inkscape.md",
+    "+ New/Forest Images.md",
+    "Extras/Templates/Image Colors.md",
+    "Extras/Templates/Image Creative.md",
+    "Extras/Templates/LogosByNick.md",
+    "Sources/Color palettes.md",
+    "Extras/Images/PossibleColors.svg",
+    "Extras/Images/PossibleColors 1.png",
+    "Extras/Images/PossibleColors.png",
+    "+ New/Vector Font Logo.md",
+    "+ New/Create Palette Gradient in Inkscape.md",
+    "Sources/Mountain Logo 2.md",
+    "Sources/Mountain Logo.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Exc-20230605.md",
+    "+ New/Inkscape tutorial Logos By Nick.md",
+    "+ New/Inkscape tutorial Logos By Nick.sync-conflict-20230605-140922-OBMWZHZ.md",
+    "+ New/Fediverse info.md",
+    "Extras/Images/windows-shortcuts.pdf",
     "+ New/Obsidian Concept Visualization.md",
-    "+ New/Mountain Logo.md",
-    "Extras/Images/MountainLogo.svg",
     "+ New/Colorful Birds.md",
     "Cards/Logs.md",
-    "Extras/Templates/Logo.md",
     "+ New/Animal Observation.md",
-    "Extras/Images/GRCircleBird.png",
-    "Extras/Images/GRCircleBird.svg",
-    "Extras/Images/MountainLogo.png",
     "Calendar/Daily Notes/Notes/2023-06-02.md",
     "+ New/Inkscape fish text.md",
     "+ New/Inkscape power stroke.md",
     "+ New/Inkscape fancy font.md",
     "+ New/Observations.md",
     "+ New/Exc-20230602.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Cards/Slope charts to compare a small number of observations.md",
-    "+ New/Dataview Queries.md",
     "Extras/Images/inkscape-shortcuts.pdf",
-    "+ New/Exc-20230602.sync-conflict-20230602-160942-BBO7X7A.md",
-    "Calendar/Daily Notes/Drawings/2023-05-04.excalidraw.md",
-    "Atlas/R.md",
-    "Calendar/Daily Notes/Notes/2023-05-04.md",
-    "+ New/Untitled 3.md",
-    "Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md",
     "Templates",
-    "Spaces/ObsPKMClass/Resources/Declaring Fields.png",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.temp",
-    "Spaces/ObsPKMClass/Resources/Obsidian New Vault.png",
-    "Spaces/ObsPKMClass/Resources/Obsidian Open Vault.png",
     "Spaces/ObsPKMClass/Resources/Folders.mp4",
     "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.xcf",
-    "Spaces/ObsPKMClass/Resources/Daily Note Example.png",
-    "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.png",
-    "Extras/Images/Obsidian_software_logo.svg",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

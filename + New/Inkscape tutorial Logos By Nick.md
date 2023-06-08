@@ -11,6 +11,9 @@ To return the center of rotation back to the center of an object shift click on 
 Toggle snapping with % sign
 
 
+
+![[windows-shortcuts.pdf]]
+
 ---
 
 ### References
