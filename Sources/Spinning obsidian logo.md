@@ -4,7 +4,7 @@ X::
 
 ## Spinning obsidian logo
 
-
+[[obsidian3.gif]]
 
 ---
 

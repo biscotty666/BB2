@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Color palettes.md",
+                    "file": "Atlas/Inkscape.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Color palettes.md",
+            "file": "Atlas/Inkscape.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Color palettes.md",
+            "file": "Atlas/Inkscape.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Color palettes.md"
+            "file": "Atlas/Inkscape.md"
           }
         }
       },
@@ -247,6 +247,7 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
+    "Sources/Forest Images.md",
     "+ New/Exc-20230605.md",
     "+ New/Color palettes.md",
     "+ New/Fediverse info.md",
@@ -274,7 +275,6 @@
     "+ New/Exc-20230526.md",
     "+ New/Daily note video.md",
     "Calendar/Daily Notes/Notes/2023-05-26.md",
-    "Calendar/Daily Notes/Notes/2023-05-25.sync-conflict-20230525-142232-OBMWZHZ.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",

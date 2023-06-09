@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Inkscape.md",
+                "file": "Atlas/Inkscape.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "5639a7bf8bdf93c2",
+            "id": "56d2158e3af26af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Forest Images.md",
+                "file": "+ New/Neon Letters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -114,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Forest Images.md",
+                "file": "+ New/Neon Letters.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Forest Images.md"
+                "file": "+ New/Neon Letters.md"
               }
             }
           },
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Forest Images.md",
+                "file": "+ New/Neon Letters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Forest Images.md",
+                "file": "+ New/Neon Letters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,46 +260,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5639a7bf8bdf93c2",
+  "active": "56d2158e3af26af5",
   "lastOpenFiles": [
-    "Extras/Images/IMG_20230519_085734439_HDR.jpg",
-    "Extras/Images/ForestTrace1.png",
-    "Extras/Images/GhostForest.png",
-    "Extras/Images/1686132605856.png",
-    "Extras/Images/1686132597837.png",
-    "Extras/Images/1686132588151.png",
-    "Extras/Images/1686132625694.png",
-    "Extras/Images/1686132718825.png",
-    "+ New/Inkscape.md",
-    "+ New/Forest Images.md",
-    "Extras/Templates/Image Colors.md",
-    "Extras/Templates/Image Creative.md",
-    "Extras/Templates/LogosByNick.md",
-    "Sources/Color palettes.md",
-    "Extras/Images/PossibleColors.svg",
-    "Extras/Images/PossibleColors 1.png",
-    "Extras/Images/PossibleColors.png",
-    "+ New/Vector Font Logo.md",
-    "+ New/Create Palette Gradient in Inkscape.md",
-    "Sources/Mountain Logo 2.md",
-    "Sources/Mountain Logo.md",
+    "Extras/Images/Neon Letters.svg",
+    "Extras/Images/Neon Letters.png",
+    "+ New/Learning Curve Font.md",
+    "+ New/Neon Letters.md",
+    "Extras/Images/LearningCurveFont2.png",
+    "+ New/Split text in Inkscape.md",
+    "Extras/Images/LearningCurveFont1.png",
+    "Extras/Images/SplitText.svg",
+    "Extras/Images/SplitText 1.png",
+    "Extras/Images/SplitText.png",
+    "+ New/Motion Letters.md",
+    "Extras/Images/MountainLetters.png",
+    "Atlas/Inkscape.md",
+    "Extras/Images/MotionLetters.svg",
+    "Extras/Images/path105550.png",
+    "Extras/Images/MotionLetters.png",
+    "+ New/Obsidian Icons.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
+    "+ New/Obsidian installation and first note.md",
+    "+ New/Origins of free market.md",
+    "Sources/Sample average.md",
+    "+ New/Saraswati.md",
+    "+ New/Satelite Imagery.md",
+    "+ New/Spread.md",
+    "+ New/Testing.md",
+    "+ New/Table demo.md",
+    "+ New/Video Terminology.md",
+    "Spaces/ObsPKMClass/Notes/Types of notes.md",
+    "Spaces/ObsPKMClass/Notes/No laughing matter.md",
+    "+ New/Networking Commands.md",
+    "+ New/Multi-Column Sandbox.md",
+    "Spaces/ObsPKMClass/Notes/Maps of content (MOC).md",
+    "+ New/JavaScript Select Random Note.md",
+    "+ New/Leg Cramps Study.md",
+    "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
+    "Spaces/ObsPKMClass/Notes/Introduction to PKM.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "+ New/Exc-20230605.md",
-    "+ New/Inkscape tutorial Logos By Nick.md",
-    "+ New/Inkscape tutorial Logos By Nick.sync-conflict-20230605-140922-OBMWZHZ.md",
-    "+ New/Fediverse info.md",
     "Extras/Images/windows-shortcuts.pdf",
-    "+ New/Obsidian Concept Visualization.md",
-    "+ New/Colorful Birds.md",
-    "Cards/Logs.md",
-    "+ New/Animal Observation.md",
-    "Calendar/Daily Notes/Notes/2023-06-02.md",
-    "+ New/Inkscape fish text.md",
-    "+ New/Inkscape power stroke.md",
-    "+ New/Inkscape fancy font.md",
-    "+ New/Observations.md",
-    "+ New/Exc-20230602.md",
-    "Cards/Slope charts to compare a small number of observations.md",
     "Extras/Images/inkscape-shortcuts.pdf",
     "Templates",
     "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
