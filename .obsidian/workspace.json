@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Neon Letters.md",
+                "file": "+ New/10 Step Process for Photo Editing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Neon Letters.md",
+                "file": "+ New/10 Step Process for Photo Editing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Neon Letters.md"
+                "file": "+ New/10 Step Process for Photo Editing.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Neon Letters.md",
+                "file": "+ New/10 Step Process for Photo Editing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Neon Letters.md",
+                "file": "+ New/10 Step Process for Photo Editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,22 +262,26 @@
   },
   "active": "56d2158e3af26af5",
   "lastOpenFiles": [
+    "Extras/Images/BlondWomanAfter.png",
+    "Extras/Images/BlondWoman.jpg",
+    "Extras/Templates/DaviesMedia.md",
+    "+ New/10 Step Process for Photo Editing.md",
+    "+ New/Line Style Letters.md",
+    "+ New/Joan Rivers Zettelkasten.md",
+    "Extras/Images/LineStyleLetters 2.svg",
+    "Extras/Images/LineStyleLetters 1.png",
+    "Extras/Images/LineStyleLetters 1.svg",
+    "Extras/Images/LineStyleLetters.svg",
+    "Extras/Images/LineStyleLetters.png",
+    "+ New/Neon Letters.md",
     "Extras/Images/Neon Letters.svg",
     "Extras/Images/Neon Letters.png",
     "+ New/Learning Curve Font.md",
-    "+ New/Neon Letters.md",
     "Extras/Images/LearningCurveFont2.png",
     "+ New/Split text in Inkscape.md",
     "Extras/Images/LearningCurveFont1.png",
-    "Extras/Images/SplitText.svg",
-    "Extras/Images/SplitText 1.png",
-    "Extras/Images/SplitText.png",
     "+ New/Motion Letters.md",
-    "Extras/Images/MountainLetters.png",
     "Atlas/Inkscape.md",
-    "Extras/Images/MotionLetters.svg",
-    "Extras/Images/path105550.png",
-    "Extras/Images/MotionLetters.png",
     "+ New/Obsidian Icons.md",
     "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
     "+ New/Obsidian installation and first note.md",
@@ -294,10 +298,6 @@
     "+ New/Networking Commands.md",
     "+ New/Multi-Column Sandbox.md",
     "Spaces/ObsPKMClass/Notes/Maps of content (MOC).md",
-    "+ New/JavaScript Select Random Note.md",
-    "+ New/Leg Cramps Study.md",
-    "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
-    "Spaces/ObsPKMClass/Notes/Introduction to PKM.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Extras/Images/windows-shortcuts.pdf",
     "Extras/Images/inkscape-shortcuts.pdf",
