@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Joan Rivers Zettelkasten.md",
+                    "file": "+ New/GIMP Layer Modes.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Joan Rivers Zettelkasten.md",
+            "file": "+ New/GIMP Layer Modes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Joan Rivers Zettelkasten.md",
+            "file": "+ New/GIMP Layer Modes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Joan Rivers Zettelkasten.md"
+            "file": "+ New/GIMP Layer Modes.md"
           }
         }
       },
@@ -247,8 +247,10 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Obsidian Icons.md",
+    "+ New/Top 5 text effects in GIMP.md",
+    "+ New/GIMP Layer Modes.md",
     "+ New/Joan Rivers Zettelkasten.md",
+    "+ New/Obsidian Icons.md",
     "Atlas/Inkscape.md",
     "Extras/Images/Neon Letters.svg",
     "Extras/Images/Neon Letters.png",
@@ -277,8 +279,6 @@
     "+ New/Exc-20230530.md",
     "+ New/JavaScript Select Random Note.md",
     "+ New/Exc-20230528.md",
-    "+ New/Testing.md",
-    "+ New/Origins of free market.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
