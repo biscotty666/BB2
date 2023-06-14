@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Cylinder Wrap Text.md",
+                "file": "+ New/Potential Fonts for ObsPKM Class.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#image/logo",
+                "query": "inkscape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Cylinder Wrap Text.md",
+                "file": "+ New/Potential Fonts for ObsPKM Class.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Cylinder Wrap Text.md"
+                "file": "+ New/Potential Fonts for ObsPKM Class.md"
               }
             }
           },
@@ -215,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Cylinder Wrap Text.md",
+                "file": "+ New/Potential Fonts for ObsPKM Class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Cylinder Wrap Text.md",
+                "file": "+ New/Potential Fonts for ObsPKM Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,42 +262,42 @@
   },
   "active": "56d2158e3af26af5",
   "lastOpenFiles": [
-    "+ New/Cubic Text Effect.md",
+    "Extras/Images/ClassFonts.pdf",
+    "+ New/Box text with Inkscape.md",
+    "+ New/Potential Fonts for ObsPKM Class.md",
+    "+ New/Exc-20230607.md",
+    "+ New/Exc-20230611b.md",
+    "+ New/Exc-20230613.md",
+    "+ New/Exc-20230609.md",
+    "Extras/Templates/Sweater Cat Designs.md",
+    "+ New/Split text in Inkscape.md",
+    "+ New/Neon Letters.md",
+    "Sources/Mountain Logo 2.md",
+    "Sources/Mountain Logo.md",
+    "+ New/Motion Letters.md",
+    "+ New/Line Style Letters.md",
+    "+ New/Inkscape tutorial Logos By Nick.md",
+    "+ New/Inkscape power stroke.md",
+    "+ New/Inkscape path set operations.md",
+    "+ New/Inkscape fish text.md",
+    "+ New/Inkscape fancy font.md",
+    "Sources/Forest Images.md",
+    "Sources/Colorful Birds.md",
+    "Sources/Color palettes.md",
+    "+ New/5 text effects in Inkscape.md",
     "+ New/Cylinder Wrap Text.md",
-    "Atlas/Inkscape.md",
+    "Extras/Images/5 Effects Text 1.svg",
+    "Extras/Images/5 Effects Text.svg",
+    "Extras/Images/5 Effects Text 1.png",
+    "Extras/Images/5 Effects Text.png",
+    "Extras/Templates/DaviesMedia.md",
+    "Extras/Images/CylinderText.png",
+    "+ New/Cubic Text Effect.md",
     "Extras/Images/GlowingNeon 1.png",
     "Extras/Images/GlowingNeon.png",
     "Extras/Images/BrickWallHD.jpg",
-    "+ New/Geometric Designs in Gimp.md",
-    "+ New/Neon Letters GIMP.md",
-    "+ New/GIMP Layer Modes.md",
     "Extras/Images/Geometric Line Art 1.png",
     "Extras/Images/Geometric Line Art.png",
-    "+ New/Layered typography with GIMP.md",
-    "Extras/Images/Layered Typography.png",
-    "+ New/10 Step Process for Photo Editing.md",
-    "+ New/Top 5 text effects in GIMP.md",
-    "Extras/Images/Title Example.png",
-    "Extras/Images/BlondWomanAfter.png",
-    "Extras/Images/BlondWoman.jpg",
-    "Extras/Templates/DaviesMedia.md",
-    "+ New/Line Style Letters.md",
-    "+ New/Joan Rivers Zettelkasten.md",
-    "Extras/Images/LineStyleLetters 2.svg",
-    "+ New/Neon Letters.md",
-    "+ New/Learning Curve Font.md",
-    "+ New/Split text in Inkscape.md",
-    "+ New/Motion Letters.md",
-    "+ New/Obsidian Icons.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
-    "+ New/Obsidian installation and first note.md",
-    "+ New/Origins of free market.md",
-    "Sources/Sample average.md",
-    "+ New/Saraswati.md",
-    "+ New/Satelite Imagery.md",
-    "+ New/Spread.md",
-    "+ New/Testing.md",
-    "+ New/Table demo.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Extras/Images/windows-shortcuts.pdf",
     "Extras/Images/inkscape-shortcuts.pdf",

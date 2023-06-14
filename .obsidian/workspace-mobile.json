@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/GIMP Layer Modes.md",
+                    "file": "+ New/Exc-20230607.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/GIMP Layer Modes.md",
+            "file": "+ New/Exc-20230607.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/GIMP Layer Modes.md",
+            "file": "+ New/Exc-20230607.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/GIMP Layer Modes.md"
+            "file": "+ New/Exc-20230607.md"
           }
         }
       },
@@ -247,8 +247,12 @@
   },
   "active": "e2e228ed3522f203",
   "lastOpenFiles": [
-    "+ New/Top 5 text effects in GIMP.md",
+    "+ New/Exc-20230609.md",
+    "+ New/Exc-20230607.md",
+    "+ New/Exc-20230611b.md",
+    "+ New/Exc-20230613.md",
     "+ New/GIMP Layer Modes.md",
+    "+ New/Top 5 text effects in GIMP.md",
     "+ New/Joan Rivers Zettelkasten.md",
     "+ New/Obsidian Icons.md",
     "Atlas/Inkscape.md",
@@ -275,10 +279,6 @@
     "Extras/Images/inkscape-shortcuts.pdf",
     "+ New/Exc-20230531.md",
     "+ New/Exc-20230529.md",
-    "+ New/Exc-20230529.sync-conflict-20230530-155745-BBO7X7A.md",
-    "+ New/Exc-20230530.md",
-    "+ New/JavaScript Select Random Note.md",
-    "+ New/Exc-20230528.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
