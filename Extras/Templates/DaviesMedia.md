@@ -22,4 +22,6 @@ png::
 ---
 
 up:: [[Gimp]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign 
+tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign  #on/Graphics 
+Status:: New
+Priority:: 

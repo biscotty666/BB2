@@ -47,12 +47,12 @@
                 "group": "667e7d1d7128059c"
               },
               {
-                "id": "e2e228ed3522f203",
+                "id": "8c6e2a216eb52e96",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Exc-20230607.md",
+                    "file": "+ New/Exc-20230611b.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-20230607.md",
+            "file": "+ New/Exc-20230611b.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-20230607.md",
+            "file": "+ New/Exc-20230611b.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-20230607.md"
+            "file": "+ New/Exc-20230611b.md"
           }
         }
       },
@@ -245,40 +245,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2e228ed3522f203",
+  "active": "8c6e2a216eb52e96",
   "lastOpenFiles": [
-    "+ New/Exc-20230609.md",
-    "+ New/Exc-20230607.md",
-    "+ New/Exc-20230611b.md",
-    "+ New/Exc-20230613.md",
-    "+ New/GIMP Layer Modes.md",
-    "+ New/Top 5 text effects in GIMP.md",
-    "+ New/Joan Rivers Zettelkasten.md",
-    "+ New/Obsidian Icons.md",
-    "Atlas/Inkscape.md",
+    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian.md",
+    "Sources/Cylinder Wrap Text.md",
+    "Sources/Cubic Text Effect.md",
+    "Extras/Images/3D Box Type.png",
+    "Sources/Btrfs backup snapshots.md",
+    "Sources/Box text with Inkscape.md",
+    "Sources/Another Svelte project.md",
+    "Sources/Advanced Slides Doc Walkthrough.md",
+    "Sources/10 Step Process for Photo Editing.md",
+    "Sources/5 text effects in Inkscape.md",
+    "Calendar/Logs/Exc-20230616.md",
+    "Calendar/Daily Notes/Notes/2023-06-16.md",
+    "Calendar/Logs/Exc-20230615.md",
+    "Calendar/Daily Notes/Notes/2023-06-15.sync-conflict-20230616-140036-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-06-15.md",
+    "Calendar/Logs/Exc-20230614.md",
+    "Calendar/Daily Notes/Notes/2023-06-14.sync-conflict-20230616-135906-OBMWZHZ.md",
+    "Calendar/Daily Notes/Notes/2023-06-14.md",
+    "Calendar/Logs/Exc-20230613.md",
+    "Calendar/Daily Notes/Notes/2023-06-13.md",
+    "Calendar/Logs/Exc-20230611.md",
+    "Calendar/Daily Notes/Notes/2023-06-11.md",
+    "+ New/Exc-20230614.md",
+    "Calendar/Logs/Exc-20230609.md",
+    "Calendar/Daily Notes/Notes/2023-06-09.md",
+    "Calendar/Logs/Exc-20230607.md",
+    "Calendar/Daily Notes/Notes/2023-06-07.md",
     "Extras/Images/Neon Letters.svg",
     "Extras/Images/Neon Letters.png",
-    "+ New/Neon Letters.md",
-    "+ New/Learning Curve Font.md",
     "Extras/Images/LearningCurveFont2.png",
     "Extras/Images/LearningCurveFont1.png",
-    "Sources/Forest Images.md",
-    "+ New/Exc-20230605.md",
-    "+ New/Color palettes.md",
-    "+ New/Fediverse info.md",
-    "+ New/Inkscape tutorial Logos By Nick.sync-conflict-20230605-140922-OBMWZHZ.md",
-    "+ New/Inkscape tutorial Logos By Nick.md",
-    "+ New/Inkscape path set operations.md",
     "Extras/Images/windows-shortcuts.pdf",
-    "+ New/Obsidian Concept Visualization.md",
-    "+ New/Inkscape fish text.md",
-    "+ New/Inkscape power stroke.md",
-    "+ New/Inkscape fancy font.md",
-    "+ New/Exc-20230602.md",
-    "+ New/Exc-20230602.sync-conflict-20230602-160942-BBO7X7A.md",
     "Extras/Images/inkscape-shortcuts.pdf",
-    "+ New/Exc-20230531.md",
-    "+ New/Exc-20230529.md",
     "Extras/Images/Subnet-Guide.xlsx.pdf",
     "Extras/Images/Screenshot_20230522-073550.png",
     "Calendar/2022",
@@ -294,7 +295,6 @@
     "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
     "Obsidian/Brian2/Brian2/Extras/Images/lyt-crafting-mocs-2.jpg",
     "Obsidian/Brian2/Brian2/Extras/Images/NLP.pdf",
-    "Obsidian/Brian2/Extras/Images/flow-four-factors.png",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Brian/Attachments/DSm1RBasics 1.pdf",
     "Obsidian/Brian2/Brian2/Test.canvas",

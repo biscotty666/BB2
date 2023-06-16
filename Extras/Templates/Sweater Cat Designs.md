@@ -23,4 +23,6 @@ png::
 ---
 
 up:: [[Inkscape]]
-tags:: #note/resource #image/logo #source/video #source/SweaterCatDesigns 
+tags:: #note/resource #image/logo #source/video #source/SweaterCatDesigns #on/Graphics 
+Status:: New
+Priority:: 

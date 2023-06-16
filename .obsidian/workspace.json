@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1a116e76bc1432d4",
+        "id": "426b44f60ff0e3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5a86beb08dc74f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Inkscape.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "56d2158e3af26af5",
+            "id": "79906c2ed5738363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Writeup Syncthing experience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inkscape",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Writeup Syncthing experience.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -172,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Potential Fonts for ObsPKM Class.md"
+                "file": "+ New/Writeup Syncthing experience.md"
               }
             }
           },
@@ -214,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Writeup Syncthing experience.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Writeup Syncthing experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5,
+    "width": 351.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -256,59 +239,59 @@
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "56d2158e3af26af5",
+  "active": "79906c2ed5738363",
   "lastOpenFiles": [
+    "+ New/Zettelkasten Implementation in Obsidian.md",
+    "+ New/Writeup Syncthing experience.md",
+    "+ New/Video Terminology.md",
+    "Cards/Top 5 text effects in GIMP.md",
+    "+ New/Svelte Readme.md",
+    "Cards/Spread.md",
+    "Cards/Split text in Inkscape.md",
+    "+ New/Satelite Imagery.md",
+    "Cards/Reflected in water logo.md",
+    "+ New/Record sales.md",
+    "+ New/Readwise glass web notes.md",
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Sources/Photo into logo.md",
+    "+ New/Patch Kali VM.md",
+    "+ New/Origins of free market.md",
+    "Sources/Obsidian Icons.md",
+    "+ New/Obsidian installation and first note.md",
+    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Folders.md",
+    "Sources/Obsidian Concept Visualization.md",
+    "+ New/Networking Commands.md",
+    "+ New/Observations.md",
+    "Cards/Neon Letters GIMP.md",
+    "Cards/Neon Letters.md",
+    "Cards/Motion Letters.md",
+    "Cards/Line Style Letters.md",
+    "Extras/Images/3D Box Type.png",
+    "Downloaded Images/Pixabay/waves-3473335.jpg",
+    "Downloaded Images/Pixabay/shark-5747670.jpg",
+    "Downloaded Images/Pixabay/milk-bottle-2740848_1920 (1).jpg",
+    "Downloaded Images/Pixabay/mason-jar.webp",
+    "Downloaded Images/Pixabay/lightbulb-1875255.jpg",
+    "Downloaded Images/Pixabay/hintersee-gd1ff4c068_1280.jpg",
+    "Downloaded Images/Pixabay/glass-1975235_1920.jpg",
+    "Downloaded Images/Pixabay/dolphin-1709481_1920.jpg",
+    "Downloaded Images/Pixabay/dolphin-1709481.jpg",
+    "Downloaded Images/Maps/Tesuque Bike Routes.xcf",
+    "Downloaded Images/Backgrounds/BrickWallHD.xcf",
+    "Downloaded Images/Pixabay",
+    "Downloaded Images/Maps",
+    "Downloaded Images/Logos",
+    "Downloaded Images/Grunge Textures",
+    "Downloaded Images/Backgrounds",
+    "Downloaded Images",
     "Extras/Images/ClassFonts.pdf",
-    "+ New/Box text with Inkscape.md",
-    "+ New/Potential Fonts for ObsPKM Class.md",
-    "+ New/Exc-20230607.md",
-    "+ New/Exc-20230611b.md",
-    "+ New/Exc-20230613.md",
-    "+ New/Exc-20230609.md",
-    "Extras/Templates/Sweater Cat Designs.md",
-    "+ New/Split text in Inkscape.md",
-    "+ New/Neon Letters.md",
-    "Sources/Mountain Logo 2.md",
-    "Sources/Mountain Logo.md",
-    "+ New/Motion Letters.md",
-    "+ New/Line Style Letters.md",
-    "+ New/Inkscape tutorial Logos By Nick.md",
-    "+ New/Inkscape power stroke.md",
-    "+ New/Inkscape path set operations.md",
-    "+ New/Inkscape fish text.md",
-    "+ New/Inkscape fancy font.md",
-    "Sources/Forest Images.md",
-    "Sources/Colorful Birds.md",
-    "Sources/Color palettes.md",
-    "+ New/5 text effects in Inkscape.md",
-    "+ New/Cylinder Wrap Text.md",
-    "Extras/Images/5 Effects Text 1.svg",
-    "Extras/Images/5 Effects Text.svg",
-    "Extras/Images/5 Effects Text 1.png",
-    "Extras/Images/5 Effects Text.png",
-    "Extras/Templates/DaviesMedia.md",
-    "Extras/Images/CylinderText.png",
-    "+ New/Cubic Text Effect.md",
-    "Extras/Images/GlowingNeon 1.png",
-    "Extras/Images/GlowingNeon.png",
-    "Extras/Images/BrickWallHD.jpg",
-    "Extras/Images/Geometric Line Art 1.png",
-    "Extras/Images/Geometric Line Art.png",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Extras/Images/windows-shortcuts.pdf",
-    "Extras/Images/inkscape-shortcuts.pdf",
-    "Templates",
-    "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4",
-    "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree",
-    "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats",
-    "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.mbtree.temp",
-    "Spaces/ObsPKMClass/Resources/BrainWaltzin.mp4.x264.stats.temp",
-    "Spaces/ObsPKMClass/Resources/Folders.mp4",
-    "Spaces/ObsPKMClass/Resources/Card Catalog with Obsidian.xcf",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
