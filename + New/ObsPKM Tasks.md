@@ -1,4 +1,15 @@
-## <% tp.file.title %>
+## ObsPKM Tasks
+
+
+
+```todoist
+name: "Class"
+filter: "#ObsPKM"
+sorting: 
+  - date
+  - priority
+group: true
+```
 
 
 ---

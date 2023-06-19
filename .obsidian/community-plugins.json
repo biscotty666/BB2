@@ -17,5 +17,6 @@
   "obsidian-html-plugin",
   "obsidian-pandoc",
   "multi-column-markdown",
-  "obsidian-banners"
+  "obsidian-banners",
+  "todoist-sync-plugin"
 ]

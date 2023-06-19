@@ -13,14 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Writeup Syncthing experience.md",
+                "file": "+ New/Roadmap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fa305169ecb4916",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/My Tasks.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "de39dba9d9241d8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Todoist filters.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49efda3d5027548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89f5169be5722ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian logo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Writeup Syncthing experience.md",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -155,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Writeup Syncthing experience.md"
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md"
               }
             }
           },
@@ -197,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Writeup Syncthing experience.md",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Writeup Syncthing experience.md",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,34 +299,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "79906c2ed5738363",
+  "active": "89f5169be5722ab2",
   "lastOpenFiles": [
-    "+ New/Zettelkasten Implementation in Obsidian.md",
-    "+ New/Writeup Syncthing experience.md",
-    "+ New/Video Terminology.md",
-    "Cards/Top 5 text effects in GIMP.md",
-    "+ New/Svelte Readme.md",
-    "Cards/Spread.md",
-    "Cards/Split text in Inkscape.md",
-    "+ New/Satelite Imagery.md",
-    "Cards/Reflected in water logo.md",
-    "+ New/Record sales.md",
-    "+ New/Readwise glass web notes.md",
-    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
-    "Sources/Photo into logo.md",
-    "+ New/Patch Kali VM.md",
-    "+ New/Origins of free market.md",
+    "+ New/Exc-20230618.sync-conflict-20230618-180036-BBO7X7A.md",
+    "+ New/Exc-20230618.md",
     "Sources/Obsidian Icons.md",
-    "+ New/Obsidian installation and first note.md",
-    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Folders.md",
-    "Sources/Obsidian Concept Visualization.md",
-    "+ New/Networking Commands.md",
-    "+ New/Observations.md",
-    "Cards/Neon Letters GIMP.md",
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Cards/Split text in Inkscape.md",
+    "Cards/Reflected in water logo.md",
+    "Sources/Photo into logo.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
     "Cards/Neon Letters.md",
     "Cards/Motion Letters.md",
-    "Cards/Line Style Letters.md",
+    "Sources/Inkscape power stroke.md",
+    "Cards/Inkscape fancy font.md",
+    "Sources/Geometric Designs in Gimp.md",
+    "+ New/Delete background from a glass.md",
+    "Sources/Cylinder Wrap Text.md",
+    "Sources/Cubic Text Effect.md",
+    "Sources/Colorful Birds.md",
+    "Sources/Box text with Inkscape.md",
+    "Cards/Bear Mountain Logo.md",
+    "+ New/ObsPKM Video stills list.md",
+    "+ New/ObsPKM Tasks.md",
+    "+ New/My Tasks.md",
+    "+ New/Call with Eric 230617.md",
+    "+ New/Marble Logo.md",
+    "+ New/Todoist filters.md",
+    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
     "Extras/Images/3D Box Type.png",
     "Downloaded Images/Pixabay/waves-3473335.jpg",
     "Downloaded Images/Pixabay/shark-5747670.jpg",
