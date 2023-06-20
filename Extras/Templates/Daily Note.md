@@ -18,6 +18,29 @@ tags:: #log/journal #note/daily
 ### Today
 
 
+### Tasks
+
+
+> [!warning]+
+>```todoist
+>name: "Due Today"
+>filter: "<% tp.date.now("MMM Do YYYY") %>"
+>sorting: 
+>  - date
+>  - priority
+>group: true
+
+
+> [!success]-
+>```todoist
+>name: "Created Today"
+>filter: "created:<% tp.date.now("MMM Do YYYY") %>"
+>sorting: 
+>  - date
+>  - priority
+>group: true
+
+
 ### Logs
 
 #### Study Log
@@ -50,53 +73,6 @@ Dom Log::
 
 Laptop Log:: 
 Laptop Comments::
-
-### Tasks
-
-#### Overdue
-
-```tasks
-not done
-due before today
-```
-
-
-#### Due today
-
-```tasks
-not done
-due today
-```
-
-#### Completed Today
-
-```dataview
-task
-where completion = date(today)
-```
-
-
-#### High and medium priority
-
-```tasks
-not done
-(priority is high) OR (priority is medium)
-sort by priority
-```
-
-#### In Progress
-
-```tasks
-status.type is IN_PROGRESS
-```
-
-#### Others
-
-```tasks
-not done
-(priority is not high) AND (priority is not medium) AND (is not recurring)
-sort by priority
-```
 
 
 ---

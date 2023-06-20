@@ -1,23 +1,12 @@
 ## Color palettes
 
-### Image
 
-##### Full Size
 
-![[PossibleColors.png]]
+### Options
 
-##### SVG
-
-svg:: ![[PossibleColors.svg|100]]
-
-##### PNG
-
-png:: ![[PossibleColors 1.png|50]]
-
-### Based on
-
+![[Color Palette Options.pdf]]
 
 
 ---
-up:: [[Inkscape]]
-tags:: #note/resource #image/colors#source/video #source/Pelleton 
+up:: [[ObsPKMEssentials]]
+tags:: #note/resource #image/colors #effort/ObsPKMClass 

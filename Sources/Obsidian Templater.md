@@ -1,12 +1,17 @@
+---
+aliases: Templater Reference
+---
+
 up:: [[Obsidian]]
 tags:: #reference #source/documentation 
+alias:: Templater Reference
 
 # Obsidian Templater
 
 Templater Documentation: https://silentvoid13.github.io/Templater/introduction.html
 
 -   [Config module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/config-module.html): `tp.config`
--   [Date module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/date-module.html): `tp.date`
+-   [Date module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/date-module.html): `tp.date` ^dfbcb0
 -   [File module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html): `tp.file`
 -   [Frontmatter module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/frontmatter-module.html): `tp.frontmatter`
 -   [Obsidian module](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/obsidian-module.html): `tp.obsidian`

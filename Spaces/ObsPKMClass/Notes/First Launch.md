@@ -1,4 +1,7 @@
-#### First Launch
+---
+cssclass: "qs"
+---
+## First Launch
 When you first launch Obsidian you will be asked to create or open a vault.
 
 ![[Obsidian Open Vault.png]]

@@ -1,7 +1,7 @@
 ---
-aliases: 
+cssclass: "qs"
 ---
-#### Storage for life
+## Storage for life
 
 Because of this you are not tied to any specific 
 - software

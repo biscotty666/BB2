@@ -1,11 +1,14 @@
-#### Some other important considerations
+---
+cssclass: "qs"
+---
+## Some other important considerations
 
-##### Filenames
+### Filenames
 - Descriptive containing key words in the note or topic
 - They can be as long as you want 
 - Freely use spaces, dashes, underscores, avoid other punctuation
 
-##### Writing notes
+### Writing notes
 - Never copy paste text into your notes except quotes and code
 - Everything must be in your own words 
 - If you can't say or explain something clearly you don't yet understand it

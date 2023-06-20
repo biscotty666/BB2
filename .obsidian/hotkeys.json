@@ -319,15 +319,6 @@
       "key": "W"
     }
   ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "pane-relief:go-last": [],
   "pane-relief:go-8th": [],
   "pane-relief:go-7th": [],
@@ -601,10 +592,10 @@
   "obsidian-icons-plugin:open-icons-plugin-modal": [
     {
       "modifiers": [
-        "Alt",
-        "Meta"
+        "Mod",
+        "Shift"
       ],
-      "key": "I"
+      "key": ";"
     }
   ],
   "hotkeysplus-obsidian:toggle-bullet-number": [],
@@ -675,6 +666,24 @@
         "Mod"
       ],
       "key": "-"
+    }
+  ],
+  "todoist-sync-plugin:todoist-add-task-current-page": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
+    }
+  ],
+  "todoist-sync-plugin:todoist-add-task": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "="
     }
   ]
 }

@@ -1,9 +1,7 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/Markdown, note/product, effort/ObsPKMClass, note/reference
-aliases: 
+cssclass: "qs"
 ---
-#### Niklas Luhmann
+## Niklas Luhmann
 
 ![[Niklas Luhmann.png|100]]
 
@@ -18,8 +16,9 @@ His work focused on
 
 [^Nick]: [Niklas Luhmann - Wikipedia](https://en.wikipedia.org/wiki/Niklas_Luhmann)
 
----
+%%
 up:: [[Introduction to Zettelkasten]]
 tags:: #on/PKM #note/product #effort/ObsPKMClass #note/reference 
 next:: [[No laughing matter]]
 prev:: [[Computer Age Note-taking]]
+%%

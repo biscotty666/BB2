@@ -1,8 +1,11 @@
+---
+cssclass: "qs"
+---
+## Drawbacks
 
-#### Drawbacks
+This still makes it difficult to quickly retrieve specific information and to easily see related notes or concepts.
 
-This makes it difficult to quickly retrieve specific information and to easily see related notes or concepts.
-
+`class: qs-gold`
 And the more notes you have the bigger the problem.
 
 ---

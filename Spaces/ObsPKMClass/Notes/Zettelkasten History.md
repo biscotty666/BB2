@@ -1,4 +1,7 @@
-#### Zettelkasten History
+---
+cssclass: "qs"
+---
+## Zettelkasten History
 
 - Earliest examples from 16th century
 - Became common among European scholars in the 19th century

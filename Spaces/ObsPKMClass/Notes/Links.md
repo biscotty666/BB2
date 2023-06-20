@@ -1,4 +1,7 @@
-#### Links
+---
+cssclass: "qs"
+---
+## Links
 
 Typing a well-formed url will automatically create a clickable link.
 

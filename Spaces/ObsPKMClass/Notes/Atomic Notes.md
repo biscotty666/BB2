@@ -1,7 +1,8 @@
 ---
 aliases: Atomic notes revisited
+cssclass: "qs"
 ---
-#### Atomic notes
+## Atomic notes
 
 1. Short ideas or pieces of information (atoms) 
 2. Think index card size

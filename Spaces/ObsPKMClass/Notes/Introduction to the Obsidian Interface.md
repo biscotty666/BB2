@@ -2,10 +2,9 @@
 up: [[ObsPKMEssentials]]
 tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference
 aliases: GUIIntro, Obsidian Tour
+cssclass: "qs"
 ---
-#### Tour the interface
-
-And take a look around.
+## Introduction to the interface
 
 ![[GuiIntro.mp4]]
 

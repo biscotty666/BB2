@@ -1,7 +1,7 @@
 ---
-aliases: Vaults
+cssclass: "qs"
 ---
-#### Vaults
+## Vaults
 
 - All notes are plain text Markdown files
 - Notes are stored locally on your computer

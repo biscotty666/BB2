@@ -47,20 +47,35 @@
                 "group": "667e7d1d7128059c"
               },
               {
-                "id": "8c6e2a216eb52e96",
+                "id": "9931127cbc8d8fb2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ New/Installing fonts in Obsidian.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "bbb5f5e234d8368f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ New/Exc-20230618.md",
+                    "file": "+ New/Site Branding.md",
                     "mode": "source",
                     "backlinks": false,
-                    "source": false
+                    "source": true
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "f3a68d290a4d31bb",
@@ -186,7 +201,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-20230618.md",
+            "file": "+ New/Site Branding.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +218,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-20230618.md",
+            "file": "+ New/Site Branding.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +230,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-20230618.md"
+            "file": "+ New/Site Branding.md"
           }
         }
       },
@@ -245,11 +260,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c6e2a216eb52e96",
+  "active": "bbb5f5e234d8368f",
   "lastOpenFiles": [
+    "+ New/Installing fonts in Obsidian.md",
+    "+ New/Templater.md",
+    "+ New/Site Branding.md",
+    "Extras/Images/daily_goal_share.png",
+    "+ New/Exc-20230618.md",
     "+ New/Exc-20230618.sync-conflict-20230618-180036-BBO7X7A.md",
     "+ New/My Tasks.md",
-    "+ New/Exc-20230618.md",
     "+ New/Call with Eric 230617.md",
     "+ New/ObsPKM Tasks.md",
     "Spaces/ObsPKMClass/Notes/Dataview Video.md",
@@ -271,9 +290,6 @@
     "Calendar/Logs/Exc-20230615.md",
     "Calendar/Daily Notes/Notes/2023-06-15.sync-conflict-20230616-140036-OBMWZHZ.md",
     "Calendar/Daily Notes/Notes/2023-06-15.md",
-    "Calendar/Logs/Exc-20230614.md",
-    "Calendar/Daily Notes/Notes/2023-06-14.sync-conflict-20230616-135906-OBMWZHZ.md",
-    "Calendar/Daily Notes/Notes/2023-06-14.md",
     "Extras/Images/Neon Letters.svg",
     "Extras/Images/Neon Letters.png",
     "Extras/Images/LearningCurveFont2.png",
@@ -293,7 +309,6 @@
     "Obsidian and PKM",
     "Text File.txt",
     "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
-    "Obsidian/Brian2/Brian2/Extras/Images/lyt-crafting-mocs-2.jpg",
     "Obsidian/Brian2/Brian2/Extras/Images/NLP.pdf",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Brian/Attachments/DSm1RBasics 1.pdf",

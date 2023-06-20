@@ -8,16 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79906c2ed5738363",
+            "id": "1fa106b42fb7494e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Roadmap.md",
+                "file": "Calendar/Daily Notes/Notes/2023-06-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -36,46 +38,53 @@
             }
           },
           {
-            "id": "de39dba9d9241d8f",
+            "id": "4b94f560840e6f11",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "+ New/Todoist filters.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": 21753.66017138806,
+                  "y": -920.4595091468649,
+                  "zoom": -0.6000000000000001
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e49efda3d5027548",
+            "id": "92e07a3a72b6fb16",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
+                "file": "+ New/ObsPKM Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "89f5169be5722ab2",
+            "id": "d1e2a3dc72ec976f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
-                "mode": "preview",
+                "file": "+ New/Site Branding.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -104,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian logo",
+                "query": "tag:#Mandatory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,9 +129,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "508753a3fdc6c9fe",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Site Branding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -211,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md"
+                "file": "+ New/Site Branding.md"
               }
             }
           },
@@ -232,7 +248,7 @@
             }
           },
           {
-            "id": "4eda45eefa34f940",
+            "id": "07faf68b8af79398",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -240,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "cc261747cbab30f2",
@@ -253,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Site Branding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "file": "+ New/Site Branding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,34 +315,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "89f5169be5722ab2",
+  "active": "d1e2a3dc72ec976f",
   "lastOpenFiles": [
-    "+ New/Exc-20230618.sync-conflict-20230618-180036-BBO7X7A.md",
-    "+ New/Exc-20230618.md",
-    "Sources/Obsidian Icons.md",
-    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
-    "Cards/Split text in Inkscape.md",
-    "Cards/Reflected in water logo.md",
-    "Sources/Photo into logo.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
-    "Cards/Neon Letters.md",
-    "Cards/Motion Letters.md",
-    "Sources/Inkscape power stroke.md",
-    "Cards/Inkscape fancy font.md",
-    "Sources/Geometric Designs in Gimp.md",
-    "+ New/Delete background from a glass.md",
-    "Sources/Cylinder Wrap Text.md",
-    "Sources/Cubic Text Effect.md",
-    "Sources/Colorful Birds.md",
-    "Sources/Box text with Inkscape.md",
-    "Cards/Bear Mountain Logo.md",
-    "+ New/ObsPKM Video stills list.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/Untitled.md",
+    "+ New/Untitled 1.md",
+    "Sources/CSS snippets - Obsidian Help.md",
+    "+ New/Templater.md",
+    "Sources/Obsidian Templater.md",
+    "+ New/Untitled 2.md",
+    "Calendar/Daily Notes/Notes/2023-06-20.md",
+    "Extras/Web Pages",
+    "+ New/Installing fonts in Obsidian.md",
+    "+ New/Logging Video.md",
     "+ New/ObsPKM Tasks.md",
-    "+ New/My Tasks.md",
-    "+ New/Call with Eric 230617.md",
-    "+ New/Marble Logo.md",
-    "+ New/Todoist filters.md",
-    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
+    "+ New/Roadmap.md",
+    "Extras/Templates/Daily Note.md",
+    "Calendar/Daily Notes/Notes/2023-06-19.md",
+    "Extras/Images/daily_goal_share.png",
+    "Calendar/Daily Notes/Notes/2023-05-26.md",
+    "Extras/Templates/Daily Note Simple.md",
+    "Spaces/ObsPKMClass/Notes/Backlinks.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
+    "+ New/Query structure.md",
+    "+ New/Dataview FROM.md",
+    "+ New/Dataview WHERE.md",
+    "+ New/Dataview SORT.md",
+    "Spaces/ObsPKMClass/Notes/Dataview.md",
+    "Spaces/ObsPKMClass/Notes/Types of notes.md",
+    "Spaces/ObsPKMClass/Notes/Lists.md",
+    "Extras/Images/Page 3.png",
+    "Extras/Images/Color Palette Options.pdf",
     "Extras/Images/3D Box Type.png",
     "Downloaded Images/Pixabay/waves-3473335.jpg",
     "Downloaded Images/Pixabay/shark-5747670.jpg",
@@ -335,8 +355,6 @@
     "Downloaded Images/Pixabay/lightbulb-1875255.jpg",
     "Downloaded Images/Pixabay/hintersee-gd1ff4c068_1280.jpg",
     "Downloaded Images/Pixabay/glass-1975235_1920.jpg",
-    "Downloaded Images/Pixabay/dolphin-1709481_1920.jpg",
-    "Downloaded Images/Pixabay/dolphin-1709481.jpg",
     "Downloaded Images/Maps/Tesuque Bike Routes.xcf",
     "Downloaded Images/Backgrounds/BrickWallHD.xcf",
     "Downloaded Images/Pixabay",
@@ -345,9 +363,6 @@
     "Downloaded Images/Grunge Textures",
     "Downloaded Images/Backgrounds",
     "Downloaded Images",
-    "Extras/Images/ClassFonts.pdf",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "Extras/Images/windows-shortcuts.pdf",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

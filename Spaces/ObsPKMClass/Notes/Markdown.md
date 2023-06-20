@@ -1,9 +1,9 @@
 ---
 up: [[ObsPKMEssentials]]
 tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference, on/Markdown
-aliases: 
+cssclass: "qs"
 ---
-#### Markdown
+## Markdown
 
 Markdown^[[Markdown - Wikipedia](https://en.wikipedia.org/wiki/Markdown)] is an industry-standard syntax for formatting documents, similar to html or xml but much simpler.
 
@@ -21,8 +21,10 @@ We will look at
 - Backlinks
 - Embeds
 
+%%
 ---
 up:: [[ObsPKMEssentials]]
 tags:: #note/product, #effort/ObsPKMClass, #on/Obsidian , #on/Markdown 
 prev:: [[Introduction to Obsidian]]
 next:: [[Headers]]
+%%

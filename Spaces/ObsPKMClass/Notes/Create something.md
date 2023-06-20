@@ -1,7 +1,7 @@
 ---
-aliases:
+cssclass: "js"
 ---
-## Create something to share
+## The Magic of Creation
 
 And even better, create something new to share
 - articles
@@ -9,6 +9,7 @@ And even better, create something new to share
 - papers
 - books
 - drawings, images
+- instructional videos 😉
 
 ---
 up:: [[Introduction to Zettelkasten]]

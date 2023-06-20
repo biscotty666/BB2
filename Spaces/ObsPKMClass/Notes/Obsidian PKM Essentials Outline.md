@@ -1,8 +1,10 @@
 ---
 aliases: Outline
+cssclass: "qs"
 ---
 # Personal Knowledge Management with Obsidian
 
+`class: qs-center`
 ## Essentials
 
 1. Personal Knowledge Management

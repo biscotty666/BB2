@@ -8,7 +8,6 @@
   "obsidian-auto-link-title",
   "templater-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-icons-plugin",
   "emoji-shortcodes",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
@@ -18,5 +17,7 @@
   "obsidian-pandoc",
   "multi-column-markdown",
   "obsidian-banners",
-  "todoist-sync-plugin"
+  "todoist-sync-plugin",
+  "custom-classes",
+  "surfing"
 ]

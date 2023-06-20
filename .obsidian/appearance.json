@@ -1,10 +1,12 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "80s Neon",
   "translucency": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "AlternateCheckboxes",
-    "mermaid"
+    "mermaid",
+    "quicksand",
+    "Quicksand-Online"
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",

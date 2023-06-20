@@ -1,7 +1,7 @@
 ---
-aliases: 
+cssclass: "qs"
 ---
-#### Sources of information
+## Sources of information
 
 1. Media (books, articles, videos, etc.) 
 2. Your own thoughts, ideas and experiences

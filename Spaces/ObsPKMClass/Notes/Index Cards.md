@@ -1,11 +1,12 @@
 ---
 aliases: PKM Definition
+cssclass: "qs"
 ---
-#### Index cards
+## Index cards
 
 One traditional method stands out as different: **index cards**
 
-Index cards form the basis for _zettelkasten_.
+Index cards will form the basis for _zettelkasten_.
 
 ___
 up:: [[Introduction to PKM]]

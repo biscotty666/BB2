@@ -1,4 +1,7 @@
-#### Fleeting Notes
+---
+cssclass: "qs"
+---
+## Fleeting Notes
 
 - In developing a Zettelkasten, fleeting notes are the seeds.
 - Best practice is to quickly capture interesting thoughts.
@@ -10,11 +13,11 @@
 	- Stored as a _permanent note_
 - We will keep these in the `+ New` directory in our vault
 
-#### Permanent Notes
+## Permanent Notes
 
 We can distinguish 2 types of Permanent Notes.
 
-##### Reference notes
+### Reference notes
 
 These include
 
@@ -23,7 +26,7 @@ These include
 - quotations and other peoples ideas
 - We will keep these in the `Sources` directory in our vault
 
-##### Evergreen notes
+### Evergreen notes
 
 - Your own ideas
 - You will return to these notes and develop them as you gain more information related to your topic, hence the name

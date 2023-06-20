@@ -1,4 +1,7 @@
-#### Searching Obsidian
+---
+cssclass: "qs"
+---
+## Searching Obsidian
 
 Here we really leverage the power of Obsidian. We will spend time later going through all of the ways you can <span class="my-emph">quickly</span>:
 

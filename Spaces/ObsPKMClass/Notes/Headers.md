@@ -1,9 +1,9 @@
 ---
 up: [[ObsPKMEssentials]]
 tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference, on/Markdown
-aliases: 
+cssclass: "qs"
 ---
-#### Headers
+## Headers
 
 To create a header, enter from 1-6 `#` signs followed by a space. Headers provide
 - Visual structure

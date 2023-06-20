@@ -1,7 +1,7 @@
 ---
-aliases: 
+cssclass: "qs"
 ---
-#### Metadata
+## Metadata
 
 - references:  links to other notes
 - hierarchy:  parent, sibling, next

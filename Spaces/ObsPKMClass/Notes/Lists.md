@@ -1,7 +1,10 @@
-#### Lists
+---
+cssclass: "qs"
+---
+## Lists
 All lists can be nested/unnested using `Tab` and `Shft-Tab`. Folds are automatically created for nested lists.
 
-##### Ordered lists
+### Ordered lists
 Begin a line with a number followed by a period and a spaces.
 
 1. Item 1
@@ -10,7 +13,7 @@ Begin a line with a number followed by a period and a spaces.
 	2. Nested item 2
 3. Item 3
 
-##### Unordered lists/bullet points
+### Unordered lists/bullet points
 Lines can start with -, + or *
 
 - Bullet 1
@@ -19,7 +22,7 @@ Lines can start with -, + or *
 	- Nested bullet 2
 - Bullet 3
 
-##### Checkboxes/Tasks
+### Checkboxes/Tasks
 Begin a line with `- [ ]`. A shortcut is `Ctrl-Space`
 
 - [ ] First task
