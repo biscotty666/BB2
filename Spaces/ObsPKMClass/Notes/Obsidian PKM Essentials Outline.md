@@ -2,17 +2,17 @@
 aliases: Outline
 cssclass: "qs"
 ---
-# Personal Knowledge Management with Obsidian
+## Personal Knowledge Management with Obsidian
 
 `class: qs-center`
 ## Essentials
 
 1. Personal Knowledge Management
-2. Zettelkasten
-3. Obsidian
-4. Markdown
-5. Zettelkasten 💗 Obsidian
-6. Advanced topics
+3. Zettelkasten
+5. Obsidian
+6. Markdown
+7. Zettelkasten 💗 Obsidian
+8. Dataview 
 
 ---
 prev:: [[ObsPKMEssentials]]

@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fa106b42fb7494e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6fa305169ecb4916",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/My Tasks.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "4b94f560840e6f11",
             "type": "leaf",
             "pinned": true,
@@ -46,22 +16,37 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": 21753.66017138806,
-                  "y": -920.4595091468649,
-                  "zoom": -0.6000000000000001
+                  "x": 22038.938612377315,
+                  "y": 264.1710301337132,
+                  "zoom": -1.7999999999999998
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "92e07a3a72b6fb16",
+            "id": "a4609d265485b63b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/ObsPKM Tasks.md",
+                "file": "Sources/Rufous Hummingbird.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4227176a2c92ede6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Observation - Yard.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,21 +55,21 @@
             }
           },
           {
-            "id": "d1e2a3dc72ec976f",
+            "id": "22c50acaf2755a7f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Site Branding.md",
+                "file": "+ New/Yard Observations.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
-              }
+                "source": true
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 4,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mandatory",
+                "query": "format time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,11 +123,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -170,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Site Branding.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "obsidian",
@@ -227,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Site Branding.md"
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
               }
             }
           },
@@ -269,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Site Branding.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Site Branding.md",
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,54 +302,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d1e2a3dc72ec976f",
+  "active": "4b94f560840e6f11",
   "lastOpenFiles": [
+    "Sources/Rufous Hummingbird.md",
+    "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
+    "Extras/Templates/Observation - Yard.md",
+    "+ New/Yard Observations.md",
+    "+ New/Obs-20230622.md",
+    "Extras/Images/HB4 3.jpg",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "+ New/Untitled.md",
-    "+ New/Untitled 1.md",
-    "Sources/CSS snippets - Obsidian Help.md",
-    "+ New/Templater.md",
-    "Sources/Obsidian Templater.md",
-    "+ New/Untitled 2.md",
-    "Calendar/Daily Notes/Notes/2023-06-20.md",
-    "Extras/Web Pages",
-    "+ New/Installing fonts in Obsidian.md",
+    "Extras/Images/HB4 2.jpg",
+    "Extras/Images/HB4 1.jpg",
+    "+ New/Logging Video Script.md",
     "+ New/Logging Video.md",
-    "+ New/ObsPKM Tasks.md",
-    "+ New/Roadmap.md",
-    "Extras/Templates/Daily Note.md",
-    "Calendar/Daily Notes/Notes/2023-06-19.md",
-    "Extras/Images/daily_goal_share.png",
-    "Calendar/Daily Notes/Notes/2023-05-26.md",
-    "Extras/Templates/Daily Note Simple.md",
-    "Spaces/ObsPKMClass/Notes/Backlinks.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Embeds.md",
-    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
-    "+ New/Query structure.md",
+    "Extras/Images/HB4.jpg",
+    "Extras/Web Pages/Rufous Hummingbird Identification, All About Birds, Cornell Lab of Ornithology.md",
+    "+ New/Obs-20230620.md",
+    "Sources/Date String Formats.md",
+    "Sources/Date Time Formatting Tokens.md",
+    "Cards/Note-makers.md",
+    "+ New/Another observation.md",
+    "Spaces/ObsPKMClass/Resources/HB3.jpg",
+    "+ New/Unknown Species.md",
+    "+ New/Obs-20230621b.md",
+    "+ New/Obs-20230621.md",
+    "Spaces/ObsPKMClass/Resources/HB2.jpg",
+    "Spaces/ObsPKMClass/Resources/HB1.jpg",
+    "Spaces/ObsPKMClass/Resources/DataviewPt1_edit.mp4",
+    "Extras/Images/2023-06-21 15-41-47_edit.mp4",
+    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4",
+    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree",
+    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats",
+    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree.temp",
+    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.temp",
+    "Extras/Images/2023-06-21 15-49-02.mp4",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Sources/Spinning obsidian logo.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
+    "+ New/Gimp.md",
+    "Cards/Top 5 text effects in GIMP.md",
+    "+ New/Templater.md",
+    "+ New/One more observation.md",
     "+ New/Dataview FROM.md",
-    "+ New/Dataview WHERE.md",
-    "+ New/Dataview SORT.md",
-    "Spaces/ObsPKMClass/Notes/Dataview.md",
-    "Spaces/ObsPKMClass/Notes/Types of notes.md",
-    "Spaces/ObsPKMClass/Notes/Lists.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
+    "guide/Rufous_Hummingbird",
+    "Extras/Images/daily_goal_share.png",
     "Extras/Images/Page 3.png",
-    "Extras/Images/Color Palette Options.pdf",
     "Extras/Images/3D Box Type.png",
-    "Downloaded Images/Pixabay/waves-3473335.jpg",
-    "Downloaded Images/Pixabay/shark-5747670.jpg",
-    "Downloaded Images/Pixabay/milk-bottle-2740848_1920 (1).jpg",
-    "Downloaded Images/Pixabay/mason-jar.webp",
-    "Downloaded Images/Pixabay/lightbulb-1875255.jpg",
-    "Downloaded Images/Pixabay/hintersee-gd1ff4c068_1280.jpg",
-    "Downloaded Images/Pixabay/glass-1975235_1920.jpg",
-    "Downloaded Images/Maps/Tesuque Bike Routes.xcf",
-    "Downloaded Images/Backgrounds/BrickWallHD.xcf",
-    "Downloaded Images/Pixabay",
-    "Downloaded Images/Maps",
-    "Downloaded Images/Logos",
-    "Downloaded Images/Grunge Textures",
-    "Downloaded Images/Backgrounds",
-    "Downloaded Images",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

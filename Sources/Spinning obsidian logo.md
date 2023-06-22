@@ -1,4 +1,4 @@
-up::
+up:: [[Obsidian]]
 tags:: #note/fleeting 
 X:: 
 
