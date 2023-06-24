@@ -1,7 +1,4 @@
 [
-  "calendar",
-  "dataview",
-  "periodic-notes",
   "tag-wrangler",
   "nldates-obsidian",
   "obsidian-hover-editor",
@@ -19,5 +16,7 @@
   "obsidian-banners",
   "todoist-sync-plugin",
   "custom-classes",
-  "surfing"
+  "periodic-notes",
+  "calendar",
+  "dataview"
 ]

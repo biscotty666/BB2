@@ -3,5 +3,6 @@
   "snapToGrid": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "+ Encounters",
-  "cardLabelVisibility": "hover"
+  "cardLabelVisibility": "hover",
+  "zoomBreakpoint": 0.11
 }

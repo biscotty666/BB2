@@ -39,14 +39,6 @@
     }
   ],
   "editor:toggle-fold": [],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "app:open-vault": [
     {
       "modifiers": [
@@ -419,14 +411,6 @@
     }
   ],
   "editor:insert-embed": [],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "editor:insert-tag": [],
   "obsidian-auto-link-title:enhance-url-with-title": [
     {
@@ -684,6 +668,22 @@
         "Mod"
       ],
       "key": "="
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }

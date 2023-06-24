@@ -1,14 +1,14 @@
 {
   "obsidianCss": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "foldHeading": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "+ New",
   "foldIndent": true,
   "fileSortOrder": "alphabetical",
   "spellcheck": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "spellcheckDictionary": [
     "journaling",
     "Zettelkasten",

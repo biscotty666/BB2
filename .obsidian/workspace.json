@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "426b44f60ff0e3c2",
+        "id": "2c73369e1b6db845",
         "type": "tabs",
         "children": [
           {
-            "id": "4b94f560840e6f11",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-                "viewState": {
-                  "x": 22038.938612377315,
-                  "y": 264.1710301337132,
-                  "zoom": -1.7999999999999998
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a4609d265485b63b",
+            "id": "9f4133066ce0ccfd",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Rufous Hummingbird.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4227176a2c92ede6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/Observation - Yard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "22c50acaf2755a7f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/Yard Observations.md",
-                "mode": "source",
+                "file": "+ New/Obsidian GUI Walkthrough.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
@@ -98,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format time",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,21 +67,13 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "508753a3fdc6c9fe",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
+    "width": 223.50043487548828,
     "collapsed": true
   },
   "right": {
@@ -138,7 +83,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 80.80614203454894,
+        "dimension": 61.28,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -157,10 +102,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Obsidian GUI Walkthrough.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "obsidian",
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -214,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
+                "file": "+ New/Obsidian GUI Walkthrough.md"
               }
             }
           },
@@ -235,7 +180,7 @@
             }
           },
           {
-            "id": "07faf68b8af79398",
+            "id": "c5049a491e0d4f17",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -243,12 +188,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 19.193857965451055,
+        "dimension": 38.72,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -256,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Obsidian GUI Walkthrough.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "file": "+ New/Obsidian GUI Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
+    "width": 248.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -291,41 +236,52 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "4b94f560840e6f11",
+  "active": "9f4133066ce0ccfd",
   "lastOpenFiles": [
-    "Sources/Rufous Hummingbird.md",
-    "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
-    "Extras/Templates/Observation - Yard.md",
-    "+ New/Yard Observations.md",
-    "+ New/Obs-20230622.md",
-    "Extras/Images/HB4 3.jpg",
+    "Extras/Web Pages/Hunter Biden to plead guilty to tax crimes and admit gun offence - BBC News.md",
+    "+ New/Obsidian GUI Walkthrough.md",
+    "+ New/Obsidian GUI Walkthrough 1.md",
+    "Atlas/Zettelkasten.md",
+    "Atlas/PKM.md",
+    "Atlas/Data Science.md",
+    "Atlas/Data Visualization.md",
+    "Cards/Probability and Statistics.md",
+    "Cards/Financial Data Visualization Widgets.md",
+    "Cards/p-value.md",
+    "Cards/Confidence Intervals.md",
+    "Cards/Display plots next to each other.md",
+    "+ New/Untitled.md",
+    "Sources/Sample average.md",
+    "Cards/Comparison of R and Python for Data Science.md",
+    "Cards/IBM data analytics video.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian PKM Essentials Outline.md",
+    "+ New/This is.md",
+    "Calendar/Daily Notes/Notes/2023-06-23.md",
+    "+ New/Exc-20230622.sync-conflict-20230622-104129-OBMWZHZ.md",
+    "+ New/New Note.md",
+    "+ New/Exc-20230623new.md",
+    "+ New/Svelte 4.md",
+    "+ New/Gnomons Q.md",
+    "Calendar/2022/2023-06-23.md",
+    "Calendar/2022",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
+    "Extras/Images/HB4 3.jpg",
     "Extras/Images/HB4 2.jpg",
     "Extras/Images/HB4 1.jpg",
-    "+ New/Logging Video Script.md",
-    "+ New/Logging Video.md",
     "Extras/Images/HB4.jpg",
-    "Extras/Web Pages/Rufous Hummingbird Identification, All About Birds, Cornell Lab of Ornithology.md",
-    "+ New/Obs-20230620.md",
-    "Sources/Date String Formats.md",
-    "Sources/Date Time Formatting Tokens.md",
-    "Cards/Note-makers.md",
-    "+ New/Another observation.md",
     "Spaces/ObsPKMClass/Resources/HB3.jpg",
-    "+ New/Unknown Species.md",
-    "+ New/Obs-20230621b.md",
-    "+ New/Obs-20230621.md",
     "Spaces/ObsPKMClass/Resources/HB2.jpg",
     "Spaces/ObsPKMClass/Resources/HB1.jpg",
     "Spaces/ObsPKMClass/Resources/DataviewPt1_edit.mp4",
@@ -336,17 +292,6 @@
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.temp",
     "Extras/Images/2023-06-21 15-49-02.mp4",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "Sources/Spinning obsidian logo.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
-    "+ New/Gimp.md",
-    "Cards/Top 5 text effects in GIMP.md",
-    "+ New/Templater.md",
-    "+ New/One more observation.md",
-    "+ New/Dataview FROM.md",
-    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
-    "guide/Rufous_Hummingbird",
     "Extras/Images/daily_goal_share.png",
     "Extras/Images/Page 3.png",
     "Extras/Images/3D Box Type.png",

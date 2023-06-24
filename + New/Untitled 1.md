@@ -1,1 +1,0 @@
-https://obsidian.md
