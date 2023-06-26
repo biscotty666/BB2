@@ -11,7 +11,7 @@
 		{"type":"text","text":"[[Clean LYT Vault]]","id":"7fbd95dd808bcb50","x":-145,"y":660,"width":250,"height":60},
 		{"type":"text","text":"[[Create a Daily Note]]","id":"4c7b388ff5874ea2","x":-145,"y":760,"width":250,"height":60},
 		{"type":"text","text":"[[OP Class Pre-requisites]]","id":"5e066cd96ed1618e","x":-145,"y":360,"width":250,"height":60},
-		{"type":"file","file":"Spaces/Brian Carey.md","id":"567a583b4ccd9679","x":-900,"y":-400,"width":300,"height":300}
+		{"type":"file","file":"Spaces/CV/Brian Carey.md","id":"567a583b4ccd9679","x":-900,"y":-400,"width":300,"height":300}
 	],
 	"edges":[
 		{"id":"aed65cdf8938b00d","fromNode":"29c7f672de30c880","fromSide":"top","toNode":"b25b8ef9796c619d","toSide":"left"},

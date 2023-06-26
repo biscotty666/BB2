@@ -5,7 +5,7 @@ tags:: #on/PnS #source/video #source/StatQuest #note/reference
 
 Refers to mis-interpreting or mis-using p values so as to generate _false positives_.
 
-One type of p-hacking is called the _Multiple Testing Problem_. This refers to repeating a test over and over until one gives a p-value < 0.05. By definition, in a normal distribution 5% of the data will have a p-value < 0.05 and so would be False Positives. So results should include the p-values for all the tests, not selected ones. __No cherry picking__.
+One type of p-hacking is called the _Multiple Testing Problem_. This refers to repeating a test over and over until one gives a p-value < 0.05. By definition, in a normal distribution 5% of the data will have a p-value < 0.05 and so would be False Positives. So results should include the p-values for all the tests, not selected ones. __No cherry picking__. ^c563c8
 
 One way to compensate is called the [[False Discovery Rates]].
 

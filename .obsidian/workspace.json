@@ -14,15 +14,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Obsidian GUI Walkthrough.md",
+                "file": "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "pinned": true
             }
+          },
+          {
+            "id": "905fbe3bafcd4d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Normal Distribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8fdb44772cc8e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Central Limit Theorem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21574ddf26956a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/New Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41e6fb66eccc3077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -51,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(normal distribution)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,12 +121,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 223.50043487548828,
+    "width": 262.5086555480957,
     "collapsed": true
   },
   "right": {
@@ -83,7 +135,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 61.28,
+        "dimension": 46.35036496350365,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -102,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Obsidian GUI Walkthrough.md",
+                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -147,7 +199,7 @@
                   "repelStrength": 7.8125,
                   "linkStrength": 0.520833333333333,
                   "linkDistance": 30,
-                  "scale": 0.6795684961800877,
+                  "scale": 0.6795684961800876,
                   "close": true
                 }
               }
@@ -159,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/Obsidian GUI Walkthrough.md"
+                "file": "+ New/7 ways to remove backgrounds in GIMP.md"
               }
             }
           },
@@ -180,7 +232,7 @@
             }
           },
           {
-            "id": "c5049a491e0d4f17",
+            "id": "f6b12ecf16a0bf0d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,12 +240,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 38.72,
+        "dimension": 53.64963503649635,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -201,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Obsidian GUI Walkthrough.md",
+                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Obsidian GUI Walkthrough.md",
+                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
+    "width": 308.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,6 +291,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -246,34 +299,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f4133066ce0ccfd",
+  "active": "41e6fb66eccc3077",
   "lastOpenFiles": [
-    "Extras/Web Pages/Hunter Biden to plead guilty to tax crimes and admit gun offence - BBC News.md",
-    "+ New/Obsidian GUI Walkthrough.md",
-    "+ New/Obsidian GUI Walkthrough 1.md",
-    "Atlas/Zettelkasten.md",
-    "Atlas/PKM.md",
-    "Atlas/Data Science.md",
-    "Atlas/Data Visualization.md",
-    "Cards/Probability and Statistics.md",
-    "Cards/Financial Data Visualization Widgets.md",
-    "Cards/p-value.md",
-    "Cards/Confidence Intervals.md",
-    "Cards/Display plots next to each other.md",
-    "+ New/Untitled.md",
-    "Sources/Sample average.md",
-    "Cards/Comparison of R and Python for Data Science.md",
-    "Cards/IBM data analytics video.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian PKM Essentials Outline.md",
-    "+ New/This is.md",
-    "Calendar/Daily Notes/Notes/2023-06-23.md",
-    "+ New/Exc-20230622.sync-conflict-20230622-104129-OBMWZHZ.md",
+    "+ New/Exc-20230624.sync-conflict-20230625-114016-OBMWZHZ.md",
+    "+ New/Exc-20230624.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough.md",
+    "+ New/7 ways to remove backgrounds in GIMP.md",
     "+ New/New Note.md",
-    "+ New/Exc-20230623new.md",
-    "+ New/Svelte 4.md",
-    "+ New/Gnomons Q.md",
-    "Calendar/2022/2023-06-23.md",
+    "Extras/Images/Pasted image 20230624045342.jpg",
+    "Extras/Images/Pasted image 20230624043905.png",
+    "Extras/Images/Pasted image 20230624043529.png",
+    "Extras/Images/HB4 4.jpg",
+    "Cards/Central Limit Theorem.md",
+    "Cards/Normal Distribution.md",
+    "Cards/Z-score or Standard Units.md",
+    "Sources/Introduction to Data Science.md",
+    "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
+    "+ New/Common Audio-Video Format-Containers.md",
+    "+ New/Common Audio-Video Format-Containers 1.md",
+    "+ New/Gimp.md",
+    "Cards/Random variables.md",
+    "+ New/Emoji Shortcode Reference.md",
+    "+ New/Delete background from a glass.md",
+    "Spaces/ObsPKMClass/Notes/Dataview SORT.md",
+    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
+    "+ New/Another observation.md",
+    "+ New/Call with Eric 230617.md",
+    "Spaces/ObsPKMClass/Notes/Metadata.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough 1.md",
+    "Spaces/ObsPKMClass/Notes/ObsPKMEssentials.md",
+    "Cards/Sampling models - Casino roulette winnings.md",
+    "Cards/The Big Short interest rate case study Pt. 1.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
@@ -283,7 +340,6 @@
     "Extras/Images/HB4.jpg",
     "Spaces/ObsPKMClass/Resources/HB3.jpg",
     "Spaces/ObsPKMClass/Resources/HB2.jpg",
-    "Spaces/ObsPKMClass/Resources/HB1.jpg",
     "Spaces/ObsPKMClass/Resources/DataviewPt1_edit.mp4",
     "Extras/Images/2023-06-21 15-41-47_edit.mp4",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4",
@@ -292,9 +348,6 @@
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.temp",
     "Extras/Images/2023-06-21 15-49-02.mp4",
-    "Extras/Images/daily_goal_share.png",
-    "Extras/Images/Page 3.png",
-    "Extras/Images/3D Box Type.png",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

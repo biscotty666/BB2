@@ -41,7 +41,6 @@ tags: #log/journal #note/daily
 
 ### Logs
 
-### Tasks
 
 ---
 ## Yesterday's Note

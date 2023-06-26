@@ -13,7 +13,7 @@ transition: slide
 #### Essentials <!--element style="margin: 1em" -->
 
 1. Introduction to Obsidian and PKM <!-- element style="color: red;" -->
-2. Zettelkasten
+2. Zettelkasten ^a8d2cf
 3. Obsidian
 4. Putting it together (Videos)
 

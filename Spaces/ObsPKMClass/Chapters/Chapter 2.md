@@ -53,7 +53,7 @@ transition: slide
 ---
 ### A  20$^{th}$ century example
 
-![[Pasted image 20230516232314.jpg|750]]
+![[Extras/Images/Pasted image 20230516232314.jpg|750]]
 
 ---
 
