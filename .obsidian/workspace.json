@@ -8,27 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f4133066ce0ccfd",
+            "id": "df8fdb44772cc8e4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough.md",
-                "mode": "preview",
+                "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "905fbe3bafcd4d43",
+            "id": "2c60de73b35cc2a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Personal Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "20bbcbcc30ea4ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Normal Distribution.md",
+                "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,38 +51,12 @@
             }
           },
           {
-            "id": "df8fdb44772cc8e4",
+            "id": "7d945013c621fcf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Central Limit Theorem.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21574ddf26956a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/New Note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41e6fb66eccc3077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
+                "file": "+ New/My Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(normal distribution)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,12 +110,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 262.5086555480957,
-    "collapsed": true
+    "width": 262.5086555480957
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -154,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
+                "file": "+ New/My Tasks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/7 ways to remove backgrounds in GIMP.md"
+                "file": "+ New/My Tasks.md"
               }
             }
           },
@@ -232,7 +221,7 @@
             }
           },
           {
-            "id": "f6b12ecf16a0bf0d",
+            "id": "5562a11e988a5742",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -240,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
@@ -253,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
+                "file": "+ New/My Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/7 ways to remove backgrounds in GIMP.md",
+                "file": "+ New/My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
+    "width": 367.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -294,52 +283,53 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41e6fb66eccc3077",
+  "active": "7d945013c621fcf2",
   "lastOpenFiles": [
-    "+ New/Exc-20230624.sync-conflict-20230625-114016-OBMWZHZ.md",
-    "+ New/Exc-20230624.md",
+    "Calendar/Daily Notes/Notes/2023-06-27.md",
+    "+ New/My Tasks.md",
+    "+ New/Multi-table layout documentation.md",
+    "Sources/Dataview Implicit Fields.md",
+    "Untitled 4.md",
+    "Home.md",
+    "+ New/Interlocking rings.md",
+    "Spaces/ObsPKMClass/Logging Video.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Cards/Central Limit Theorem.md",
     "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough.md",
-    "+ New/7 ways to remove backgrounds in GIMP.md",
-    "+ New/New Note.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Fields.md",
+    "+ New/Personal Tasks.md",
+    "Extras/Templates/ObsPKMSection.md",
+    "+ New/ObsPKM Tasks.md",
+    "Extras/Templates/Daily Note.md",
+    "Templates",
+    "+ New/Query structure.md",
+    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
+    "Calendar/Daily Notes/Notes/2023-06-26.md",
+    "Sources/Cubic Text Effect.md",
+    "Sources/Colorful Birds.md",
+    "Extras/Images/Interlocking-Rings.svg",
+    "Extras/Images/Interlocking-Rings.png",
+    "+ New/Svelte markdown blog.md",
+    "Cards/7 ways to remove backgrounds in GIMP.md",
+    "+ New/Untitled 3.md",
+    "Calendar/Logs/Exc-20230626.md",
+    "+ New/Exc-20230626.sync-conflict-20230626-113450-BBO7X7A.md",
     "Extras/Images/Pasted image 20230624045342.jpg",
     "Extras/Images/Pasted image 20230624043905.png",
     "Extras/Images/Pasted image 20230624043529.png",
     "Extras/Images/HB4 4.jpg",
-    "Cards/Central Limit Theorem.md",
-    "Cards/Normal Distribution.md",
-    "Cards/Z-score or Standard Units.md",
-    "Sources/Introduction to Data Science.md",
-    "Spaces/ObsPKMClass/Chapters/Chapter 1.md",
-    "+ New/Common Audio-Video Format-Containers.md",
-    "+ New/Common Audio-Video Format-Containers 1.md",
-    "+ New/Gimp.md",
-    "Cards/Random variables.md",
-    "+ New/Emoji Shortcode Reference.md",
-    "+ New/Delete background from a glass.md",
-    "Spaces/ObsPKMClass/Notes/Dataview SORT.md",
-    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
-    "+ New/Another observation.md",
-    "+ New/Call with Eric 230617.md",
-    "Spaces/ObsPKMClass/Notes/Metadata.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough 1.md",
-    "Spaces/ObsPKMClass/Notes/ObsPKMEssentials.md",
-    "Cards/Sampling models - Casino roulette winnings.md",
-    "Cards/The Big Short interest rate case study Pt. 1.md",
     "Calendar/2022",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/HB4 3.jpg",
     "Extras/Images/HB4 2.jpg",
     "Extras/Images/HB4 1.jpg",
     "Extras/Images/HB4.jpg",
-    "Spaces/ObsPKMClass/Resources/HB3.jpg",
-    "Spaces/ObsPKMClass/Resources/HB2.jpg",
     "Spaces/ObsPKMClass/Resources/DataviewPt1_edit.mp4",
     "Extras/Images/2023-06-21 15-41-47_edit.mp4",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4",
@@ -347,7 +337,6 @@
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree.temp",
     "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.temp",
-    "Extras/Images/2023-06-21 15-49-02.mp4",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

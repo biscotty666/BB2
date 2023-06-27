@@ -24,7 +24,7 @@ tags: map, log/journal
 
 > [! journal]- Exercise Log
 > ```dataview
-> table without id
+> table
 > file.name as Date, exc-type as Type, exc-time as Time, exc-dist as Dist, exc-route as Route, exc-note as Note
 > where exc-type
 > sort file.name desc

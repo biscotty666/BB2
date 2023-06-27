@@ -1,50 +1,69 @@
-# Task Management
+## Task Management
 
 
-> [!tip]- Inbox
-> ```todoist
-> name: ""
-> filter: "#Inbox"
 
-> [!danger]- Overdue!
-> ```todoist
-> name: ""
-> filter: overdue
-> sorting: 
->  - priority
->  - date
-> group: true
+### Todays progress
+```dataview
+task
+where completion = date(today)
+```
 
-> [!warning]- Due today
-> ```todoist
-> name: ""
-> filter: today
-> sorting: 
->  - priority
->  - date
-> group: true
+### This week
+```dataview
+task
+where completion >= date(today) - dur(1 week)
+```
+### This month
+```dataview
+task
+where completion >= date(today) - dur(1 month)
+```
 
-> [!tip]- Priority 1
-> ```todoist
-> name: ""
-> filter: p1
-> sorting: 
->  - date
-> group: true
+### Overdue
+```todoist
+name: ""
+filter: overdue
+sorting: 
+ - priority
+ - date
+group: true
+```
 
-> [!tip]- Priority 2
-> ```todoist
-> name: ""
-> filter: p2
-> sorting: 
->  - date
-> group: true
+### Due today
+```todoist
+name: ""
+filter: today
+sorting: 
+ - priority
+ - date
+group: true
+```
 
-> [!info]- Low Priority
-> ```todoist
-> name: ""
-> filter: p3 | p4
-> sorting: 
->  - date
-> group: true
+### Priority 1
+```todoist
+name: ""
+filter: p1
+sorting: 
+ - date
+group: true
+```
+
+### Priority 2
+```todoist
+name: ""
+filter: p2
+sorting: 
+ - date
+group: true
+```
+
+### Others
+```todoist
+name: ""
+filter: p3 | p4
+sorting: 
+ - date
+group: true
+```
+
 

@@ -4,7 +4,6 @@
   "obsidian-hover-editor",
   "obsidian-auto-link-title",
   "templater-obsidian",
-  "obsidian-tasks-plugin",
   "emoji-shortcodes",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
@@ -12,11 +11,11 @@
   "webpage-html-export",
   "obsidian-html-plugin",
   "obsidian-pandoc",
-  "multi-column-markdown",
   "obsidian-banners",
   "todoist-sync-plugin",
   "custom-classes",
   "periodic-notes",
+  "dataview",
   "calendar",
-  "dataview"
+  "obsidian-tasks-plugin"
 ]

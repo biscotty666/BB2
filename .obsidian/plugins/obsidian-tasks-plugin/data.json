@@ -9,8 +9,9 @@
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 6,
   "provideAccessKeys": true,
-  "useFilenameAsScheduledDate": false,
+  "useFilenameAsScheduledDate": true,
   "filenameAsDateFolders": [],
+  "recurrenceOnNextLine": false,
   "statusSettings": {
     "coreStatuses": [
       {

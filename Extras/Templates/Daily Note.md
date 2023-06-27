@@ -15,30 +15,27 @@ tags:: #log/journal #note/daily
 
 #### Progress
 
-### Today
-
-
 ### Tasks
 
+#### New today
 
-> [!warning]+
->```todoist
->name: "Due Today"
->filter: "<% tp.date.now("MMM Do YYYY") %>"
->sorting: 
->  - date
->  - priority
->group: true
+#### Due today
 
+```todoist
+name: "Due Today"
+filter: "<% tp.date.now("MMM Do YYYY") %>"
+sorting: 
+  - date
+  - priority
+group: true
+```
 
-> [!success]-
->```todoist
->name: "Created Today"
->filter: "created:<% tp.date.now("MMM Do YYYY") %>"
->sorting: 
->  - date
->  - priority
->group: true
+#### Completed today
+
+```dataview
+task
+where completion = date("<% tp.date.now("YYYY-MM-DD") %>")
+```
 
 
 ### Logs
@@ -76,11 +73,11 @@ Laptop Comments::
 
 
 ---
-## Yesterday's Note
+### Yesterday's Note
 
 <%*
 const yesterday = tp.date.yesterday("YYYY-MM-DD")
-tR += "[[" + [[yesterday]] + "]]"
+tR += "![[" + [[yesterday]] + "]]"
 %>
 
 

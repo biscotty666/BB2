@@ -1,0 +1,7 @@
+- [ ] Section ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Write outline ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Create note  ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Write script  ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Rehearsal ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Finalize video ➕ <% tp.date.now("YYYY-MM-DD") %>
+- [ ] Incorporate into canvas ➕ <% tp.date.now("YYYY-MM-DD") %>
