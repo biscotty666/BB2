@@ -5,6 +5,7 @@ tags:: #map
 
 - [[Svelte & D3 Video]]
 - [[Svelte D3 another video]]
+- [[Svelte markdown blog]]
 
 ```dataview
 table

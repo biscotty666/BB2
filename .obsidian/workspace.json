@@ -23,48 +23,22 @@
             }
           },
           {
-            "id": "2c60de73b35cc2a1",
+            "id": "7cea662eab5d59a0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Personal Tasks.md",
+                "file": "Spaces/Blog/Notes/Svelte markdown blog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "20bbcbcc30ea4ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d945013c621fcf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/My Tasks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +83,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "735ee7d98d4844de",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5086555480957
+    "width": 262.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -124,7 +106,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 46.35036496350365,
+        "dimension": 70.79107505070994,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -143,51 +125,29 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/My Tasks.md",
+                "file": "Spaces/Blog/Notes/Svelte markdown blog.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#on/Statistics",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#on/Probability",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4909162
-                      }
-                    },
-                    {
-                      "query": "tag:#on/Visualization",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5405920
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -0.7,
-                  "nodeSizeMultiplier": 0.7890625,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.223958333333333,
-                  "repelStrength": 7.8125,
-                  "linkStrength": 0.520833333333333,
-                  "linkDistance": 30,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
                   "scale": 0.6795684961800876,
                   "close": true
                 }
@@ -200,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ New/My Tasks.md"
+                "file": "Spaces/Blog/Notes/Svelte markdown blog.md"
               }
             }
           },
@@ -229,12 +189,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 53.64963503649635,
+        "dimension": 29.20892494929006,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -242,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/My Tasks.md",
+                "file": "Spaces/Blog/Notes/Svelte markdown blog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,18 +219,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/My Tasks.md",
+                "file": "Spaces/Blog/Notes/Svelte markdown blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,42 +244,48 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7d945013c621fcf2",
+  "active": "7cea662eab5d59a0",
   "lastOpenFiles": [
-    "todoist-token",
+    "Spaces/Blog/Tasks.md",
+    "Sources/mdsvex.md",
+    "Spaces/Blog/Notes/Svelte markdown blog.md",
+    "+ New/Lucide.md",
+    "Sources/OpenProps.md",
+    "Spaces/Blog/Notes/src/routes/+layout.svelte.md",
+    "Spaces/Blog/Notes/src/app.css.md",
+    "Atlas/Svelte.md",
     "Calendar/Daily Notes/Notes/2023-06-27.md",
+    "Spaces/Blog/Notes/src/routes/header.svelte.md",
+    "Spaces/Blog/Notes/src/lib/config.ts.md",
+    "Spaces/Blog/Notes/src/lib",
+    "Spaces/Blog/Notes/src/routes",
+    "Spaces/Blog/Notes/src",
+    "Extras/Templates/Blog.md",
+    "Spaces/Blog/Notes",
+    "Spaces/Blog",
+    "+ New/Favicon source.md",
+    "+ New/Personal Tasks.md",
+    "+ New/Logging Video Script Long.md",
+    "+ New/ObsPKM Tasks.md",
+    "+ New/Logging in Obsidian.md",
     "+ New/My Tasks.md",
+    "+ New/Logging Video Script.md",
+    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Templates/Daily Note Simple.md",
+    "todoist-token",
     "+ New/Multi-table layout documentation.md",
     "Sources/Dataview Implicit Fields.md",
     "Untitled 4.md",
     "Home.md",
-    "+ New/Interlocking rings.md",
-    "Spaces/ObsPKMClass/Logging Video.md",
-    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "Cards/Central Limit Theorem.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian GUI Walkthrough.md",
-    "Spaces/ObsPKMClass/Notes/Dataview Fields.md",
-    "+ New/Personal Tasks.md",
-    "Extras/Templates/ObsPKMSection.md",
-    "+ New/ObsPKM Tasks.md",
-    "Extras/Templates/Daily Note.md",
     "Templates",
-    "+ New/Query structure.md",
-    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
-    "Calendar/Daily Notes/Notes/2023-06-26.md",
-    "Sources/Cubic Text Effect.md",
-    "Sources/Colorful Birds.md",
     "Extras/Images/Interlocking-Rings.svg",
     "Extras/Images/Interlocking-Rings.png",
-    "+ New/Svelte markdown blog.md",
-    "Cards/7 ways to remove backgrounds in GIMP.md",
-    "+ New/Untitled 3.md",
-    "Calendar/Logs/Exc-20230626.md",
     "Extras/Images/Pasted image 20230624045342.jpg",
     "Extras/Images/Pasted image 20230624043905.png",
     "Extras/Images/Pasted image 20230624043529.png",
@@ -331,12 +297,6 @@
     "Extras/Images/HB4 1.jpg",
     "Extras/Images/HB4.jpg",
     "Spaces/ObsPKMClass/Resources/DataviewPt1_edit.mp4",
-    "Extras/Images/2023-06-21 15-41-47_edit.mp4",
-    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4",
-    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree",
-    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats",
-    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.mbtree.temp",
-    "Spaces/ObsPKMClass/Resources/2023-06-21 15-41-47b.mp4.x264.stats.temp",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

@@ -29,7 +29,8 @@ tags: #log/journal #note/daily
 ---
 ```
 
-2. Then create a basic layout with headers
+2. Then create a basic layout with headers. I've added some JavaScript at the end. I'm not going to explain it now, so just go with it 😉
+
 ```
 ## {{title}}
 
@@ -45,8 +46,21 @@ tags: #log/journal #note/daily
 ---
 ## Yesterday's Note
 
-[[2023-06-15]]
+## {{title}}
 
+### Today's Goals
+
+### Today's Progress
+
+### Reflections
+
+### Logs
+
+
+---
+## Yesterday's Note
+
+![[2023-06-26]]
 ```
 
 2. Name the file "Daily Note" and place it in Extras/Templates.

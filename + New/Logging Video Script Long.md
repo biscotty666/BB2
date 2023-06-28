@@ -1,4 +1,4 @@
-## Logging Video Script
+## Logging Video Script Long
 
 Let's use data view to create a logging system. For this demonstration we will log observations of animals in my yard. I would particularly like to keep track of bird sightings, and I have a special interst in hummingbirds.
 
