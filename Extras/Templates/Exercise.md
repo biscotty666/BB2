@@ -1,0 +1,16 @@
+Exc Date::  <% tp.date.now("YYYY-MM-DD") %>
+Exc Type:: 
+Exc Route:: 
+Exc Time:: 
+Exc Dist:: 
+Exc Note:: 
+Exc Image:: 
+up:: [[Logs]]
+tags:: #log/exercise 
+
+`<iframe height=800 width=750 src=""></iframe>`
+
+---
+
+
+

@@ -22,13 +22,13 @@ tags: map, log/journal
 >sort file.name desc
 >```
 
-> [! journal]- Exercise Log
-> ```dataview
-> table
-> file.name as Date, exc-type as Type, exc-time as Time, exc-dist as Dist, exc-route as Route, exc-note as Note
-> where exc-type
-> sort file.name desc
-> ```
+### Exercise Log
+```dataview
+table without id
+exc-date as Date, exc-type as Type, exc-time as Minutes, exc-dist as Miles, exc-route as Route, exc-note as Note, exc-image as Photo
+from #log/exercise & -"Extras/Templates"
+sort exc-date desc
+```
 
 > [!journal]- Domestic Log
 > ```dataview
@@ -56,6 +56,14 @@ tags: map, log/journal
 
 
 ### Legacy
+
+> [! journal]- Exercise Log - Legacy 2
+> ```dataview
+> table
+> file.name as Date, exc-type as Type, exc-time as Time, exc-dist as Dist, exc-route as Route, exc-note as Note
+> where exc-type
+> sort file.name desc
+> ```
 
 > [! journal]- Exercise Log - Legacy
 > ```dataview

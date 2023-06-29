@@ -9,7 +9,7 @@ cssclass: "qs"
 - Some will be deleted upon reflection
 - Others will be developed
 	- Made atomic
-	- Augmented with [[Metadata|metadata]]
+	- Augmented with [[Obsidian Metadata|metadata]]
 	- Stored as a _permanent note_
 - We will keep these in the `+ New` directory in our vault
 

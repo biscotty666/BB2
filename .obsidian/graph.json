@@ -15,115 +15,38 @@
       }
     },
     {
-      "query": "#on/Statistics",
+      "query": "Obsidian",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 6577366
       }
     },
     {
-      "query": "#on/Visualization",
+      "query": "ObsPKM",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11392604
       }
     },
     {
-      "query": "#on/R",
+      "query": "Python",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 14048438
       }
     },
     {
-      "query": "#on/Python",
+      "query": "PKM",
       "color": {
         "a": 1,
-        "rgb": 5271794
-      }
-    },
-    {
-      "query": "#on/Obsidian",
-      "color": {
-        "a": 1,
-        "rgb": 15165688
-      }
-    },
-    {
-      "query": "#to/watch",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "#to/read",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "#note/daily",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "#ideas/proverbs",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "#on/PKM",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "#note/weekly",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "#on/Programming",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "#on/Philosopy",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#effort/ObsPKMClass",
-      "color": {
-        "a": 1,
-        "rgb": 16451849
-      }
-    },
-    {
-      "query": "#on/Probability",
-      "color": {
-        "a": 1,
-        "rgb": 2129464
+        "rgb": 6084269
       }
     },
     {
       "query": "#on/PnS",
       "color": {
         "a": 1,
-        "rgb": 10092288
+        "rgb": 14913794
       }
     }
   ],
@@ -131,12 +54,12 @@
   "showArrow": true,
   "textFadeMultiplier": -2.7,
   "nodeSizeMultiplier": 0.865625,
-  "lineSizeMultiplier": 0.865625,
+  "lineSizeMultiplier": 0.1765625,
   "collapse-forces": false,
   "centerStrength": 0.479166666666667,
   "repelStrength": 14.2708333333333,
   "linkStrength": 0.348958333333333,
   "linkDistance": 348,
-  "scale": 0.3441185647941794,
-  "close": false
+  "scale": 0.1019610562353124,
+  "close": true
 }

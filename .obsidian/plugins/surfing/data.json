@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "98015688aff045e0",
+      "parent": 0,
+      "droppable": true,
+      "text": "shiki/scripts/themeSources.ts at main · shikijs/shiki · GitHub",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

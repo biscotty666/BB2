@@ -12,5 +12,5 @@ cssclass: "qs"
 ---
 up:: [[Introduction to Zettelkasten]]
 tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference #on/Obsidian 
-[prev:: [[Metadata]]]
+[prev:: [[Obsidian Metadata]]]
 [next:: [[Storage for life]]]

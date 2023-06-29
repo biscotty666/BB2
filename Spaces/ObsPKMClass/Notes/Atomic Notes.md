@@ -14,5 +14,5 @@ cssclass: "qs"
 up:: [[Introduction to Zettelkasten]]
 [tags:: #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference  ]
 [prev:: [[Sources of information]]]
-[next:: [[Metadata]]]
+[next:: [[Obsidian Metadata]]]
 

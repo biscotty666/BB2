@@ -54,14 +54,6 @@ Pia Time::
 Pia Note:: 
 Pia Songs:: 
 
-#### Exercise Log
-
-Exc Type:: 
-Exc Route:: 
-Exc Time:: 
-Exc Dist:: 
-Exc Note:: 
-
 #### Domestic Log
 
 Dom Log:: 
