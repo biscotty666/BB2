@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "7cea662eab5d59a0",
+            "id": "0b37b7955af7fdd2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Blog/Svelte markdown blog.md",
+                "file": "Spaces/ObsPKMClass/Keeping logs with Dataview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,33 +38,63 @@
             }
           },
           {
-            "id": "660e34b59d964807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ New/Shiki.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "39396823b0992869",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98015688aff045e0",
+            "id": "bd5ac33ed449fb32",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/shikijs/shiki/blob/main/scripts/themeSources.ts"
+                "file": "Extras/Templates/Observation - Yard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2a1358bc885c75f0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Yard Observations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0f98676a4e97b621",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Rufous Hummingbird.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0bb03b7dab7f3c8d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": 23086.18077171864,
+                  "y": -65.51558205382912,
+                  "zoom": -2.4000000000000004
+                }
               },
               "pinned": true
             }
@@ -124,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-28.md"
+              }
             }
           },
           {
@@ -231,6 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,6 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,46 +311,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "98015688aff045e0",
+  "active": "6210aacf3da04456",
   "lastOpenFiles": [
-    "+ New/Shiki.md",
-    "Spaces/Blog/Svelte markdown blog.md",
-    "Atlas/Syntax.md",
-    "Calendar/Daily Notes/Notes/2023-06-28.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Calendar/Daily Notes/Notes/2023-06-27.md",
-    "+ New/Open Graph Protocol.md",
-    "Extras/Web Pages/What is Open Graph and how can I use it for my website-.md",
-    "Sources/Open Graph Types.md",
-    "+ New/Metadata.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Metadata.md",
-    "Sources/Open Graph Basic Tags.md",
-    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
-    "Spaces/Blog/Notes/src/routes/slug/+page.ts.md",
-    "Spaces/Blog/Notes/src/routes/+page.svelte.md",
-    "Spaces/Blog/Notes/src/routes/slug/+page.svelte.md",
+    "Calendar/Daily Notes/Notes/2023-06-28.md",
+    "Spaces/ObsPKMClass/Keeping logs with Dataview.md",
+    "Sources/Rufous Hummingbird.md",
+    "+ New/Yard Observations.md",
+    "Extras/Templates/Observation - Yard.md",
+    "Sources/Color palettes.md",
+    "Calendar/Daily Notes/Notes/2023-04/2023-04-02.md",
+    "Atlas/Obsidian.md",
+    "Spaces/Blog/Svelte markdown blog.md",
+    "Spaces/Blog/Notes/src/routes/rss.xml/+server.ts.md",
+    "Spaces/Blog/Notes/src/routes/+layout.ts.md",
+    "Spaces/Blog/Notes/src/app.html.md",
+    "Spaces/Blog/Notes/src/+error.svelte.md",
+    "Spaces/Blog/Notes/src/routes/rss.xml",
+    "Spaces/Blog/Notes/src/routes/+layout.svelte.md",
+    "Spaces/Blog/Notes/src/routes/transition.svelte.md",
+    "Spaces/Blog/Notes/src/routes/header.svelte.md",
+    "Spaces/Blog/Notes/src/toggle.svelte.md",
+    "Spaces/Blog/Notes/lib/theme.ts.md",
+    "Spaces/Blog/Notes/lib",
+    "+ New/app.h.md",
+    "Spaces/Blog/Notes/svelte.config.js.md",
+    "Spaces/Blog/Notes/src/app.css.md",
+    "+ New/Remark and Rehype Plugins.md",
+    "Cards/External Markdown.md",
+    "+ New/Abstract Syntax Tree CSS.md",
+    "Spaces/Blog/Notes/src/lib/components/custom",
+    "Spaces/Blog/Notes/src/lib/components",
     "Spaces/Blog/Notes/src/routes/slug",
-    "Spaces/Blog/Notes/src/lib/utils.ts.md",
-    "Spaces/Blog/Notes/routes/+page.ts.md",
     "Spaces/Blog/Notes/routes",
-    "Spaces/Blog/Notes/src/lib/types.ts.md",
-    "Spaces/Blog/Notes/src/routes/api/posts/+server.ts.md",
-    "Extras/Templates/Blog.md",
     "Spaces/Blog/Notes/src/routes/api/posts",
     "Spaces/Blog/Notes/src/routes/api",
-    "Spaces/Blog/Notes/src/posts/first-post.md.md",
-    "Spaces/Blog/Notes/svelte.config.js.md",
-    "Spaces/Blog/Notes/src/posts/second-post.md.md",
     "Spaces/Blog/Notes/src/posts",
     "Spaces/Blog/Noes/src",
-    "Spaces/Blog/Noes",
-    "Sources/mdsvex.md",
-    "Spaces/Blog/Notes/src/app.css.md",
     "Extras/Images/IMG_20230625_100943318.jpg",
-    "Cards/Central Limit Theorem.md",
-    "Spaces/Blog/Notes/src/lib",
-    "Spaces/Blog/Notes/src/routes",
-    "Spaces/Blog/Notes/src",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Extras/Images/Interlocking-Rings.svg",
     "Extras/Images/Interlocking-Rings.png",
     "Extras/Images/Pasted image 20230624045342.jpg",

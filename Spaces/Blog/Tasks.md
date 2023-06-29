@@ -1,6 +1,6 @@
 ## Tasks
 
-- [ ] Watch https://youtu.be/RhScu3uqGd0 
+- [x] Watch https://youtu.be/RhScu3uqGd0 ✅ 2023-06-29
 ### Todoist
 
 ```todoist

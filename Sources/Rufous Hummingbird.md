@@ -28,7 +28,7 @@ Why am I interested in __Rufous hummingbirds__? What would I like to learn from 
 
 ```dataview
 table without id
-date as Date, image as Picture, notes as Notes
+date as Date, image as Picture, description as Description, notes as Notes
 from #note/observation 
 where species = [[Rufous Hummingbird]] AND notes
 ```
@@ -38,7 +38,7 @@ where species = [[Rufous Hummingbird]] AND notes
 
 ```dataview
 table without id
-date as Date, image as Picture, notes as Notes
+date as Date, image as Picture, description as Description, notes as Notes
 from #note/observation 
 where species = [[Rufous Hummingbird]]
 ```

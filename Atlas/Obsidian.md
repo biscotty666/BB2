@@ -6,7 +6,7 @@ Library:: 600
 # Obsidian
 
 [Obsidian](https://obsidian.md/)
-
+[[ObsPKMEssentials]]
 [[mermaid.js]]
 
 

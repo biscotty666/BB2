@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
-                "mode": "preview",
+                "file": "+ New/OBS Studio Screen Blur.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
+            "file": "+ New/OBS Studio Screen Blur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-06-28.md",
+            "file": "+ New/OBS Studio Screen Blur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-06-28.md"
+            "file": "+ New/OBS Studio Screen Blur.md"
           }
         }
       },
@@ -162,8 +162,9 @@
   },
   "active": "eb1a132ea2e0f8ca",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-06-27.md",
     "Calendar/Daily Notes/Notes/2023-06-28.md",
+    "+ New/OBS Studio Screen Blur.md",
+    "Calendar/Daily Notes/Notes/2023-06-27.md",
     "Cards/Logs.md",
     "Calendar/Logs/Exc-20230628.md",
     "Extras/Images/IMG_20230625_100943318.jpg",
@@ -188,7 +189,6 @@
     "+ New/Exc-20230626.sync-conflict-20230626-113450-BBO7X7A.md",
     "+ New/Exc-20230626.md",
     "Calendar/Logs/Exc-20230624.md",
-    "Calendar/Daily Notes/Notes/2023-06-23.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/HB4 3.jpg",
