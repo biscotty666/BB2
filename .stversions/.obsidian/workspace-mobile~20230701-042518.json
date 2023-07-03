@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1c23c6b397d2ad",
+        "id": "f766e0f40faedfe5",
         "type": "tabs",
         "children": [
           {
-            "id": "d2bec19f561cff8d",
+            "id": "eb1a132ea2e0f8ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Exc-20230701.md",
+                "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md",
+            "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md",
+            "file": "Calendar/Daily Notes/Notes/2023-06-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md"
+            "file": "Calendar/Daily Notes/Notes/2023-06-27.md"
           }
         }
       },
@@ -148,6 +148,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -155,18 +156,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bec19f561cff8d",
+  "active": "eb1a132ea2e0f8ca",
   "lastOpenFiles": [
-    "+ New/Exc-20230701.sync-conflict-20230701-162655-BBO7X7A.md",
-    "Calendar/Daily Notes/Notes/2023-07-01.md",
-    "Calendar/Logs/Exc-20230701.md",
-    "Cards/Logs.md",
-    "Calendar/Daily Notes/Notes/2023-06-27.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",
@@ -177,14 +172,18 @@
     "Page 2.png",
     "IMG_20230615_132147746.jpg",
     "IMG_20230327_070830295.jpg",
+    "IMG_20230425_065439984_HDR.jpg",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
+    "Calendar/Daily Notes/Notes/2023-07-01.md",
     "Color Palette Options.pdf",
     "2 Rivers.xcf",
     "Calendar/Logs/Exc-20230630.md",
     "+ New/Sveltekit authentication with cookies.md",
+    "Calendar/Daily Notes/Notes/2023-06-27.md",
     "+ New/Basic Task Management.md",
     "+ New/OBS Studio Screen Blur.md",
     "Calendar/Daily Notes/Notes/2023-06-28.md",
+    "Cards/Logs.md",
     "Calendar/Logs/Exc-20230628.md",
     "Extras/Templates/Exercise.md",
     "+ New/Exc-20230628.md",
@@ -201,6 +200,7 @@
     "Extras/Templates/Daily Note.md",
     "+ New/Svelte markdown blog.md",
     "Cards/7 ways to remove backgrounds in GIMP.md",
+    "Calendar/Daily Notes/Notes/2023-06-26.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/windows-shortcuts.pdf",

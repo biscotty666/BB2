@@ -1,3 +1,6 @@
+---
+cssclass: "qs"
+---
 %%
 Library:: 500
 Tags:: #note/reference 

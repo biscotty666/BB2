@@ -4,15 +4,18 @@ cssclass: "qs"
 ---
 ## Personal Knowledge Management with Obsidian
 
-`class: qs-center`
 ## Essentials
 
-1. Personal Knowledge Management
-3. Zettelkasten
-5. Obsidian
-6. Markdown
-7. Zettelkasten 💗 Obsidian
-8. Dataview 
+1. Personal Knowledge Management and  Zettelkasten
+2. Obsidian and Markdown
+3. Zettelkasten 💗 Obsidian - Implementation
+
+## Advanced Topics
+
+1. Templates and Templater
+2. Dataview
+3. Logging with Dataview
+4. Periodic Notes/Daily Note
 
 ---
 prev:: [[ObsPKMEssentials]]

@@ -1,3 +1,6 @@
+---
+cssclass: "qs"
+---
 ## Yard Activity
 
 ### Today

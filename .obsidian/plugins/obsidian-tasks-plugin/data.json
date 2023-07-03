@@ -7,7 +7,7 @@
   "setDoneDate": true,
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
-  "autoSuggestMaxItems": 6,
+  "autoSuggestMaxItems": 7,
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": true,
   "filenameAsDateFolders": [],

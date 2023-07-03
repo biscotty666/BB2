@@ -1,10 +1,9 @@
----
-cssclass: "qs"
----
 ## Lists
-All lists can be nested/unnested using `Tab` and `Shft-Tab`. Folds are automatically created for nested lists.
+
+All lists can be nested/un-nested using `Tab` and `Shft-Tab`. Folds are automatically created for nested lists.
 
 ### Ordered lists
+
 Begin a line with a number followed by a period and a spaces.
 
 1. Item 1
@@ -31,8 +30,13 @@ Begin a line with `- [ ]`. A shortcut is `Ctrl-Space`
 	- [ ] Sub-task 2
 - [ ] Third task
 
+
+
+
 ---
+%%
 up:: [[Markdown]]
 tags:: #on/Obsidian #on/Markdown #effort/ObsPKMClass #note/product #note/reference 
 prev:: [[Emphasis]]
 next:: [[Links]]
+%%

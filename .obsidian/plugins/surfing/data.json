@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "72ec94a983b63d03",
-      "parent": 0,
-      "droppable": true,
-      "text": "How to Modify Nodes in an Abstract Syntax Tree | CSS-Tricks - CSS-Tricks",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

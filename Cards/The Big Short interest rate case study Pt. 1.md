@@ -170,3 +170,6 @@ Continued in [[The Big Short Pt 2]]
 
 
 
+
+
+[Testing Farm](https://docs.testing-farm.io/general/0.1/index.html) is an open-source testing system offered as a service. Users can use Testing Farm in many ways — use CLI from the user’s local machine to create a machine for running the tests, integrate it into the project as a CI check via [GitHub Actions](https://github.com/sclorg/testing-farm-as-github-action) or [Packit](https://packit.dev/), or just send HTTP requests to the service [API](https://testing-farm.gitlab.io/api/) with desired requirements.

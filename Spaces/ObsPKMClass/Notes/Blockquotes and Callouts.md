@@ -1,7 +1,3 @@
----
-cssclass: "qs"
----
-
 ## Blockquotes and Callouts
 
 Start a line with > followed by a space.
@@ -11,22 +7,23 @@ Start a line with > followed by a space.
 
 Blockquotes can be nested
 
-> This is a quotation
-> From a very famous person
-> > __Some guy__
+> "This is a quotation
+> From a very famous person"
+> > __- Famous Person__
 
 To make a card style blockquote, put `[!quote]` on the first line
 
 > [!quote]
 > Here's something else
 > he said
-> > Some guy
+> > **- Some guy**
 
 You can add text after the  `[!quote]` . Leave a space between the closing bracket and your text.
 
-> [!quote] Some guy said
+> [!quote] Profound statement 
 > Here's something else
 > he said
+> __- Some guy__
 
 Add a + or - after `[!quote]` to make a foldable card. + defaults to unfolded and - defaults to folded. Do not leave a space between the closing bracket and the + or -.
 
@@ -41,6 +38,7 @@ Blockquotes and callouts can contain formatting, links and backlinks.
 > For more information see the [Documentation](https://help.obsidian.md/Editing+and+formatting/Callouts)
 > or the [[#List of Supported Types]] below.
 
+---
 
 #### List of Supported Types
 

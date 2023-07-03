@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Exc-20230701.md",
+                "file": "+ New/Exc-20230701.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md",
+            "file": "+ New/Exc-20230701.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md",
+            "file": "+ New/Exc-20230701.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Logs/Exc-20230701.md"
+            "file": "+ New/Exc-20230701.md"
           }
         }
       },
@@ -162,9 +162,8 @@
   },
   "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
-    "+ New/Exc-20230701.sync-conflict-20230701-162655-BBO7X7A.md",
     "Calendar/Daily Notes/Notes/2023-07-01.md",
-    "Calendar/Logs/Exc-20230701.md",
+    "+ New/Exc-20230701.md",
     "Cards/Logs.md",
     "Calendar/Daily Notes/Notes/2023-06-27.md",
     "IMG_20230531_103738201.jpg",
@@ -201,6 +200,7 @@
     "Extras/Templates/Daily Note.md",
     "+ New/Svelte markdown blog.md",
     "Cards/7 ways to remove backgrounds in GIMP.md",
+    "Calendar/Daily Notes/Notes/2023-06-26.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/windows-shortcuts.pdf",

@@ -1,5 +1,5 @@
 {
-  "cssTheme": "80s Neon",
+  "cssTheme": "Obsidian Nord",
   "translucency": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
@@ -11,7 +11,7 @@
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "",
   "nativeMenus": true,
   "showViewHeader": true
