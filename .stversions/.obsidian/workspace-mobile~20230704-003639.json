@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-01.md",
+                "file": "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#to/watch",
+            "query": "tag:#effort/ObsPKMClass",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-01.md",
+            "file": "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-01.md",
+            "file": "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-01.md"
+            "file": "Spaces/ObsPKMClass/Notes/Basic Task Management.md"
           }
         }
       },
@@ -162,6 +162,18 @@
   },
   "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
+    "+ New/Priorities.md",
+    "+ New/Recurring tasks.md",
+    "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
+    "Spaces/ObsPKMClass/Notes/Tasks Dates.md",
+    "Spaces/ObsPKMClass/Notes/Tasks Dates.sync-conflict-20230704-002040-BBO7X7A.md",
+    "Spaces/ObsPKMClass/Notes/Tasks Examples.md",
+    "Calendar/Daily Notes/Notes/2023-07-03.md",
+    "+ New/Basic Task Management.md",
+    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
+    "Calendar/Logs/Exc-20230701.md",
+    "+ New/Exc-20230701.sync-conflict-20230701-162655-BBO7X7A.md",
+    "Calendar/Daily Notes/Notes/2023-07-01.md",
     "Cards/Logs.md",
     "Calendar/Daily Notes/Notes/2023-06-27.md",
     "IMG_20230531_103738201.jpg",
@@ -175,12 +187,10 @@
     "IMG_20230615_132147746.jpg",
     "IMG_20230327_070830295.jpg",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
-    "Calendar/Daily Notes/Notes/2023-07-01.md",
     "Color Palette Options.pdf",
     "2 Rivers.xcf",
     "Calendar/Logs/Exc-20230630.md",
     "+ New/Sveltekit authentication with cookies.md",
-    "+ New/Basic Task Management.md",
     "+ New/OBS Studio Screen Blur.md",
     "Calendar/Daily Notes/Notes/2023-06-28.md",
     "Calendar/Logs/Exc-20230628.md",
@@ -191,15 +201,6 @@
     "+ New/My Tasks.md",
     "+ New/Logging in Obsidian.md",
     "+ New/Favicon source.md",
-    "+ New/Logging Video Script Long.md",
-    "+ New/Interlocking rings.md",
-    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
-    "Extras/Templates/Daily Note Simple.md",
-    "Extras/Templates/Daily Note.md",
-    "+ New/Svelte markdown blog.md",
-    "Cards/7 ways to remove backgrounds in GIMP.md",
-    "Calendar/Daily Notes/Notes/2023-06-26.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/windows-shortcuts.pdf",

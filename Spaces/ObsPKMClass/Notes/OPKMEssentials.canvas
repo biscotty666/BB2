@@ -9,9 +9,9 @@
 		{"type":"group","id":"ecea9d9d86d206ef","x":-1063,"y":-141,"width":1981,"height":1666,"color":"#00feab","label":"Install and First Launch"},
 		{"type":"group","id":"42d4daa272236eb9","x":5260,"y":3411,"width":1460,"height":1920,"label":"Observation Log with Dataview"},
 		{"type":"group","id":"cadebaa517f29630","x":3510,"y":-2539,"width":1635,"height":1662,"label":"1.2 Zettelkasten in detail","background":"Spaces/ObsPKMClass/Resources/Card Catalog o50.png"},
+		{"type":"group","id":"14ab2983ce299170","x":7120,"y":3667,"width":1215,"height":1993,"color":"#a0cdfc","label":"Daily Note"},
 		{"type":"group","id":"909e6dab930c0b69","x":4480,"y":899,"width":1580,"height":1467,"label":"Embeds"},
 		{"type":"group","id":"cb1398fd035072da","x":2800,"y":1136,"width":1420,"height":1318,"label":"Blockquotes and Callouts"},
-		{"type":"group","id":"14ab2983ce299170","x":7120,"y":3667,"width":1215,"height":1348,"color":"#a0cdfc","label":"Daily Note"},
 		{"type":"group","id":"ad3f744ac272677c","x":1280,"y":520,"width":1400,"height":1060,"label":"Headers"},
 		{"type":"group","id":"28765c17fc9a74b9","x":4480,"y":3351,"width":700,"height":1980,"label":"Logging Demonstration"},
 		{"type":"group","id":"242b23ebd1904293","x":2800,"y":-88,"width":1420,"height":780,"label":"Lists"},
@@ -96,11 +96,10 @@
 		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Obsidian Folders.md","id":"f590d4247a2f99ac","x":-920,"y":4077,"width":533,"height":420},
 		{"type":"text","text":"> [!info]\n> In the video `+ Fleeting Notes` is used instead of `+ New`","id":"2873d2ec7f230945","x":-922,"y":4591,"width":533,"height":120},
 		{"type":"text","text":"---\ncssclass: \"qs\"\n---\n## Putting it together\n## Daily note template with logging and task management","id":"ef19a2bdf28ebae5","x":7135,"y":3687,"width":890,"height":100},
-		{"type":"text","text":"![[Daily Notes in Obsidian - Basic#Daily Notes]]","id":"70935a67007e506a","x":7135,"y":3802,"width":580,"height":280},
-		{"type":"text","text":"![[Daily Notes in Obsidian - Basic#Daily note template]]","id":"f3a132f5d6d9fcc2","x":7135,"y":4088,"width":580,"height":899},
-		{"type":"text","text":"![[Daily Notes in Obsidian - Basic#Obsidian setup]]","id":"cf1b62d864eb3897","x":7735,"y":3802,"width":580,"height":225},
-		{"type":"file","file":"Spaces/ObsPKMClass/Resources/Daily Note Example.png","id":"f0789baf107b0530","x":7740,"y":4088,"width":575,"height":619},
-		{"type":"file","file":"+ New/Templater.md","id":"c5299609add586fe","x":-382,"y":5055,"width":600,"height":1020}
+		{"type":"text","text":"![[Daily Notes in Obsidian - Basic]]","id":"70935a67007e506a","x":7135,"y":3802,"width":580,"height":478},
+		{"type":"file","file":"+ New/Templater.md","id":"c5299609add586fe","x":-382,"y":5055,"width":600,"height":1020},
+		{"type":"file","file":"Spaces/ObsPKMClass/Resources/Daily Note Example.png","id":"f0789baf107b0530","x":7740,"y":4088,"width":568,"height":612},
+		{"type":"text","text":"![[Daily Notes in Obsidian - Basic#Daily note template]]","id":"f3a132f5d6d9fcc2","x":7135,"y":4347,"width":580,"height":1243}
 	],
 	"edges":[
 		{"id":"d3c70e4f489e10d9","fromNode":"261ba2df63881617","fromSide":"top","toNode":"6c1dca5325f1cd28","toSide":"bottom","color":"5","label":"1. \nGather"},

@@ -18,7 +18,15 @@
       "key": "K"
     }
   ],
-  "editor:swap-line-up": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
   "app:go-forward": [
     {
       "modifiers": [
@@ -329,7 +337,15 @@
   "pane-relief:put-3rd": [],
   "pane-relief:put-2nd": [],
   "pane-relief:put-1st": [],
-  "editor:swap-line-down": [],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
   "obsidian-sample-plugin:prompt-random": [
     {
       "modifiers": [

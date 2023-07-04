@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Priorities.md",
+                "file": "+ New/Recurring tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Priorities.md",
+            "file": "+ New/Recurring tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Priorities.md",
+            "file": "+ New/Recurring tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Priorities.md"
+            "file": "+ New/Recurring tasks.md"
           }
         }
       },
@@ -163,7 +163,6 @@
   "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
     "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
-    "Spaces/ObsPKMClass/Notes/Priorities.md",
     "+ New/Recurring tasks.md",
     "Spaces/ObsPKMClass/Notes/Tasks Dates.md",
     "Spaces/ObsPKMClass/Notes/Tasks Dates.sync-conflict-20230704-002040-BBO7X7A.md",
@@ -201,6 +200,7 @@
     "+ New/My Tasks.md",
     "+ New/Logging in Obsidian.md",
     "+ New/Favicon source.md",
+    "+ New/Logging Video Script Long.md",
     "Calendar/2022",
     "Spaces/ObsPKMClass/Resources/Dataview_Resized.mp4",
     "Extras/Images/windows-shortcuts.pdf",

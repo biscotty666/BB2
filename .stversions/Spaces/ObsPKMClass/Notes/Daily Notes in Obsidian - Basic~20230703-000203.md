@@ -1,6 +1,6 @@
----
-cssclass: "qs"
----
+up:: [[ObsPKMEssentials]]
+tags:: #on/Obsidian, #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference
+
 ##### Daily Notes
 
 Daily notes provide a central location to
@@ -14,9 +14,10 @@ Daily notes provide a central location to
 
 1. First create the folder "Calendar/Daily Notes.
 2. In Obsidian install _and enable_ the Calendar and Periodic Notes plugin
-3. In the Settings for Periodic Notes add
+3. In the Settings for "Daily Note" add
  	- Calendar/Daily Notes for New file location
  	- Extras/Templates/Daily Note for Template file itself 
+
 
 ##### Daily note template
 
@@ -69,7 +70,5 @@ tags: #log/journal #note/daily
 6. Use Ctrl-R to replace the JavaScript with yesterday's note.
 
 ---
-up:: [[ObsPKMEssentials]]
-tags:: #on/Obsidian, #on/PKM, #note/product, #effort/ObsPKMClass, #note/reference
 prev:: 
 next:: 
