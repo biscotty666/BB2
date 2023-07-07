@@ -62,7 +62,7 @@ No changes
 	1. Dragging 
 	2. Splitting 
 	3. Right-click menu
-5. Central workspace  ^2bb6c7
+5. Central workspace  ^2bb6c7 ^cdc3d4
 	1. Read mode
 	2. Edit mode
 		1. Preview 

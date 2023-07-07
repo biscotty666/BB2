@@ -1,5 +1,5 @@
 up::  [[Svelte]]
-tags:: #note/example #source/video #on/Svelte 
+tags:: #note/clearexample #source/video #on/Svelte 
 Status:: New
 Priority:: 
 

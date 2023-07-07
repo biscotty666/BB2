@@ -1,5 +1,5 @@
 up:: [[Binomial Distribution]]
-tags:: #on/PnS #source/video #note/example #note/reference  
+tags:: #on/PnS #source/video #note/clearexample #note/reference  
 
 ## McDonalds Example
 

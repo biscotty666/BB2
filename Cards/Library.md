@@ -6,11 +6,20 @@ tags:: #map
 ## 000 - Knowledge Management
 
 - [[Notebox]] 
+### 000
 
 ```dataview
 table file.etags
 where Library = 000
 ```
+
+### 020 Library Science
+
+```dataview
+table file.etags
+where Library = 020
+```
+
 
 ## 100 - Personal Management
 

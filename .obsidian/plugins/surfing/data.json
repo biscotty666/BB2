@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "1313a6b1f44522a9",
-      "parent": 0,
-      "droppable": true,
-      "text": "Thomas Jefferson on Judicial Tyranny",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

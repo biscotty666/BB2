@@ -45,7 +45,7 @@ Queries use `in`, `after`, `next` or `before`.
 %%
 
 ---
-up:: [[ObsPKMEssentials]]
+up:: [[Basic Task Management]]
 tags:: #on/Obsidian #on/PKM  #note/product #effort/ObsPKMClass 
 prev:: 
 next:: 

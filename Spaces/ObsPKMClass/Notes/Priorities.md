@@ -19,7 +19,7 @@ Example: `priority is high`. Can also use `above`, `below`, `not`.
 %%
 
 ---
-up:: [[ObsPKMEssentials]]
+up:: [[Basic Task Management]]
 tags:: #on/Obsidian #on/PKM  #note/product #effort/ObsPKMClass 
 prev:: 
 next::

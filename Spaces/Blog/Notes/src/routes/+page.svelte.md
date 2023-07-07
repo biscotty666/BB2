@@ -50,4 +50,4 @@
 
 ---
 up:: [[Svelte markdown blog]]
-tags:: #note/example #effort/blog #source/video #source/JoyOfCode #on/Markdown 
+tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode #on/Markdown 

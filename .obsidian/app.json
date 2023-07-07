@@ -1,7 +1,7 @@
 {
   "obsidianCss": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "foldHeading": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "+ New",
@@ -127,6 +127,7 @@
     "templater-obsidian:replace-in-file-templater",
     "editor:toggle-source",
     "obsidian-tasks-plugin:edit-task",
+    "todoist-sync-plugin:todoist-add-task-current-page",
     "note-composer:split-file",
     "note-composer:extract-heading",
     "editor:insert-wikilink",

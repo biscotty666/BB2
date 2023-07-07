@@ -4,8 +4,8 @@ cssclass: "qs"
 ## Metadata
 
 - references:  links to other notes
-- hierarchy:  parent, sibling, next
-- tags:  topic, source, dates, etc.
+- hierarchy:  parent, child, sibling, next
+- tags:  topic, source, type, etc.
 
 ---
 up:: [[Introduction to Zettelkasten]]

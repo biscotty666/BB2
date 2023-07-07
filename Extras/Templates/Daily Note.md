@@ -44,10 +44,6 @@ where completion = date("<% tp.date.now("YYYY-MM-DD") %>")
 Std Log:: 
 Std Cat:: 
 
-#### Work Log
-Wrk Log:: 
-Wrk Cat:: 
-
 #### Piano Log
 
 Pia Time:: 

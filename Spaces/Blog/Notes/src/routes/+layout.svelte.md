@@ -82,4 +82,4 @@ With page transitions
 
 ---
 up:: [[Svelte markdown blog]]
-tags:: #note/example #effort/blog #source/video #source/JoyOfCode
+tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode

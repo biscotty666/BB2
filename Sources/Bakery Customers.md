@@ -1,5 +1,5 @@
 up:: [[Gamma distribution]]
-tags:: #on/PnS #source/video #note/example #note/reference  
+tags:: #on/PnS #source/video #note/clearexample #note/reference  
 
 ## Bakery Customers
 

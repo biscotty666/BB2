@@ -16,6 +16,7 @@ cssclass: "qs"
 2. Dataview
 3. Logging with Dataview
 4. Periodic Notes/Daily Note
+5. Basic Task Management
 
 ---
 prev:: [[ObsPKMEssentials]]
