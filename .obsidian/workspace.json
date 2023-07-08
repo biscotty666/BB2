@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c73369e1b6db845",
+        "id": "94c009cd008dc68b",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "0bb03b7dab7f3c8d",
+            "id": "ce718c4728177135",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "surfing-view",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-                "viewState": {
-                  "x": 4661.966383806062,
-                  "y": 4878.692558464198,
-                  "zoom": -3.077864660243288
-                }
+                "url": "https://fedoramagazine.org/systemd-unit-dependencies-and-order/"
               },
               "pinned": true
             }
           },
           {
-            "id": "d3eb35c20625244b",
+            "id": "7063ba887560bf1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,32 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b9874c697d921fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "243c13c7054fd62c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalibrain.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#effort/ObsPKMClass task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excalibrain.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalibrain.md"
+                "file": "Calendar/Daily Notes/Notes/2023-07-07.md"
               }
             }
           },
@@ -226,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excalibrain.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excalibrain.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,12 +245,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "243c13c7054fd62c",
+  "active": "7063ba887560bf1a",
   "lastOpenFiles": [
+    "Extras/Web Pages/What is an init system- - Fedora Magazine.md",
+    "Extras/Web Pages/systemd unit file basics - Fedora Magazine.md",
+    "Extras/Web Pages/systemd- Masking units - Fedora Magazine.md",
+    "Extras/Web Pages/systemd- Unit dependencies and order - Fedora Magazine.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "Cards/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
+    "Extras/Web Pages/systemd- Converting sysvinit scripts - Fedora Magazine.md",
+    "Extras/Web Pages/systemd- Using the journal - Fedora Magazine.md",
+    "Cards/System Backups.md",
     "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
+    "Spaces/ObsPKMClass/Notes/ObsPKMEssentials.md",
+    "Calendar/Daily Notes/Notes/2023-07-07.md",
     "excalibrain.md",
     "Spaces/ObsPKMClass/Notes/Introduction to PKM.md",
-    "Spaces/ObsPKMClass/Notes/ObsPKMEssentials.md",
     "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
     "Extras/Excalidraw/Drawing 2023-07-07 05.37.10.excalidraw.md",
     "Spaces/ObsPKMClass/Notes/Tasks Plugin Queries.md",
@@ -289,17 +273,6 @@
     "+ New/Query structure.md",
     "Spaces/ObsPKMClass/Notes/Priorities.md",
     "+ New/Personal Tasks.md",
-    "Spaces/ObsPKMClass/Notes/ObsPKM Tasks.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "Calendar/Daily Notes/Notes/2023-07-07.md",
-    "Extras/Templates/Daily Note.md",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
-    "+ New/Scheduling Jobs in Kinoite.md",
-    "Cards/Dripping Text.md",
-    "Cards/Neon Letters.md",
-    "Extras/Web Pages/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
-    "+ New/GIMP text on a circle.md",
-    "Sources/GIMP Mascot Wilber.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.png",
     "Spaces/ObsPKMClass/Resources/Footnotes.png",
     "Spaces/ObsPKMClass/Resources/Blockquote and Callouts.png",

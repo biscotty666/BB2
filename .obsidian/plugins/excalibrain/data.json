@@ -209,7 +209,14 @@
     "n": {},
     "Next": {}
   },
-  "navigationHistory": [],
+  "navigationHistory": [
+    "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
+    "Spaces/ObsPKMClass/Notes/ObsPKMEssentials.md",
+    "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
+    "Calendar/Daily Notes/Notes/2023-07-07.md",
+    "Extras/Web Pages/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
+    "+ New/System Backups.md"
+  ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
   "ontologySuggesterChildTrigger": "::c",

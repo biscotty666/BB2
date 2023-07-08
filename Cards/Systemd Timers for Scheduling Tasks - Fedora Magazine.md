@@ -1,40 +1,15 @@
-
+up:: [[Systemd]]
+tags:: #note/reference #source/article #source/FedoraMagazine
+X:: [[Linux]] 
 
 # Systemd Timers for Scheduling Tasks
 
 Posted by [Richard England](https://fedoramagazine.org/author/rlengland/ "Posts by Richard England") on [June 18, 2021](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
 
-### 1. What is an init system?
-
-](https://fedoramagazine.org/what-is-an-init-system/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemdpart2.jpg)
-
-### 2. systemd unit file basics
-
-](https://fedoramagazine.org/systemd-getting-a-grip-on-units/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemd-part3.jpg)
-
-### 3. systemd: Converting sysvinit scripts
-
-](https://fedoramagazine.org/systemd-converting-sysvinit-scripts/)[![](https://fedoramagazine.org/wp-content/uploads/2015/11/systemd-part4.jpg)
-
-### 4. systemd: Using the journal
-
-](https://fedoramagazine.org/systemd-using-journal/)[![](https://fedoramagazine.org/wp-content/uploads/2015/11/systemd-maskingunits.jpg)
-
-### 5. systemd: Masking units
-
-](https://fedoramagazine.org/systemd-masking-units/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemd-deps.jpg)
-
-### 6. systemd: Unit dependencies and order
-
-](https://fedoramagazine.org/systemd-unit-dependencies-and-order/)[![](https://fedoramagazine.org/wp-content/uploads/2015/12/systemd-part7.jpg)
-
-### 7. systemd: Template unit files
-
-](https://fedoramagazine.org/systemd-template-unit-files/)[![](https://fedoramagazine.org/wp-content/uploads/2021/06/schedule_with_systemd_timer-400x200.jpg)
 
 ### 8. Systemd Timers for Scheduling Tasks
 
-](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
+[Fedora Magazine Article](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
 
 Systemd has provided timers for a while and it is worth taking a look at this feature as an alternative to _cron_. This article will show you how to use timers with _systemd_ to run a task after the system has booted and on a recurring basis after that. This is not a comprehensive discussion of _systemd_, only an introduction to this one feature.
 
@@ -78,7 +53,7 @@ touch  ~/bin/schedule-test.sh
 Then add the following content to the file you just created.
 
 #!/bin/sh
-echo "This is only a test: $(date)" >> "$HOME/schedule-test-output.txt"
+echo "This is only a test: \$(date)" >> "\$HOME/schedule-test-output.txt"
 
 Remember to make your shell script executable.
 
