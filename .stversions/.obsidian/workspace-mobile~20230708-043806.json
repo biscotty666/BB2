@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-06.md",
-                "mode": "preview",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -29,8 +29,22 @@
                 "file": "Extras/Images/ddc23-summaries.pdf"
               }
             }
+          },
+          {
+            "id": "d18d04f663da90d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-06.md",
+            "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-06.md",
+            "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-07-06.md"
+            "file": "Calendar/Daily Notes/Notes/2023-07-08.md"
           }
         }
       },
@@ -171,13 +185,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bec19f561cff8d",
+  "active": "d18d04f663da90d6",
   "lastOpenFiles": [
+    "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Extras/Images/ddc23-summaries.pdf",
+    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Cards/Library.md",
     "+ New/Dewey Decimal Classification.md",
     "+ New/Dripping Text.md",
-    "Extras/Images/ddc23-summaries.pdf",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Spaces/ObsPKMClass/Notes/Study Questions.md",
     "+ New/Exc-20230706 new.md",
     "+ New/Basic Linux Commands.md",
@@ -200,8 +216,6 @@
     "Spaces/ObsPKMClass/Notes/Tasks Dates.md",
     "Spaces/ObsPKMClass/Notes/Tasks Examples.md",
     "Calendar/Daily Notes/Notes/2023-07-03.md",
-    "+ New/Basic Task Management.md",
-    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",

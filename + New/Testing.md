@@ -1,6 +1,0 @@
-
-
-```dataview
-Table
-From #note/resource and -#image/logo 
-```

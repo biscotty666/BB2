@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Library.md",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           },
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cards/Library.md",
+            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cards/Library.md",
+            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cards/Library.md"
+            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md"
           }
         }
       },
@@ -173,11 +173,11 @@
   },
   "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
-    "+ New/Dewey Decimal Classification.md",
+    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Cards/Library.md",
+    "+ New/Dewey Decimal Classification.md",
     "+ New/Dripping Text.md",
     "Extras/Images/ddc23-summaries.pdf",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Spaces/ObsPKMClass/Notes/Study Questions.md",
     "+ New/Exc-20230706 new.md",
     "+ New/Basic Linux Commands.md",

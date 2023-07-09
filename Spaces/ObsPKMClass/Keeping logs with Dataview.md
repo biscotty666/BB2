@@ -3,9 +3,9 @@ cssclass: "qs"
 ---
 ## Keeping logs with dataview
 
-### Purpose
+### Motivation
 
-Pulling together what we've learned so far by implementing a logging system.
+Pull together what we've learned by implementing a logging system.
 
 ### Scenario
 
@@ -86,11 +86,6 @@ date as Date, image as Picture, description as Description, notes as Notes
 from #note/observation 
 where species = [[Rufous Hummingbird]]
 ```
-
-### Another section
-
-#### subheader
-
 
 
 ---

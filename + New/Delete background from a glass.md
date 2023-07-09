@@ -1,5 +1,6 @@
 ## Delete background from a glass
 
+- [ ] Delete background from a glass Gimp tutorial ➕ 2023-07-07
 
 ### Instructions and Hints
 

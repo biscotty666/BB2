@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Library.md",
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,8 +29,17 @@
                 "file": "Extras/Images/ddc23-summaries.pdf"
               }
             }
+          },
+          {
+            "id": "d713cb25bc566cfa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +121,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cards/Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +137,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cards/Library.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,9 +147,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Cards/Library.md"
-          }
+          "state": {}
         }
       },
       {
@@ -171,12 +176,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bec19f561cff8d",
+  "active": "d713cb25bc566cfa",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Calendar/Daily Notes/Notes/2023-07-06.md",
+    "Cards/Library.md",
     "+ New/Dewey Decimal Classification.md",
     "+ New/Dripping Text.md",
     "Extras/Images/ddc23-summaries.pdf",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Spaces/ObsPKMClass/Notes/Study Questions.md",
     "+ New/Exc-20230706 new.md",
     "+ New/Basic Linux Commands.md",
@@ -200,8 +207,6 @@
     "Spaces/ObsPKMClass/Notes/Tasks Examples.md",
     "Calendar/Daily Notes/Notes/2023-07-03.md",
     "+ New/Basic Task Management.md",
-    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
-    "Calendar/Logs/Exc-20230701.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",
