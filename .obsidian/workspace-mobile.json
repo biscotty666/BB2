@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Distrobox Silverblue Video.md",
+                "file": "Calendar/Logs/Exc-20230711.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -69,7 +69,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#log",
+            "query": "Gimp layer mas",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -126,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Distrobox Silverblue Video.md",
+            "file": "Calendar/Logs/Exc-20230711.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Distrobox Silverblue Video.md",
+            "file": "Calendar/Logs/Exc-20230711.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Distrobox Silverblue Video.md"
+            "file": "Calendar/Logs/Exc-20230711.md"
           }
         }
       },
@@ -185,10 +185,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d18d04f663da90d6",
+  "active": "5b689dbfcf865d38",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-07-08.md",
+    "Calendar/Daily Notes/Notes/2023-07-11.md",
+    "Calendar/Logs/Exc-20230711.md",
+    "Calendar/Logs/Exc-20230710.md",
+    "Calendar/Logs/Exc-20230709.md",
     "+ New/Distrobox Silverblue Video.md",
+    "Calendar/Daily Notes/Notes/2023-07-08.md",
     "+ New/Exc-20230707.md",
     "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
     "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
@@ -212,10 +216,6 @@
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
     "Spaces/ObsPKMClass/Notes/Tasks Dates.sync-conflict-20230704-002040-BBO7X7A.md",
     "Cards/Logs.md",
-    "+ New/Exc-20230704.md",
-    "Spaces/ObsPKMClass/Notes/Priorities.md",
-    "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
-    "+ New/Recurring tasks.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",

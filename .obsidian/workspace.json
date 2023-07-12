@@ -8,30 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c80e1e26e22867a3",
+            "id": "13740c596d0f196a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
-                "mode": "preview",
+                "file": "+ New/Layers and Layer Masks in GIMP.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "13740c596d0f196a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-                "viewState": {
-                  "x": 6160,
-                  "y": 4183.39242250287,
-                  "zoom": -1.277865210759589
-                }
               }
             }
           },
@@ -39,8 +24,13 @@
             "id": "5e0d178cd75a17bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Header.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gimp text along path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +102,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 70.79107505070994,
+        "dimension": 54.373024236037935,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -130,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
+                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-08.md"
+                "file": "+ New/Layers and Layer Masks in GIMP.md"
               }
             }
           },
@@ -194,12 +185,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 29.20892494929006,
+        "dimension": 45.626975763962065,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -207,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
+                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-08.md",
+                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
+    "width": 369.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -253,34 +244,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c80e1e26e22867a3",
+  "active": "13740c596d0f196a",
   "lastOpenFiles": [
+    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "+ New/temp note.md",
+    "+ New/Layers and Layer Masks in GIMP.md",
+    "Extras/Images/DirtBiker.jpg",
+    "Calendar/Daily Notes/Notes/2023-07-11.md",
+    "Calendar/Logs/Exc-20230711.md",
+    "+ New/Exc-20230711.md",
+    "+ New/Exc-20230711z.md",
+    "Extras/Templates/Daily Note.md",
+    "+ New/Header.md",
+    "Calendar/Daily Notes/Notes/2023-07-07.md",
+    "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Calendar/Daily Notes/Notes/2023-07-08.md",
+    "Spaces/ObsPKMClass/Notes/ObsPKM Tasks.md",
+    "Calendar/Daily Notes/Notes/2023-07-09.md",
+    "Cards/GIMP text on a circle.md",
+    "Sources/Obsidian Icons.md",
+    "Cards/7 ways to remove backgrounds in GIMP.md",
+    "Calendar/Daily Notes/Notes/2023-07-10.md",
+    "Calendar/Logs/Exc-20230710.md",
+    "+ New/Exc-20230710.md",
+    "Extras/Excalidraw/Palettes/Palette test.md",
+    "Calendar/Logs/Exc-20230709.md",
+    "+ New/Exc-20230709.md",
     "Calendar/Daily Notes/Notes/2023-06-27.md",
     "Spaces/ObsPKMClass/Notes/Daily Note Template Instructions.md",
     "Spaces/ObsPKMClass/Notes/Daily note template.md",
-    "Spaces/ObsPKMClass/Notes/Daily Notes in Obsidian - Basic.md",
-    "Extras/Templates/Daily Note.md",
-    "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
-    "Calendar/Daily Notes/Notes/2023-07-07.md",
-    "Extras/Web Pages/Alacritty - ArchWiki.md",
-    "+ New/Distrobox Silverblue Video.md",
-    "+ New/Exc-20230707.md",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
-    "+ New/Marble Logo.md",
-    "+ New/Scheduling Jobs in Kinoite.md",
-    "+ New/My Tasks.md",
-    "+ New/Series Branding.md",
-    "+ New/Testing.md",
-    "+ New/Multi-table layout documentation.md",
-    "+ New/Multi-Column Sandbox.md",
-    "+ New/Delete background from a glass.md",
-    "+ New/LVM Guide.md",
-    "+ New/Lucide.md",
-    "+ New/Leg Cramps Study.md",
-    "+ New/Learning Curve Font.md",
-    "+ New/Joan Rivers Zettelkasten.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.png",
     "Spaces/ObsPKMClass/Resources/Footnotes.png",
     "Spaces/ObsPKMClass/Resources/Blockquote and Callouts.png",
@@ -291,7 +284,6 @@
     "IMG_20230531_103738201.jpg",
     "IMG_20230425_065348908.jpg",
     "1686132625694.png",
-    "IMG_20230426_181657032_HDR.jpg",
     "2 Rivers.xcf",
     "Color Palette Options.pdf",
     "Spaces/Blog/Notes/src/routes/rss.xml",

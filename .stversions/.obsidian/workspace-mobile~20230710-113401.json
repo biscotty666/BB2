@@ -29,8 +29,22 @@
                 "file": "Extras/Images/ddc23-summaries.pdf"
               }
             }
+          },
+          {
+            "id": "d18d04f663da90d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ New/Exc-20230710.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -112,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+            "file": "+ New/Exc-20230710.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+            "file": "+ New/Exc-20230710.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md"
+            "file": "+ New/Exc-20230710.md"
           }
         }
       },
@@ -171,10 +185,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bec19f561cff8d",
+  "active": "d18d04f663da90d6",
   "lastOpenFiles": [
-    "Extras/Images/ddc23-summaries.pdf",
+    "Calendar/Logs/Exc-20230709.md",
+    "+ New/Exc-20230710.md",
+    "+ New/Distrobox Silverblue Video.md",
+    "Calendar/Daily Notes/Notes/2023-07-08.md",
+    "+ New/Exc-20230707.md",
+    "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
     "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Extras/Images/ddc23-summaries.pdf",
     "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Cards/Library.md",
     "+ New/Dewey Decimal Classification.md",
@@ -196,11 +216,6 @@
     "Cards/Logs.md",
     "+ New/Exc-20230704.md",
     "Spaces/ObsPKMClass/Notes/Priorities.md",
-    "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
-    "+ New/Recurring tasks.md",
-    "Spaces/ObsPKMClass/Notes/Tasks Dates.md",
-    "Spaces/ObsPKMClass/Notes/Tasks Examples.md",
-    "Calendar/Daily Notes/Notes/2023-07-03.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",

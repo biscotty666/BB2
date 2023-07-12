@@ -14,5 +14,6 @@
   "theme": "obsidian",
   "accentColor": "",
   "nativeMenus": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

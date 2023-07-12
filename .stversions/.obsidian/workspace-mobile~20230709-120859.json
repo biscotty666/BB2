@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Exc-20230707.md",
+                "file": "+ New/Exc-20230709.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -126,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Exc-20230707.md",
+            "file": "+ New/Exc-20230709.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Exc-20230707.md",
+            "file": "+ New/Exc-20230709.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Exc-20230707.md"
+            "file": "+ New/Exc-20230709.md"
           }
         }
       },
@@ -187,6 +187,8 @@
   },
   "active": "d18d04f663da90d6",
   "lastOpenFiles": [
+    "+ New/Distrobox Silverblue Video.md",
+    "+ New/Exc-20230709.md",
     "Calendar/Daily Notes/Notes/2023-07-08.md",
     "+ New/Exc-20230707.md",
     "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
@@ -214,8 +216,6 @@
     "+ New/Exc-20230704.md",
     "Spaces/ObsPKMClass/Notes/Priorities.md",
     "Spaces/ObsPKMClass/Notes/Basic Task Management.md",
-    "+ New/Recurring tasks.md",
-    "Spaces/ObsPKMClass/Notes/Tasks Dates.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",
