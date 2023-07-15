@@ -1,0 +1,25 @@
+---
+up: [[Obsidian]]
+tags: on/Obsidian, effort/ObsPKMClass, note/reference
+aliases: 
+---
+#### Frontmatter in Obsidian
+
+Frontmatter is used to declare fields in Obsidian such as tags, aliases, hierarchical relationships and arbitrary fields. The frontmatter is not displayed in Read View 
+
+Fields can also be declared [[Dataview Fields|inline]]. We will cover this topic extensively in the [[Dataview]] section.
+
+To create frontmatter the first thing in the note _must_ be two lines with three dashes each. You will include the frontmatter as `key: value` pairs between these lines.
+
+A common use of frontmatter is to declare aliases where filenames are long.
+
+```
+---
+aliases: Shorter Name
+---
+```
+
+
+---
+prev:: 
+next:: 

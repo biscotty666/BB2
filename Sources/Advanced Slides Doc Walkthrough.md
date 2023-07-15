@@ -1,7 +1,7 @@
 ---
 bg: darkblue
 ---
-up:: [[Obsidian]]
+up:: [[Obsidian Advanced Slides]]
 tags:: #on/Obsidian #note/reference 
 
 #### Advanced Slides Doc Walkthrough

@@ -101,4 +101,4 @@ Add [[toggle.svelte|toggle]] component:
 
 ---
 up:: [[Svelte markdown blog]]
-tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode
+tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode #on/Svelte 

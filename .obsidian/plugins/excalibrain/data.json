@@ -90,7 +90,7 @@
   "showNeighborCount": true,
   "showFullTagName": false,
   "maxItemCount": 30,
-  "renderSiblings": true,
+  "renderSiblings": false,
   "baseNodeStyle": {
     "prefix": "",
     "backgroundColor": "#00000066",
@@ -215,7 +215,10 @@
     "Spaces/ObsPKMClass/Notes/Introduction to Zettelkasten.md",
     "Calendar/Daily Notes/Notes/2023-07-07.md",
     "Extras/Web Pages/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
-    "+ New/System Backups.md"
+    "+ New/System Backups.md",
+    "Spaces/ObsPKMClass/Notes/PKM Definition Wikipedia.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian PKM Essentials Outline.md",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

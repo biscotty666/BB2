@@ -1,5 +1,5 @@
 up:: [[Introduction to Data Science]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Statistics 
 X:: [[R]] [[Data Science]]
 
 ## Sample average

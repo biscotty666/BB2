@@ -5,5 +5,5 @@ Placeholder
 ---
 up:: [[ObsPKMEssentials]]
 prev:: [[Introduction to Zettelkasten]]
-next:: [[Markdown]]
+next:: [[Spaces/ObsPKMClass/Notes/Markdown]]
 tags:: #effort/ObsPKMClass #map #on/Obsidian 

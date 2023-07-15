@@ -20,7 +20,15 @@ Create vertical slides with two dashes instead of three
 [[Advanced Slides Grid|Explicit placement]]
 [[Advanced Slides Frontmatter|Frontmatter]]
 [[Advanced Slides Themes|Themes]]
+[[Advanced Slides Doc Walkthrough]]
+[[Obsidian slides sequentially reveal items]]
 
+- [[Advanced Slides Attribute Reference]]
+- [[Declare a Stylesheet for Obsidian Slides]]
+- [[External Markdown]]
+- [[Fragmented list shortcut syntax in Obsidian]]
+- [[Obsidian Slide Transitions (Fragments) List]]
+- [[Obsidian slides sequentially reveal items]]
 
 
 

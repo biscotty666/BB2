@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference, on/Markdown
 cssclass: "qs"
 ---
 ## Markdown
@@ -16,15 +14,18 @@ We will look at
 - Lists
 - Links
 - Blockquotes and Callouts
-- Tags
 - Footnotes
+- Frontmatter
+- Codeblocks
+- Tags
 - Backlinks
 - Embeds
 
 %%
 ---
-up:: [[ObsPKMEssentials]]
+up:: [[2.1 Markdown]]
 tags:: #note/product, #effort/ObsPKMClass, #on/Obsidian , #on/Markdown 
-prev:: [[Introduction to Obsidian]]
+prev:: [[Introduction to the Obsidian Interface|Obsidian Tour]]
 next:: [[Headers]]
+X:: [[Atlas/Markdown|Markdown]]
 %%

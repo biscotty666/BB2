@@ -23,7 +23,9 @@ Tags can be given a hierarchy by using a /. For example `#on/this` and `#on/that
 A clickable list of all existing tags can be found in the right sidebar.
 
 ---
-up:: [[Markdown]]
+
+up:: [[2.1 Markdown]]
 tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
-prev:: [[Blockquotes and Callouts]]
-next:: [[Footnotes in Obsidian|Footnotes]]
+prev:: [[Footnotes in Obsidian|Footnotes]]
+next:: [[Obsidian Frontmatter|Frontmatter]]
+

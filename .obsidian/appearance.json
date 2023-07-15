@@ -1,7 +1,7 @@
 {
-  "cssTheme": "80s Neon",
+  "cssTheme": "Dracula Official",
   "translucency": false,
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "AlternateCheckboxes",
     "mermaid",

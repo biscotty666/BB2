@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #map #on/Visualization 
+tags:: #map #on/DataVisualization 
 X:: [[Introduction to Data Science]]
 Library:: 600
 

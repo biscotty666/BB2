@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Logs/Exc-20230711.md",
+            "file": "Calendar/Daily Notes/Notes/2023-07-14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Logs/Exc-20230711.md",
+            "file": "Calendar/Daily Notes/Notes/2023-07-14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Logs/Exc-20230711.md"
+            "file": "Calendar/Daily Notes/Notes/2023-07-14.md"
           }
         }
       },
@@ -185,37 +184,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b689dbfcf865d38",
+  "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-07-11.md",
-    "Calendar/Logs/Exc-20230711.md",
-    "Calendar/Logs/Exc-20230710.md",
-    "Calendar/Logs/Exc-20230709.md",
-    "+ New/Distrobox Silverblue Video.md",
-    "Calendar/Daily Notes/Notes/2023-07-08.md",
-    "+ New/Exc-20230707.md",
-    "Extras/Web Pages/Using firewalld -- Fedora Docs.md",
-    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
-    "Extras/Images/ddc23-summaries.pdf",
+    "Calendar/Logs/Exc-20230713.md",
+    "Calendar/Daily Notes/Notes/2023-07-14.md",
+    "+ New/Openshot Official Tutorial Videos.md",
+    "+ New/Openshot Official Videos.md",
+    "Calendar/Daily Notes/Notes/2023-07-13.md",
     "Calendar/Daily Notes/Notes/2023-07-06.md",
-    "Cards/Library.md",
-    "+ New/Dewey Decimal Classification.md",
-    "+ New/Dripping Text.md",
-    "Spaces/ObsPKMClass/Notes/Study Questions.md",
-    "+ New/Exc-20230706 new.md",
-    "+ New/Basic Linux Commands.md",
-    "+ New/Testing.md",
-    "+ New/Interlocking rings.md",
-    "+ New/Exc-20230705.md",
-    "+ New/Exc-20230706.sync-conflict-20230705-144126-BBO7X7A.md",
-    "Extras/Web Pages/Thomas Jefferson on Judicial Tyranny.md",
-    "+ New/Common Audio-Video Format-Containers.md",
-    "+ New/Common Audio-Video Format-Containers 1.md",
-    "+ New/Exc-20230703.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
+    "Spaces/ObsPKMClass/Notes/Codeblocks.md",
+    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
+    "Spaces/ObsPKMClass/Notes/Tags.md",
+    "Spaces/ObsPKMClass/Notes/Markdown.md",
+    "Spaces/ObsPKMClass/Notes/2.1 Markdown.md",
+    "Spaces/ObsPKMClass/Notes/Emphasis.md",
+    "Calendar/Daily Notes/Notes/2023-06-27.md",
+    "+ New/3.4 Daily Note.md",
+    "Spaces/ObsPKMClass/Notes/3.3 Observation Log with Dataview.md",
+    "Spaces/ObsPKMClass/Notes/3.2 Templater.md",
+    "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
+    "Spaces/ObsPKMClass/Notes/Query structure.md",
+    "+ New/GIMP Galaxy Face.md",
+    "Atlas/Proverbs.md",
+    "Cards/Sun Tsu Proverbs.md",
+    "+ New/Brevity is the soul of wit.md",
+    "+ New/GIMP Foreground Select Tool.md",
+    "+ New/GIMP Quickmask.md",
+    "Calendar/Logs/Exc-20230712b.md",
+    "Extras/Images/ddc23-summaries.pdf",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
-    "Spaces/ObsPKMClass/Notes/Tasks Dates.sync-conflict-20230704-002040-BBO7X7A.md",
-    "Cards/Logs.md",
     "IMG_20230531_103738201.jpg",
     "IMG_20230316_171759870.jpg",
     "IMG_20230317_055441457.jpg",

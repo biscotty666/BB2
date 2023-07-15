@@ -8,32 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13740c596d0f196a",
+            "id": "c78bbbfeb34c3421",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "+ New/Layers and Layer Masks in GIMP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+                "viewState": {
+                  "x": 547.7948157950539,
+                  "y": 4017.327710946499,
+                  "zoom": -0.5999999999999999
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "5e0d178cd75a17bd",
+            "id": "2110f11741b0503e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Header.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-14.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a2a7a31534e3b73f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gimp text along path",
+                "query": "tag:#on/Markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +135,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+ New/Layers and Layer Masks in GIMP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "cc261747cbab30f2",
@@ -198,7 +209,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ New/Layers and Layer Masks in GIMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,36 +253,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "13740c596d0f196a",
+  "active": "a2a7a31534e3b73f",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
+    "Spaces/ObsPKMClass/Slides/Chapters/Chapter 1.md",
+    "+ New/Multimedia.md",
+    "Calendar/Daily Notes/Notes/2023-07-14.md",
+    "Spaces/ObsPKMClass/Notes/2.1 Markdown.md",
+    "+ New/3.4 Daily Note.md",
+    "Spaces/ObsPKMClass/Notes/3.3 Observation Log with Dataview.md",
+    "Spaces/ObsPKMClass/Notes/3.2 Templater.md",
+    "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
+    "Spaces/ObsPKMClass/Notes/3.0 Setting up Zettelkasten in Obsidian.md",
+    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian PKM Essentials Outline.md",
+    "Spaces/ObsPKMClass/Notes/Getting started with Obsidian.md",
+    "Spaces/ObsPKMClass/Notes/2.0 Obsidian Intro.md",
+    "Spaces/ObsPKMClass/Notes/Lists.md",
+    "Spaces/ObsPKMClass/Notes/Markdown.md",
+    "Spaces/ObsPKMClass/Notes/1.1 Zettelkasten - Overview.md",
+    "Spaces/ObsPKMClass/Notes/1.0 Personal Knowledge Management.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "+ New/temp note.md",
-    "+ New/Layers and Layer Masks in GIMP.md",
+    "Calendar/Daily Notes/Notes/2023-07-13.md",
+    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
+    "Atlas/Markdown.md",
+    "Spaces/ObsPKMClass/Notes/1.2 Zettelkasten in Detail.md",
+    "Atlas/PKM.md",
+    "Spaces/ObsPKMClass/Slides/Chapters/Part 1/PKM.md",
+    "Atlas/Inkscape.md",
+    "Sources/Geometric Designs in Gimp.md",
+    "+ New/Gimp.md",
     "Extras/Images/DirtBiker.jpg",
-    "Calendar/Daily Notes/Notes/2023-07-11.md",
-    "Calendar/Logs/Exc-20230711.md",
-    "+ New/Exc-20230711.md",
-    "+ New/Exc-20230711z.md",
-    "Extras/Templates/Daily Note.md",
-    "+ New/Header.md",
-    "Calendar/Daily Notes/Notes/2023-07-07.md",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
-    "Calendar/Daily Notes/Notes/2023-07-08.md",
-    "Spaces/ObsPKMClass/Notes/ObsPKM Tasks.md",
-    "Calendar/Daily Notes/Notes/2023-07-09.md",
-    "Cards/GIMP text on a circle.md",
-    "Sources/Obsidian Icons.md",
-    "Cards/7 ways to remove backgrounds in GIMP.md",
-    "Calendar/Daily Notes/Notes/2023-07-10.md",
-    "Calendar/Logs/Exc-20230710.md",
-    "+ New/Exc-20230710.md",
-    "Extras/Excalidraw/Palettes/Palette test.md",
-    "Calendar/Logs/Exc-20230709.md",
-    "+ New/Exc-20230709.md",
-    "Calendar/Daily Notes/Notes/2023-06-27.md",
-    "Spaces/ObsPKMClass/Notes/Daily Note Template Instructions.md",
-    "Spaces/ObsPKMClass/Notes/Daily note template.md",
     "Spaces/ObsPKMClass/Resources/Backlinks.png",
     "Spaces/ObsPKMClass/Resources/Footnotes.png",
     "Spaces/ObsPKMClass/Resources/Blockquote and Callouts.png",

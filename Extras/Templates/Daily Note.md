@@ -19,6 +19,14 @@ tags:: #log/journal #note/daily
 
 #### New today
 
+
+```todoist
+name: ""
+filter: "created: <% tp.date.now("MMM Do YYYY") %>"
+```
+
+
+
 #### Due today
 
 ```todoist

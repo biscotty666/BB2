@@ -1,8 +1,18 @@
-up::
-tags:: #note/fleeting 
+up:: [[Obsidian]]
+tags:: #on/Obsidian #note/reference 
 X:: 
 
 ## Favicon source
+
+### asdf
+
+ddf;lkfjsadkf
+adl;j
+
+### adsf
+
+dasfasdf
+
 
 
 

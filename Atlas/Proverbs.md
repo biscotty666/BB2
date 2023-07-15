@@ -16,29 +16,30 @@ sort Quote
 
 ### Chinese
 
-#### Sun Tzu  孫子
 
 ```dataview
 table without id
 Quote, Stars as ⭐, file.link as Link from #ideas/proverbs 
-where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Sun Tzu  孫子"
-sort Stars desc
-```
-
-```dataview
-table without id
-Quote, Stars as ⭐, file.link as Link from #ideas/proverbs 
-where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Sun Tzu"
+where Tradition = "Chinese" AND file.name != "Proverb Note"
 sort Stars desc
 ```
 
 
-#### Source unknown
+### Western
 
 ```dataview
 table without id
 Quote, Stars as ⭐, file.link as Link from #ideas/proverbs 
-where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Unknown"
+where Tradition = "Western" AND file.name != "Proverb Note"
+sort Stars desc
+```
+
+### Uncategorized 
+
+```dataview
+table without id
+Quote, Stars as ⭐, file.link as Link from #ideas/proverbs 
+where Tradition != "China" AND Tradition != "Western" AND file.name != "Proverb Note"
 sort Stars desc
 ```
 

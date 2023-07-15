@@ -51,7 +51,7 @@ filter: "search: Templater Note"
 ```
 
 ---
-up:: [[ObsPKMEssentials]]
+up:: [[3.2 Templater]]
 tags:: #on/Obsidian #on/PKM  #note/product #effort/ObsPKMClass 
-prev:: 
-next:: 
+prev:: [[Dataview SORT]]
+next:: [[Keeping logs with Dataview]]

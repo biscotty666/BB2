@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, note/product, effort/ObsPKMClass, note/reference, on/Markdown
 cssclass: "qs"
 ---
 ## Headers
@@ -21,7 +19,7 @@ displays
 ###### Header 6
 
 ---
-up:: [[Markdown]]
+up:: [[2.1 Markdown]]
 tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian #on/Markdown 
-prev:: [[Markdown]]
-next:: [[Emphasis]]
+prev:: [[Spaces/ObsPKMClass/Notes/Markdown]]
+next:: [[Lists]]

@@ -1,0 +1,32 @@
+## Image to Logo Video
+
+### Image
+
+##### Full Size
+
+
+
+##### SVG
+
+svg:: 
+
+##### PNG
+
+png:: 
+
+---
+### Based on
+
+
+
+---
+
+up:: [[Gimp]]
+tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign  #on/Graphics 
+Status:: New
+Priority:: 
+
+- [x] Watch image to Logo Video ➕ 2023-07-12 ✅ 2023-07-12
+- [ ] Make notes on Logo Face Video
+https://youtu.be/apomEDEm_fg
+![Vid](https://youtu.be/apomEDEm_fg)

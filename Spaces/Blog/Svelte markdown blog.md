@@ -1,5 +1,5 @@
 up:: [[Svelte]]
-tags:: #note/clearexample #source/video #effort/blog #source/JoyOfCode #on/Markdown 
+tags:: #note/clearexample #source/video #effort/blog #source/JoyOfCode #on/Svelte 
 
 ## Svelte markdown blog
 

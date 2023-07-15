@@ -1,4 +1,4 @@
-up:: [[Obsidian Slides Plugin]]
+up:: [[Obsidian Advanced Slides]]
 tags:: #note/reference  #source/documentation #on/Obsidian 
 X:: 
 

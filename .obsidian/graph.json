@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -15,51 +15,93 @@
       }
     },
     {
-      "query": "Obsidian",
+      "query": "tag:#on/Statistics OR tag:#on/Probability OR tag:#on/PnS",
       "color": {
         "a": 1,
-        "rgb": 6577366
+        "rgb": 6084308
       }
     },
     {
-      "query": "ObsPKM",
+      "query": "tag:#effort/ObsPKMClass OR tag:#on/Obsidian OR tag:#on/PKM",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 3556343
       }
     },
     {
-      "query": "Python",
-      "color": {
-        "a": 1,
-        "rgb": 14048438
-      }
-    },
-    {
-      "query": "PKM",
+      "query": "tag:#on/Linux",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "#on/PnS",
+      "query": "tag:#on/Python",
       "color": {
         "a": 1,
         "rgb": 14913794
+      }
+    },
+    {
+      "query": "tag:#on/R",
+      "color": {
+        "a": 1,
+        "rgb": 1348306
+      }
+    },
+    {
+      "query": "tag:#on/Svelte",
+      "color": {
+        "a": 1,
+        "rgb": 16124204
+      }
+    },
+    {
+      "query": "tag:#on/Visualization OR tag:#on/DataVisualization",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#on/GIMP OR tag:#on/Graphics OR tag:#image",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#log OR tag:#note/daily",
+      "color": {
+        "a": 1,
+        "rgb": 3861513
+      }
+    },
+    {
+      "query": "excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#ideas/proverbs",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.7,
-  "nodeSizeMultiplier": 0.865625,
-  "lineSizeMultiplier": 1.63309090909091,
+  "nodeSizeMultiplier": 0.888363636363636,
+  "lineSizeMultiplier": 1.09781818181818,
   "collapse-forces": false,
-  "centerStrength": 0.479166666666667,
-  "repelStrength": 14.2708333333333,
-  "linkStrength": 0.348958333333333,
+  "centerStrength": 0.0641667794774604,
+  "repelStrength": 5.96182482739949,
+  "linkStrength": 0.874238527142277,
   "linkDistance": 348,
-  "scale": 0.1019610562353124,
-  "close": false
+  "scale": 0.06797403749020826,
+  "close": true
 }

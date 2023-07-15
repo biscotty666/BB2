@@ -1,3 +1,5 @@
+up:: [[Multimedia]]
+
 ## Inkscape
 #map 
 

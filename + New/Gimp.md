@@ -1,0 +1,3 @@
+## Gimp
+
+up:: [[Multimedia]]
