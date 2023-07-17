@@ -1,6 +1,6 @@
 up:: [[Fedora]]
 tags:: #note/reference #on/Linux #on/SystemD #on/kinoite #on/Lappy #note/documentation
-X:: [[SystemD]] [[Linux]] [[Laptop]] [[Systemd Timers for Scheduling Tasks - Fedora Magazine]]
+X:: [[SystemD]]  [[Laptop]]  [[Systemd Timers for Scheduling Tasks - Fedora Magazine]]
 
 ## System Backups
 

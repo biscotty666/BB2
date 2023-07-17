@@ -1,66 +1,9 @@
-up::
-tags:: #note/fleeting 
+up:: [[SystemD]]
+tags:: #note/reference  #source/internet #source/FedoraMagazine 
 X:: 
 
 ## systemd unit file basics - Fedora Magazine
 
-
-
----
-
-### References
-[![](https://fedoramagazine.org/wp-content/themes/fedoramagazine-1.15/images/fmag-ribbon.png)](https://fedoramagazine.org/)
-
-- [fosstodon](https://fosstodon.org/@fedora)
-- [Meta](https://www.facebook.com/TheFedoraProject)
-- [Instagram](https://www.instagram.com/thefedoraproject)
-- [Twitter](https://twitter.com/fedora)
-- [YouTube](https://www.youtube.com/fedoraproject/videos)
-- [Chat](https://chat.fedoraproject.org/)
-- [Discourse](https://discussion.fedoraproject.org/)
-- [RSS Feed](https://fedoramagazine.org/feed/ "						")
-
-# systemd unit file basics
-
-Posted by [Bryan Sutherland](https://fedoramagazine.org/author/iambryan/ "Posts by Bryan Sutherland") on [October 28, 2015](https://fedoramagazine.org/systemd-getting-a-grip-on-units/)
-
-![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemdpart2-945x400.jpg)
-
-in this series
-
-[![](https://fedoramagazine.org/wp-content/uploads/2015/09/systemdpart1.png)
-
-### 1. What is an init system?
-
-](https://fedoramagazine.org/what-is-an-init-system/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemdpart2.jpg)
-
-### 2. systemd unit file basics
-
-](https://fedoramagazine.org/systemd-getting-a-grip-on-units/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemd-part3.jpg)
-
-### 3. systemd: Converting sysvinit scripts
-
-](https://fedoramagazine.org/systemd-converting-sysvinit-scripts/)[![](https://fedoramagazine.org/wp-content/uploads/2015/11/systemd-part4.jpg)
-
-### 4. systemd: Using the journal
-
-](https://fedoramagazine.org/systemd-using-journal/)[![](https://fedoramagazine.org/wp-content/uploads/2015/11/systemd-maskingunits.jpg)
-
-### 5. systemd: Masking units
-
-](https://fedoramagazine.org/systemd-masking-units/)[![](https://fedoramagazine.org/wp-content/uploads/2015/10/systemd-deps.jpg)
-
-### 6. systemd: Unit dependencies and order
-
-](https://fedoramagazine.org/systemd-unit-dependencies-and-order/)[![](https://fedoramagazine.org/wp-content/uploads/2015/12/systemd-part7.jpg)
-
-### 7. systemd: Template unit files
-
-](https://fedoramagazine.org/systemd-template-unit-files/)[![](https://fedoramagazine.org/wp-content/uploads/2021/06/schedule_with_systemd_timer-400x200.jpg)
-
-### 8. Systemd Timers for Scheduling Tasks
-
-](https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/)
 
 Welcome back to the systemd series, where we explore more about how this central part of your Fedora system works. This installment talks about _unit files_.
 

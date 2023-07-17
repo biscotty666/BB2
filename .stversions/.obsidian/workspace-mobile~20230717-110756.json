@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ New/Openshot Official Videos.md",
+                "file": "+ New/Exc-20230717.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -125,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ New/Openshot Official Videos.md",
+            "file": "+ New/Exc-20230717.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ New/Openshot Official Videos.md",
+            "file": "+ New/Exc-20230717.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +154,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ New/Openshot Official Videos.md"
+            "file": "+ New/Exc-20230717.md"
           }
         }
       },
@@ -186,8 +186,19 @@
   },
   "active": "d2bec19f561cff8d",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-07-13.md",
+    "+ New/Royalty Free Music Sources.md",
+    "+ New/Exc-20230717.md",
+    "+ New/Audacity Tutorial.md",
+    "+ New/Exc-20230716.md",
+    "+ New/Exc-20230716.sync-conflict-20230716-134809-BBO7X7A.md",
+    "+ New/Audacity Tutorial.sync-conflict-20230715-111906-BBO7X7A.md",
+    "Calendar/Daily Notes/Notes/2023-07-15.md",
+    "+ New/On Obsidian.md",
+    "Calendar/Daily Notes/Notes/2023-07-14.md",
+    "Calendar/Logs/Exc-20230713.md",
+    "+ New/Openshot Official Tutorial Videos.md",
     "+ New/Openshot Official Videos.md",
+    "Calendar/Daily Notes/Notes/2023-07-13.md",
     "Calendar/Daily Notes/Notes/2023-07-06.md",
     "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
     "Spaces/ObsPKMClass/Notes/Codeblocks.md",
@@ -201,17 +212,6 @@
     "Spaces/ObsPKMClass/Notes/3.3 Observation Log with Dataview.md",
     "Spaces/ObsPKMClass/Notes/3.2 Templater.md",
     "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
-    "Spaces/ObsPKMClass/Notes/Query structure.md",
-    "+ New/GIMP Galaxy Face.md",
-    "Atlas/Proverbs.md",
-    "Cards/Sun Tsu Proverbs.md",
-    "+ New/Brevity is the soul of wit.md",
-    "+ New/GIMP Foreground Select Tool.md",
-    "+ New/GIMP Quickmask.md",
-    "Calendar/Logs/Exc-20230712b.md",
-    "+ New/GIMP Remove Background Hair Details.md",
-    "+ New/Image to Logo Video.md",
-    "Calendar/Logs/Exc-20230712.md",
     "Extras/Images/ddc23-summaries.pdf",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",

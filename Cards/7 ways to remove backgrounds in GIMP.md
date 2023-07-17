@@ -47,7 +47,7 @@ png::
 
 ---
 
-up:: [[Gimp]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo #source/video #source/TheGimpTutorials #on/Graphics 
 Status:: Watched
 Priority:: 1

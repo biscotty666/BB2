@@ -22,5 +22,5 @@ png::
 
 ---
 
-up:: [[GIMP]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign #on/GIMP

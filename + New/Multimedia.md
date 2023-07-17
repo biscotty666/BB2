@@ -1,5 +1,9 @@
 ## Multimedia
 
 #map 
-[[Gimp]]
+[[Atlas/GIMP]]
 [[Inkscape]]
+[[Audacity]]
+[[Image Sources]]
+[[Music Sources]]
+

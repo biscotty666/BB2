@@ -1,4 +1,4 @@
-up:: [[GIMP]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo 
 
 ## GIMP Mascot Wilber Images

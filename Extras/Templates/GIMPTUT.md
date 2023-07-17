@@ -22,7 +22,7 @@ png::
 
 ---
 
-up:: [[GIMP]]
+up:: [[GIMP - Webpage]]
 tags:: #note/resource #image/lettering  #source/video #source/GIMPTUT #on/Graphics 
 Status:: New
 Priority:: 

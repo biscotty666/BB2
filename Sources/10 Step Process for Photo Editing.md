@@ -32,5 +32,5 @@
 
 ---
 
-up:: [[Gimp]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #source/video #source/DaviesMediaDesign #on/PhotoEditing

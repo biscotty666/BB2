@@ -54,7 +54,7 @@ png::
 
 ---
 
-up:: [[GIMP]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/lettering  #source/video #source/GIMPTUT #on/Graphics 
 Status:: New
 Priority:: 

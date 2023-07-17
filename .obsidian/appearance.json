@@ -1,13 +1,13 @@
 {
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Obsidianite",
   "translucency": false,
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "AlternateCheckboxes",
-    "mermaid",
     "quicksand",
     "Quicksand-Online",
-    "canvas"
+    "canvas",
+    "mystyles"
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",

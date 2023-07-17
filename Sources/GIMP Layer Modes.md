@@ -22,7 +22,7 @@ png::
 
 ---
 
-up:: [[Gimp]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign  #on/Graphics 
 Status:: New
 Priority:: 

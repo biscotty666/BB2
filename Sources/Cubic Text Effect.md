@@ -26,6 +26,6 @@ png:: ![[3D Box Type.png|75]]
 
 ---
 
-up:: [[Gimp]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign 
 Status:: Watched

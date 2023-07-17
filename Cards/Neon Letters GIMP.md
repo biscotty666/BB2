@@ -43,5 +43,5 @@ png:: ![[GlowingNeon 1.png|100]]
 
 ---
 
-up:: [[Gimp]]
+up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/lettering #source/video #source/DaviesMediaDesign #on/Graphics 

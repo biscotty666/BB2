@@ -25,30 +25,40 @@
             }
           },
           {
-            "id": "2110f11741b0503e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-07-14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a2a7a31534e3b73f",
+            "id": "3ebcf2fd01b78e9a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d3a44a622ea0e9de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.lifewire.com/make-a-custom-gradient-in-gimp-1701680"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e801ea44bcaeea54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Web Pages/Make a Custom Gradient in GIMP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#on/Markdown",
+                "query": "fedora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.51103591918945,
-    "collapsed": true
+    "width": 330.51103591918945
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -135,6 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Extras/Templates/Proverb Note.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Extras/Templates/Proverb Note.md"
+              }
             }
           },
           {
@@ -195,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "cc261747cbab30f2",
@@ -209,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Extras/Templates/Proverb Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Extras/Templates/Proverb Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,35 +265,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2a7a31534e3b73f",
+  "active": "000a19ecab0778fc",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Slides/Chapters/Chapter 1.md",
+    "Extras/Web Pages/Make a Custom Gradient in GIMP.md",
+    "Extras/Templates/GIMP - Webpage.md",
+    "Atlas/GIMP.md",
+    "Atlas/Technology.md",
+    "Extras/Templates/GIMPTUT.md",
+    "Extras/Web Pages/systemd- Converting sysvinit scripts - Fedora Magazine.md",
     "+ New/Multimedia.md",
-    "Calendar/Daily Notes/Notes/2023-07-14.md",
-    "Spaces/ObsPKMClass/Notes/2.1 Markdown.md",
-    "+ New/3.4 Daily Note.md",
-    "Spaces/ObsPKMClass/Notes/3.3 Observation Log with Dataview.md",
-    "Spaces/ObsPKMClass/Notes/3.2 Templater.md",
-    "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
-    "Spaces/ObsPKMClass/Notes/3.0 Setting up Zettelkasten in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian PKM Essentials Outline.md",
-    "Spaces/ObsPKMClass/Notes/Getting started with Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/2.0 Obsidian Intro.md",
-    "Spaces/ObsPKMClass/Notes/Lists.md",
-    "Spaces/ObsPKMClass/Notes/Markdown.md",
-    "Spaces/ObsPKMClass/Notes/1.1 Zettelkasten - Overview.md",
-    "Spaces/ObsPKMClass/Notes/1.0 Personal Knowledge Management.md",
+    "Home.md",
+    "Extras/Web Pages/systemd unit file basics - Fedora Magazine.md",
+    "Cards/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
+    "Cards/System Backups.md",
+    "+ New/SystemD.md",
+    "+ New/Silverblue.md",
+    "+ New/Kinoite.md",
+    "+ New/Scheduling Jobs in Kinoite.md",
+    "Extras/Web Pages/Manage Packages on Fedora Silverblue with Toolbox, rpm-ostree & Flatpak - ComputingForGeeks.md",
+    "Cards/Lvm with btrfs.md",
+    "+ New/Fedora.md",
+    "Extras/Web Pages/GRUB 2 bootloader - Full tutorial.md",
+    "Cards/Fedora install.md",
+    "+ New/Distrobox Silverblue Video.md",
+    "+ New/Untitled.md",
+    "+ New/Audacity.md",
+    "+ New/Audacity Tutorial.md",
+    "Atlas/Programming.md",
+    "Atlas/Obsidian.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "Calendar/Daily Notes/Notes/2023-07-13.md",
-    "Spaces/ObsPKMClass/Notes/Blockquotes and Callouts.md",
-    "Atlas/Markdown.md",
-    "Spaces/ObsPKMClass/Notes/1.2 Zettelkasten in Detail.md",
-    "Atlas/PKM.md",
-    "Spaces/ObsPKMClass/Slides/Chapters/Part 1/PKM.md",
-    "Atlas/Inkscape.md",
-    "Sources/Geometric Designs in Gimp.md",
-    "+ New/Gimp.md",
+    "Extras/Images/Screenshot_20230717_021912.jpg",
     "Extras/Images/DirtBiker.jpg",
     "Spaces/ObsPKMClass/Resources/Backlinks.png",
     "Spaces/ObsPKMClass/Resources/Footnotes.png",
@@ -292,7 +305,6 @@
     "Trunks-fractal-trace-fire.png",
     "IMG_20230531_103738201.jpg",
     "IMG_20230425_065348908.jpg",
-    "1686132625694.png",
     "2 Rivers.xcf",
     "Color Palette Options.pdf",
     "Spaces/Blog/Notes/src/routes/rss.xml",
