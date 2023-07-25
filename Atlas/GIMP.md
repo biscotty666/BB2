@@ -1,4 +1,4 @@
 ## GIMP
 
 up:: [[Multimedia]]
-tags:: #map 
+tags:: #moc 

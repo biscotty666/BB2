@@ -1,5 +1,5 @@
 up:: [[Brian Carey]]
-tags:: #map
+tags:: #moc
 X:: 
 
 ## BC Skill Areas

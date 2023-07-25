@@ -28,5 +28,7 @@ png:: ![[Title Example.png|75]]
 ---
 
 up:: [[Atlas/GIMP]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign #on/Graphics 
+tags:: #note/resource #image/logo #source/video  #on/Graphics 
 Status:: Complete
+Source:: [[Davies Media Design]]
+

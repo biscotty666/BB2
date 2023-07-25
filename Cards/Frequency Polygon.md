@@ -1,5 +1,5 @@
 up:: [[Binomial Distribution]]
-tags:: #on/PnS #source/video #note/clearexample #note/reference  
+tags:: #on/PnS #source/video #note/example #note/reference  
 
 ## Frequency Polygon
 
@@ -14,10 +14,6 @@ Construct a frequency polygon using interval width of 20k starting with 20K
 | 60k-80k    | 4    | 70k      |
 | 80k-100k   | 5    | 90k      |
 | 100k-120k  | 2    | 110k         |
-
-![[Drawing 2023-05-07 01.20.49.excalidraw.png]]
-
-
 
 
 

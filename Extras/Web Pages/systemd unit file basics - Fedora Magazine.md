@@ -1,6 +1,7 @@
 up:: [[SystemD]]
-tags:: #note/reference  #source/internet #source/FedoraMagazine 
+tags:: #note/reference  #source/internet 
 X:: 
+Source:: [[Fedora Magazine]]
 
 ## systemd unit file basics - Fedora Magazine
 

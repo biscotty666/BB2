@@ -1,5 +1,5 @@
 up:: [[Technology]]
-tags:: #map
+tags:: #moc
 
 # Latex
 

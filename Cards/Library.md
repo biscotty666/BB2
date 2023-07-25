@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map
+tags:: #moc
 
 # Library
 

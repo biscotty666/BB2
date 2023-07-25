@@ -1,7 +1,7 @@
 %%
 up::
-tags:: #note/reference #on/Birds #source/internet #source/CornellLab
-source:: https://www.allaboutbirds.org/guide/Rufous_Hummingbird
+tags:: #note/reference #on/Birds #source/internet 
+Source:: https://www.allaboutbirds.org/guide/Rufous_Hummingbird
 %%
 
 # Rufous Hummingbird Identification[^1]

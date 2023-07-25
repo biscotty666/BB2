@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map/view 
+tags:: #moc/view 
 
 # The Notebox 🗃
 

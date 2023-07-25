@@ -21,7 +21,7 @@ png::
 
 ---
 
-up:: [[GIMP - Webpage]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign  #on/Graphics 
+up:: [[GIMP]]
+tags:: #note/resource #image/logo #source/video  #on/Graphics 
 Status:: New
 Priority:: 

@@ -1,5 +1,5 @@
 up:: [[Technology]]
-tags:: #map #on/Python 
+tags:: #moc #on/Python 
 X:: [[Syntax]]
 Library:: 600
 

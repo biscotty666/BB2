@@ -1,5 +1,5 @@
 up:: [[Programming]]
-tags:: #map #on/R #on/Python
+tags:: #moc #on/R #on/Python
 X:: [[R]] [[Python]]
 
 ## Syntax

@@ -47,14 +47,6 @@ filter: p1
 
 
 
-#### Completed today
-
-```dataview
-task
-where completion = date("<% tp.date.now("YYYY-MM-DD") %>")
-```
-
-
 ### Logs
 
 #### Study Log

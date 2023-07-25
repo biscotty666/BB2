@@ -1,5 +1,5 @@
 up:: [[Programming]]
-tags:: #to/develop #effort #on/R #on/Python #map
+tags:: #to/develop #effort #on/R #on/Python #moc
 X:: [[R]] [[Data Science]]
 
 ## Comparison of R and Python for Data Science

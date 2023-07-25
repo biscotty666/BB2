@@ -10,5 +10,5 @@ sort file.name desc
 ```
 
 up:: [[Technology]]
-tags:: #map 
+tags:: #moc 
 

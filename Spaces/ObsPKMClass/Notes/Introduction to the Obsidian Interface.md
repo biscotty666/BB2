@@ -13,4 +13,4 @@ cssclass: "qs"
 up:: [[2.0 Obsidian Intro]]
 tags:: #note/product #effort/ObsPKMClass, #note/reference #on/Obsidian 
 prev:: [[New Vault]]
-next:: [[Spaces/ObsPKMClass/Notes/Markdown]]
+next:: [[Obsidian Markdown]]

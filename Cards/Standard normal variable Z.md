@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/PnS 
 X:: 
 
 ## Standard normal variable $Z$

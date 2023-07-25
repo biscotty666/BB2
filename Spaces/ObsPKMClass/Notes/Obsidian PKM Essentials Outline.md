@@ -4,13 +4,13 @@ cssclass: "qs"
 ---
 ## Personal Knowledge Management with Obsidian
 
-## Essentials
+### Essentials
 
 1. Personal Knowledge Management and  Zettelkasten
 2. Obsidian and Markdown
-3. Zettelkasten 💗 Obsidian - Implementation
+3. Zettelkasten 💗 Obsidian:  Implementation
 
-## Advanced Topics
+### Advanced Topics
 
 1. Templates and Templater
 2. Dataview
@@ -20,8 +20,8 @@ cssclass: "qs"
 
 ---
 up:: [[Obsidian]]
-tags:: #on/Obsidian #on/Markdown #effort/ObsPKMClass #note/product #map
-X:: [[Atlas/Markdown|Markdown]]
+tags:: #on/Obsidian #on/Markdown #effort/ObsPKMClass #note/product #moc
+X:: 
 
 [[1.0 Personal Knowledge Management]]
 [[1.1 Zettelkasten - Overview]]

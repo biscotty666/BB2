@@ -26,5 +26,7 @@ png:: ![[CylinderText.png|100]]
 ---
 
 up:: [[Atlas/GIMP]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign 
+tags:: #note/resource #image/logo #source/video 
 Status:: Watched
+Source:: [[Davies Media Design]]
+

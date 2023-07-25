@@ -1,6 +1,4 @@
 ---
-up: [[ObsPKMEssentials]]
-tags: on/Obsidian, on/PKM, note/product, effort/ObsPKMClass, note/reference
 cssclass: "qs"
 ---
 ## Notes and MOCs

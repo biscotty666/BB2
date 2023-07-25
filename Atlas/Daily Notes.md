@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map/view 
+tags:: #moc/view 
 Library:: 000
 
 # Daily Notes

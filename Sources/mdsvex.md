@@ -5,4 +5,4 @@ A pre-processor for markdown files
 ---
 up:: [[Svelte]]
 tags:: #note/resource #source/internet 
-X:: [[Svelte markdown blog]] [[Spaces/ObsPKMClass/Notes/Markdown]]
+X:: [[Svelte markdown blog]] [[Obsidian Markdown]]

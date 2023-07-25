@@ -1,5 +1,5 @@
 up:: [[Linux]]
-tags:: #note/reference #source/internet #note/tutorial
+tags:: #note/reference #source/internet #note/example
 
 # GRUB 2 bootloader - Full tutorial
 
@@ -798,7 +798,7 @@ In the make_timeout() function, you can edit the declaration set timeout=${2} t
 
 In that case, change the script as follows:
 
-#set timeout=${2}  
+# set timeout=${2}  
 set timeout=20
 
 Make necessary backups first! And there's no need to delete anything, just comment out the lines you do not want to use. This way, you will be able to revert back to the original state if needed.

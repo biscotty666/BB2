@@ -1,5 +1,5 @@
 up:: [[Data Visualization]]
-tags:: #map #on/Visualization #on/Statistics 
+tags:: #moc #on/Visualization #on/Statistics 
 X:: [[Probability and Statistics]]
 
 ## Box and Whiskers Plot

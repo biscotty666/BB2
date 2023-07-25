@@ -19,3 +19,4 @@ The word Egypt derives from the name of the great temple in Memphis dedicated to
 
 up:: [[Mythology]]
 tags:: #ideas/philosophy 
+X:: [[Technology]]

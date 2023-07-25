@@ -330,7 +330,7 @@ Examples:
 
 |        |                Tags                |
 |:------ |:----------------------------------:|
-| Type   | #map #note/reference#note/new |
+| Type   | #moc #note/reference#note/fleeting |
 | Topic  |        #on/Obsidian#on/PKM         |
 | Source | #source/presentation#source/Brian  |
 | Action |    #to/watch #to/read#to/review    |

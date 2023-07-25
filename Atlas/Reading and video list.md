@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map #to/watch #to/read
+tags:: #moc #to/watch #to/read
 
 ## Reading and video list
 

@@ -1,5 +1,5 @@
 up:: [[Technology]]
-tags:: #map #on/R
+tags:: #moc #on/R
 X:: [[Introduction to Data Science]] [[Syntax]]
 Library:: 600
 

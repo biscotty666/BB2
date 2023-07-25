@@ -23,4 +23,6 @@ png::
 ---
 
 up:: [[Atlas/GIMP]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign #on/GIMP
+tags:: #note/resource #image/logo #source/video #on/GIMP 
+Source:: [[Davies Media Design]]
+

@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #map 
+tags:: #moc 
 related:: [[Data Visualization]] [[Introduction to Data Science]]
 Library:: 600
 

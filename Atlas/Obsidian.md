@@ -1,5 +1,5 @@
 up::  [[Technology]]
-tags:: #map 
+tags:: #moc 
 X:: [[Atlas/PKM]]
 Library:: 600
 

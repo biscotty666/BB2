@@ -3,7 +3,7 @@ aliases: Templater Reference
 ---
 
 up:: [[Obsidian]]
-tags:: #reference #source/documentation 
+tags:: #note/reference #source/documentation 
 alias:: Templater Reference
 
 # Obsidian Templater

@@ -42,6 +42,8 @@ png:: ![[Layered Typography.png|80]]
 ---
 
 up:: [[Atlas/GIMP]]
-tags:: #note/resource #image/logo #source/video #source/DaviesMediaDesign #on/Graphics 
+tags:: #note/resource #image/logo #source/video  #on/Graphics 
 Status:: Complete
 Priority:: 
+Source:: [[Davies Media Design]]
+

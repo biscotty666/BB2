@@ -1,6 +1,6 @@
 up:: [[Obsidian Advanced Slides]]
 tags:: #note/reference  #on/Obsidian 
-X:: 
+X:: [[CSS]]
 
 ## Declare a Stylesheet for Obsidian Slides
 

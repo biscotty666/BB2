@@ -1,5 +1,5 @@
 up:: [[Python]] 
-tags:: #note/reference #map #note/cheatsheet 
+tags:: #note/reference #moc #note/cheatsheet 
 X:: 
 
 ## A load of Python related cheat sheets

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2bec19f561cff8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Logs/Exc-20230717.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80e520e4974ed011",
             "type": "leaf",
             "state": {
@@ -36,14 +23,70 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Logs/Exc-20230711.md",
+                "file": "Calendar/Logs/Exc-20230722.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3a9fc05d999ab280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a57e6aa97b6f12",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Calendar/Logs/Exc-20230722.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.635624836353468,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "38507a426f26d591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +111,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gimp layer mas",
+            "query": "Kennedy ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -113,7 +156,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -125,7 +168,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Logs/Exc-20230717.md",
+            "file": "Calendar/Logs/Exc-20230722.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +185,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Logs/Exc-20230717.md",
+            "file": "Calendar/Logs/Exc-20230722.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +197,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Logs/Exc-20230717.md"
+            "file": "Calendar/Logs/Exc-20230722.md"
           }
         }
       },
@@ -171,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
@@ -179,40 +223,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2bec19f561cff8d",
+  "active": "d18d04f663da90d6",
   "lastOpenFiles": [
+    "Calendar/Daily Notes/Notes/2023-07-19.md",
+    "Calendar/Logs/Exc-20230722.md",
+    "Atlas/Technology.md",
+    "Sources/Dataview Implicit Fields.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Markdown.md",
+    "Spaces/ObsPKMClass/Notes/Dataview.md",
+    "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Fields.md",
+    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
+    "Spaces/ObsPKMClass/Notes/Dataview WHERE.md",
+    "Spaces/ObsPKMClass/Notes/Dataview Queries.md",
+    "Cards/Logs.md",
+    "Calendar/Logs/Exc-20230711.md",
+    "Extras/Images/ddc23-summaries.pdf",
+    "+ New/Exc-20230721n.sync-conflict-20230721-155609-BBO7X7A.md",
+    "+ New/Exc-20230721n.md",
+    "+ New/Exc-20230719n.md",
+    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
+    "+ New/Graph view script.md",
+    "+ New/Blender Tutorial.md",
+    "Calendar/Logs/Exc-20230717.md",
     "+ New/Exc-20230717n.md",
     "+ New/Royalty Free Music Sources.md",
-    "Calendar/Logs/Exc-20230717.md",
     "+ New/Audacity Tutorial.md",
     "+ New/Exc-20230716.md",
     "+ New/Exc-20230716.sync-conflict-20230716-134809-BBO7X7A.md",
     "+ New/Audacity Tutorial.sync-conflict-20230715-111906-BBO7X7A.md",
-    "Calendar/Daily Notes/Notes/2023-07-15.md",
-    "+ New/On Obsidian.md",
-    "Calendar/Daily Notes/Notes/2023-07-14.md",
-    "Calendar/Logs/Exc-20230713.md",
-    "+ New/Openshot Official Tutorial Videos.md",
-    "+ New/Openshot Official Videos.md",
-    "Calendar/Daily Notes/Notes/2023-07-13.md",
-    "Calendar/Daily Notes/Notes/2023-07-06.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
-    "Spaces/ObsPKMClass/Notes/Codeblocks.md",
-    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
-    "Spaces/ObsPKMClass/Notes/Tags.md",
-    "Spaces/ObsPKMClass/Notes/Markdown.md",
-    "Spaces/ObsPKMClass/Notes/2.1 Markdown.md",
-    "Spaces/ObsPKMClass/Notes/Emphasis.md",
-    "Calendar/Daily Notes/Notes/2023-06-27.md",
-    "+ New/3.4 Daily Note.md",
-    "Spaces/ObsPKMClass/Notes/3.3 Observation Log with Dataview.md",
-    "Spaces/ObsPKMClass/Notes/3.2 Templater.md",
-    "Extras/Images/ddc23-summaries.pdf",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
     "IMG_20230531_103738201.jpg",

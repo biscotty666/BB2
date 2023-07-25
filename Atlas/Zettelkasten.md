@@ -1,5 +1,5 @@
 up:: [[Atlas/PKM]]
-tags:: #map #on/PKM #on/Obsidian 
+tags:: #moc #on/PKM #on/Obsidian 
 Library:: 000
 
 # Zettelkasten

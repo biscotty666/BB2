@@ -1,5 +1,6 @@
 up:: [[Open Graph Protocol]]
-tags:: #source/FCC #source/article #note/reference 
+tags:: #source/article #note/reference 
+Source:: [[freecodecamp.org]]
 
 [![freeCodeCamp.org](https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg)](https://www.freecodecamp.org/news)
 # What is Open Graph and how can I use it for my website?

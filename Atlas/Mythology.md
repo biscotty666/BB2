@@ -6,4 +6,4 @@
 [[Thoth]]
 
 Library:: 200
-tags:: #map #ideas/philosophy 
+tags:: #moc #ideas/philosophy 

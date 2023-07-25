@@ -12,7 +12,7 @@ Tags are a flexible way of applying metadata. There are many possible uses. Pers
 | Topic    | #on/Obsidian, #on/PKM                 | Can be on multiple subjects                  |
 | Action   | #to/read, #to/review                  | Indicate that a note requires future action. |
 | Source   | #source/article, #source/AuthorsName  | May be specific or generic                   |
-| Type     | #note/fleeting, #note/reference, #map | We will cover different types of notes soon  |
+| Type     | #note/fleeting, #note/reference, #moc | We will cover different types of notes soon  |
 
 ##### Syntax
 

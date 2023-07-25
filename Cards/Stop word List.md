@@ -1,5 +1,5 @@
 up:: [[Word count python]]
-tags:: #source/internet #reference 
+tags:: #source/internet #note/reference 
 
 # Stop word List
 

@@ -96,7 +96,7 @@
 		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Zettelkasten Definition.md","id":"0f7fa77f585565f9","x":14900,"y":-620,"width":660,"height":300,"color":"5"},
 		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Atomic Notes.md","id":"01e26530284b6b0a","x":14900,"y":-300,"width":660,"height":240,"color":"5"},
 		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Obsidian Metadata.md","id":"7171740f7b712a0c","x":14900,"y":-40,"width":660,"height":180,"color":"5"},
-		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Markdown.md","id":"83905774a7d9e985","x":9480,"y":-1040,"width":600,"height":497},
+		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Obsidian Markdown.md","id":"83905774a7d9e985","x":9480,"y":-1040,"width":600,"height":497},
 		{"type":"file","file":"Spaces/ObsPKMClass/Notes/Tags.md","id":"5e86de676c47576c","x":9480,"y":-510,"width":600,"height":740},
 		{"type":"text","text":"![[Obsidian Embeds#Images|Embeds]]","id":"052ae1016b0ea495","x":11100,"y":-400,"width":742,"height":357},
 		{"type":"text","text":"![[Obsidian Embeds#Webpages|Embeds]]","id":"880284d339242974","x":11100,"y":16,"width":760,"height":460},

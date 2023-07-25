@@ -1,5 +1,5 @@
 ---
-cssclass: "qsol"
+cssclass: "qs"
 ---
 ## Templater
 

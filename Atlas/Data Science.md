@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map
+tags:: #moc
 date:: 2023-04-13
 Library:: 600
 

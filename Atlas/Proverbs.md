@@ -1,5 +1,5 @@
 up:: [[Philosophy]]
-tags:: #map #ideas 
+tags:: #moc #ideas 
 X:: 
 Library:: 200
 

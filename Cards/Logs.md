@@ -1,6 +1,6 @@
 ---
 up: [[Brian Carey]]
-tags: map, log/journal
+tags: moc, log/journal
 ---
 ## Logs
 
@@ -23,6 +23,7 @@ tags: map, log/journal
 >```
 
 ### Exercise Log
+
 ```dataview
 table without id
 exc-date as Date, exc-type as Type, exc-time as Minutes, exc-dist as Miles, exc-route as Route, exc-note as Note, exc-image as Photo

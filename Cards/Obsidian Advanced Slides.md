@@ -1,5 +1,5 @@
 up:: [[Obsidian]]
-tags:: #on/Obsidian #map #source/documentation #note/reference 
+tags:: #on/Obsidian #moc #source/documentation #note/reference 
 
 
 ## Obsidian Advanced Slides

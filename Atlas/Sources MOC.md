@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map 
+tags:: #moc 
 
 # Sources MOC
 This is where I keep tabs on some of the sources I have encountered.

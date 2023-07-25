@@ -181,5 +181,10 @@ This presentation can be downloaded from [my GitHub repository](https://github.c
 	}
 </style>
 
+
+
+---
+up:: [[Obsidian PKM Essentials Outline]]
+tags:: #on/Obsidian #on/PKM  #note/product #effort/ObsPKMClass 
 up:: [[PKM Essentials Slides]]
 prev:: [[Chapter 2]]

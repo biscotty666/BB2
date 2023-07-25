@@ -1,5 +1,5 @@
 up:: [[Inkscape]]
-tags:: #note/clearexample #source/video #on/Graphics
+tags:: #note/example #source/video #on/Graphics
 Status:: New
 Priority:: 2
 

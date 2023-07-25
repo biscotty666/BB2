@@ -45,4 +45,6 @@ export async function GET({ fetch }) {
 
 ---
 up:: [[Svelte markdown blog]]
-tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode #on/Svelte 
+tags:: #note/example #effort/blog #source/video #on/Svelte 
+Source:: [[Joy of Code]]
+

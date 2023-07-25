@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "technology",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#map",
@@ -15,93 +15,58 @@
       }
     },
     {
-      "query": "tag:#on/Statistics OR tag:#on/Probability OR tag:#on/PnS",
+      "query": "Obsidian",
       "color": {
         "a": 1,
-        "rgb": 6084308
+        "rgb": 659931
       }
     },
     {
-      "query": "tag:#effort/ObsPKMClass OR tag:#on/Obsidian OR tag:#on/PKM",
-      "color": {
-        "a": 1,
-        "rgb": 3556343
-      }
-    },
-    {
-      "query": "tag:#on/Linux",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#on/Python",
-      "color": {
-        "a": 1,
-        "rgb": 14913794
-      }
-    },
-    {
-      "query": "tag:#on/R",
-      "color": {
-        "a": 1,
-        "rgb": 1348306
-      }
-    },
-    {
-      "query": "tag:#on/Svelte",
-      "color": {
-        "a": 1,
-        "rgb": 16124204
-      }
-    },
-    {
-      "query": "tag:#on/Visualization OR tag:#on/DataVisualization",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#on/GIMP OR tag:#on/Graphics OR tag:#image",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "tag:#log OR tag:#note/daily",
-      "color": {
-        "a": 1,
-        "rgb": 3861513
-      }
-    },
-    {
-      "query": "excalidraw",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#ideas/proverbs",
+      "query": "Probability",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "Statistics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Svelte",
+      "color": {
+        "a": 1,
+        "rgb": 14701207
+      }
+    },
+    {
+      "query": "inkscape OR gimp",
+      "color": {
+        "a": 1,
+        "rgb": 16242440
+      }
+    },
+    {
+      "query": "#log",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.07243806687424,
-  "lineSizeMultiplier": 1.17857046162177,
+  "showArrow": false,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 0.1,
   "collapse-forces": false,
-  "centerStrength": 0.519019899824015,
-  "repelStrength": 15.3188033031,
-  "linkStrength": 0.2374441586571,
-  "linkDistance": 115,
-  "scale": 0.1019610562353124,
+  "centerStrength": 0.453125,
+  "repelStrength": 8.22916666666667,
+  "linkStrength": 0.369791666666667,
+  "linkDistance": 118,
+  "scale": 0.46822130772748,
   "close": true
 }

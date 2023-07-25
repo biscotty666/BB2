@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #map
+tags:: #moc
 X:: 
 
 ## Forecasting

@@ -1,6 +1,7 @@
 up:: [[Machine Learning]]
-tags:: #on/ML  #to/watch #source/FCC
+tags:: #on/ML  #to/watch
 Priority:: 2
+Source:: [[freecodecamp.org]]
 
 ## FCC ml class
 

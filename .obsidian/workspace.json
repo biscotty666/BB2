@@ -16,41 +16,75 @@
               "state": {
                 "file": "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
                 "viewState": {
-                  "x": 547.7948157950539,
-                  "y": 4017.327710946499,
-                  "zoom": -0.5999999999999999
+                  "x": 1925.0711411057869,
+                  "y": 241.2074773801002,
+                  "zoom": 0.3999999999999999
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "3ebcf2fd01b78e9a",
+            "id": "3fd7878ec327e076",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/Exc-20230721.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
-            "id": "d3a44a622ea0e9de",
+            "id": "b410acdf38e9a36e",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://www.lifewire.com/make-a-custom-gradient-in-gimp-1701680"
+                "file": "Atlas/Technology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "e801ea44bcaeea54",
+            "id": "6185031c52c6351d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Web Pages/Make a Custom Gradient in GIMP.md",
+                "file": "Spaces/ObsPKMClass/Notes/Headers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "690e1fc095f13cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58b431c446dac8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Publishing/Publications List.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fedora",
+                "query": "text along path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,18 +139,20 @@
             }
           },
           {
-            "id": "9873a5573ee1f4c9",
+            "id": "7aeabb5c3e16bb99",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 330.51103591918945
+    "width": 330.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -144,13 +180,13 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Templates/Proverb Note.md",
+                "file": "Spaces/Publishing/Publications List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
-                  "localForelinks": true,
+                  "localForelinks": false,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
@@ -179,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Proverb Note.md"
+                "file": "Spaces/Publishing/Publications List.md"
               }
             }
           },
@@ -207,7 +243,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cc261747cbab30f2",
@@ -220,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Proverb Note.md",
+                "file": "Spaces/Publishing/Publications List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,17 +274,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Proverb Note.md",
+                "file": "Spaces/Publishing/Publications List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,41 +298,42 @@
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "000a19ecab0778fc",
+  "active": "58b431c446dac8ef",
   "lastOpenFiles": [
-    "Extras/Web Pages/Make a Custom Gradient in GIMP.md",
-    "Extras/Templates/GIMP - Webpage.md",
-    "Atlas/GIMP.md",
+    "Spaces/Publishing/Second Brain Graph View Video.md",
+    "Spaces/Publishing/Publications List.md",
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
     "Atlas/Technology.md",
-    "Extras/Templates/GIMPTUT.md",
-    "Extras/Web Pages/systemd- Converting sysvinit scripts - Fedora Magazine.md",
-    "+ New/Multimedia.md",
-    "Home.md",
-    "Extras/Web Pages/systemd unit file basics - Fedora Magazine.md",
-    "Cards/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
-    "Cards/System Backups.md",
-    "+ New/SystemD.md",
-    "+ New/Silverblue.md",
-    "+ New/Kinoite.md",
-    "+ New/Scheduling Jobs in Kinoite.md",
-    "Extras/Web Pages/Manage Packages on Fedora Silverblue with Toolbox, rpm-ostree & Flatpak - ComputingForGeeks.md",
-    "Cards/Lvm with btrfs.md",
-    "+ New/Fedora.md",
-    "Extras/Web Pages/GRUB 2 bootloader - Full tutorial.md",
-    "Cards/Fedora install.md",
-    "+ New/Distrobox Silverblue Video.md",
-    "+ New/Untitled.md",
-    "+ New/Audacity.md",
-    "+ New/Audacity Tutorial.md",
-    "Atlas/Programming.md",
-    "Atlas/Obsidian.md",
+    "Spaces/ObsPKMClass/Notes/Headers.md",
+    "Cards/GIMP text on a circle.md",
+    "Sources/Dataview Implicit Fields.md",
+    "+/Todoist filters.md",
+    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
+    "Spaces/ObsPKMClass/Notes/Dataview.md",
+    "Extras/Images/Thumb-2nd-Brain-Concepts.png",
+    "Extras/Templates/Video Project.md",
+    "Spaces/ObsPKMClass/Notes/Templater.md",
+    "Spaces/Publishing",
+    "test note.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
+    "nix tutorial.md",
+    "Extras/Web Pages/Nix language basics — nix.dev documentation.md",
+    "Publication Ideas.md",
+    "Cards/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
+    "NixOS, Kinoite and Debian.md",
+    "Infrastructure.md",
+    "+/Scheduling Jobs in Kinoite.md",
+    "+/temp note.md",
+    "Calendar/Logs/Exc-20230722.md",
+    "Exc-20230722.md",
+    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
+    "Extras/Templates/+ New.md",
+    "Extras/Templates/Daily Note Simple.md",
     "Extras/Images/Screenshot_20230717_021912.jpg",
     "Extras/Images/DirtBiker.jpg",
     "Spaces/ObsPKMClass/Resources/Backlinks.png",
@@ -304,7 +344,6 @@
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
     "Trunks-fractal-trace-fire.png",
     "IMG_20230531_103738201.jpg",
-    "IMG_20230425_065348908.jpg",
     "2 Rivers.xcf",
     "Color Palette Options.pdf",
     "Spaces/Blog/Notes/src/routes/rss.xml",
@@ -314,7 +353,6 @@
     "Spaces/Blog/Notes/src/routes/slug",
     "Spaces/Blog/Notes/routes",
     "Spaces/Blog/Notes/src/routes/api/posts",
-    "Spaces/Blog/Notes/src/routes/api",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

@@ -2,4 +2,6 @@
 
 ---
 up:: [[Svelte markdown blog]]
-tags:: #note/clearexample #effort/blog #source/video #source/JoyOfCode #on/Markdown 
+tags:: #note/example #effort/blog #source/video  #on/Markdown 
+Source:: [[Joy of Code]]
+

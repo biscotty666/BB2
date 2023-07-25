@@ -1,5 +1,5 @@
 up:: [[Home]]
-tags:: #map 
+tags:: #moc 
 ranks:: 3
 Library:: 000
 

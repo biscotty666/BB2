@@ -1,5 +1,6 @@
 up:: [[Open Graph Protocol]]
-tags:: #note/reference #source/article #source/FCC 
+tags:: #note/reference #source/article 
+Source:: [[freecodecamp.org]]
 
 ## Open Graph Basic Tags
 
