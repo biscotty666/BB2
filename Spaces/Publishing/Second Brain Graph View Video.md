@@ -9,7 +9,7 @@ published::
 status:: draft
 locations:: 
 topic:: The "Second Brain" concept with Obsidian Graph View
-thumbnail:: ![[Thumb-2nd-Brain-Concepts.png|75]]
+title:: ![[Thumb-2nd-Brain-Concepts.png|75]]
 resource location:: 
 up:: [[Publications List]]
 X:: [[Obsidian]] [[Graph view script]]
@@ -25,9 +25,10 @@ name: ""
 filter: "@video & @obspkm"
 ```
 
-## Title Thumbnail
+## Thumbnails
 
-![[Thumb-2nd-Brain-Concepts.png|600]]
+
+![[Thumb-2nd-Brain-Concepts.png|150]]
 
 ## References
 

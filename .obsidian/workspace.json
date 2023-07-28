@@ -53,12 +53,12 @@
             }
           },
           {
-            "id": "6185031c52c6351d",
+            "id": "4f7188176842ba08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Headers.md",
+                "file": "Distressed Text Inkscape Alternate.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,12 +66,24 @@
             }
           },
           {
-            "id": "690e1fc095f13cc9",
+            "id": "53eeb058faf67065",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=services.nfs.server.exports+nixos&ia=web"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "27f8154a5e61cbe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+                "file": "Extras/Web Pages/NFS - NixOS Wiki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,20 +91,20 @@
             }
           },
           {
-            "id": "58b431c446dac8ef",
+            "id": "8c11ada59a44175d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Publishing/Publications List.md",
-                "mode": "source",
+                "file": "Calendar/Daily Notes/Notes/2023-07-28.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "text along path",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Publishing/Publications List.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Publishing/Publications List.md"
+                "file": "Calendar/Daily Notes/Notes/2023-07-28.md"
               }
             }
           },
@@ -257,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Publishing/Publications List.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Publishing/Publications List.md",
+                "file": "Calendar/Daily Notes/Notes/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,47 +315,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "58b431c446dac8ef",
+  "active": "8c11ada59a44175d",
   "lastOpenFiles": [
-    "Spaces/Publishing/Second Brain Graph View Video.md",
-    "Spaces/Publishing/Publications List.md",
-    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
-    "Atlas/Technology.md",
-    "Spaces/ObsPKMClass/Notes/Headers.md",
-    "Cards/GIMP text on a circle.md",
-    "Sources/Dataview Implicit Fields.md",
-    "+/Todoist filters.md",
-    "Spaces/ObsPKMClass/Notes/Obsidian Frontmatter.md",
-    "Spaces/ObsPKMClass/Notes/Dataview.md",
-    "Extras/Images/Thumb-2nd-Brain-Concepts.png",
-    "Extras/Templates/Video Project.md",
-    "Spaces/ObsPKMClass/Notes/Templater.md",
-    "Spaces/Publishing",
-    "test note.md",
-    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
-    "nix tutorial.md",
-    "Extras/Web Pages/Nix language basics — nix.dev documentation.md",
-    "Publication Ideas.md",
-    "Cards/Systemd Timers for Scheduling Tasks - Fedora Magazine.md",
-    "NixOS, Kinoite and Debian.md",
-    "Infrastructure.md",
-    "+/Scheduling Jobs in Kinoite.md",
     "+/temp note.md",
-    "Calendar/Logs/Exc-20230722.md",
-    "Exc-20230722.md",
-    "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
-    "Extras/Templates/+ New.md",
+    "Calendar/Daily Notes/Notes/2023-07-28.md",
+    "Extras/Templates/Daily Note.md",
+    "Inkscape Bucket Fill.md",
+    "Calendar/Daily Notes/Notes/2023-07-27.md",
+    "Atlas/Technology.md",
+    "Extras/Web Pages/NFS - NixOS Wiki.md",
+    "Distressed Text Inkscape Alternate.md",
+    "Sources/Distressed Text Effect in Inkscape.md",
+    "Sources/Rounding Corners in Inkscape.md",
     "Extras/Templates/Daily Note Simple.md",
-    "Extras/Images/Screenshot_20230717_021912.jpg",
-    "Extras/Images/DirtBiker.jpg",
-    "Spaces/ObsPKMClass/Resources/Backlinks.png",
-    "Spaces/ObsPKMClass/Resources/Footnotes.png",
-    "Spaces/ObsPKMClass/Resources/Blockquote and Callouts.png",
-    "Spaces/ObsPKMClass/Resources/Lists.png",
-    "Spaces/ObsPKMClass/Resources/Headers.png",
+    "Extras/Templates/Class Template.md",
+    "Extras/Templates/Blog.md",
+    "Extras/Templates/+ New.md",
+    "Extras/Templates/Sweater Cat Designs.md",
+    "Extras/Templates/Archive",
+    "Cards/Top 5 text effects in GIMP.md",
+    "Calendar/Daily Notes/Notes/2023-07-26.md",
+    "Spaces/ObsPKMClass/Notes/Headers.md",
+    "Spaces/ObsPKMClass/Notes/Potential Fonts for ObsPKM Class.md",
+    "Extras/Templates/Logos By Nick.md",
+    "Extras/Images/DistressedLetters 1.svg",
+    "Extras/Images/DistressedLetters.svg",
+    "Extras/Templates/DaviesMedia.md",
+    "Inkscape new in 1.3.md",
+    "Technology Logos.md",
+    "Calendar/Logs/Exc-20230726.md",
+    "Exc-20230726.sync-conflict-20230726-100733-BBO7X7A.md",
+    "Exc-20230726.md",
+    "Extras/Images/Pasted image 20230725234537.png",
+    "Extras/Images/Pasted image 20230725234514.png",
+    "Extras/Images/Pasted image 20230725234439.png",
+    "Extras/Images/Pasted image 20230725234422.png",
+    "Extras/Images/Pasted image 20230725234155.png",
+    "Extras/Images/Pasted image 20230725234102.png",
+    "Extras/Images/Obsidia Logo.png",
+    "Extras/Images/Thumb-2nd-Brain-Concepts.png",
+    "Spaces/Publishing",
+    "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
-    "Trunks-fractal-trace-fire.png",
-    "IMG_20230531_103738201.jpg",
     "2 Rivers.xcf",
     "Color Palette Options.pdf",
     "Spaces/Blog/Notes/src/routes/rss.xml",
@@ -352,7 +365,6 @@
     "Spaces/Blog/Notes/src/lib/components",
     "Spaces/Blog/Notes/src/routes/slug",
     "Spaces/Blog/Notes/routes",
-    "Spaces/Blog/Notes/src/routes/api/posts",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

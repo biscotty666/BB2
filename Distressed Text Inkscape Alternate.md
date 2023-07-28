@@ -1,9 +1,13 @@
-# {{title}}
+# Distressed Text Inkscape Alternate
 
 
 ## Notes
 
+
+
 ## Video
+
+![Create a Distressed Text Effect in Inkscape - YouTube](https://www.youtube.com/watch?v=odqJvgvAxLE)
 
 ## Image
 

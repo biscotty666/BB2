@@ -1,9 +1,11 @@
 up:: [[Atlas/GIMP]]
 tags:: #note/resource #image/logo 
 
-## GIMP Mascot Wilber Images
+# GIMP Mascot Wilber Images
 
+## Basic
 ![[Pasted image 20230615074222.png]]
+## Alternatives
 
 ![[Pasted image 20230615074231.png]]
 

@@ -3,6 +3,17 @@ h1 {
 }
 
 :root {
-      --default-font: "Indie Flower", serif;
-      font-weight: 600;
+/*      --default-font: "Indie Flower", serif; */
+/*      font-weight: 600; */
 }
+
+.gallery-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.gallery-list > li {
+	margin: auto;
+	list-style-type: none;
+}
+
