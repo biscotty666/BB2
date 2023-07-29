@@ -7,9 +7,9 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": null,
-  "pdflatex": null,
-  "outputFolder": null,
+  "pandoc": "/home/biscotty/.local/bin/pandoc",
+  "pdflatex": "/home/biscotty/.bin/pdflatex",
+  "outputFolder": "Extras/Images",
   "extraArguments": "",
   "exportFrom": "html"
 }

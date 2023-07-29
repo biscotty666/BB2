@@ -1,10 +1,10 @@
-Exc Date::  <% tp.date.now("YYYY-MM-DD") %>
-Exc Type:: 
-Exc Route:: 
-Exc Time:: 
-Exc Dist:: 
-Exc Note:: 
-Exc Image:: 
+Date::  <% tp.date.now("YYYY-MM-DD") %>
+Type:: 
+Route:: 
+Time:: 
+Dist:: 
+Note:: 
+Image:: 
 up:: [[Logs]]
 tags:: #log/exercise 
 

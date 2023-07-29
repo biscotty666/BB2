@@ -718,5 +718,15 @@
       ],
       "key": "M"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

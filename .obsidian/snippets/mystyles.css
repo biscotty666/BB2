@@ -1,10 +1,7 @@
-h1 {
-	text-align: center;
-}
 
 :root {
-/*      --default-font: "Indie Flower", serif; */
-/*      font-weight: 600; */
+      --default-font: "Quicksand", serif; */
+      font-weight: 600; */
 }
 
 .gallery-list {

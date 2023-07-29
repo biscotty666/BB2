@@ -45,10 +45,10 @@
   },
   "treeData": [
     {
-      "id": "53eeb058faf67065",
+      "id": "5a35ff501bb1a6f2",
       "parent": 0,
       "droppable": true,
-      "text": "services.nfs.server.exports nixos at DuckDuckGo",
+      "text": "GNOME - NixOS Wiki",
       "data": {
         "fileType": "site",
         "fileSize": "",

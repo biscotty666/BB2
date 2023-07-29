@@ -1,7 +1,13 @@
 up:: [[Fedora]]
 tags:: #note/reference #on/Linux #on/SystemD #on/kinoite #on/Lappy #note/documentation
 X:: [[SystemD]]  [[Laptop]]  [[Systemd Timers for Scheduling Tasks - Fedora Magazine]]
-
+%%
+#log/study
+Topic:: [[SystemD]]
+Note:: Learned how to implement timed jobs (new cron)
+Date:: 2023-07-28
+Related::  [[System Backups]] [[Infrastructure]]
+%%
 ## System Backups
 
 ### Schema

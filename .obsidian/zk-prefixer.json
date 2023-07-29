@@ -1,1 +1,5 @@
-{"format":"YYYY-MM-DD hmma","folder":"Timestamps"}
+{
+  "format": "YYYY-MM-DD hmma",
+  "folder": "Extras/Logs",
+  "template": "Extras/Logs/Log Entry"
+}

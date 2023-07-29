@@ -44,9 +44,17 @@
     },
     {
       "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
     }
   ],
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
-  "lastEditName": "Html"
+  "env": {},
+  "lastEditName": "Html",
+  "lastExportDirectory": {
+    "linux": "/home/biscotty/Downloads"
+  },
+  "lastExportType": "Latex"
 }

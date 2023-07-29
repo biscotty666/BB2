@@ -1,3 +1,10 @@
+%%
+#log/study
+Topic:: [[Inkscape]] 
+Note:: Simple distressed text
+Date:: 2023-07-28
+Related:: [[Distressed Text Inkscape Alternate]]  
+%%
 # Distressed Text Effect in Inkscape
 
 ## Notes

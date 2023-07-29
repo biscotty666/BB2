@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exc-20230726.md",
+                "file": "My Logging System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Exc-20230726.md",
+                "file": "My Logging System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +168,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Exc-20230726.md",
+            "file": "My Logging System.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Exc-20230726.md",
+            "file": "My Logging System.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -197,7 +197,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Exc-20230726.md"
+            "file": "My Logging System.md"
           }
         }
       },
@@ -214,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
@@ -228,8 +229,16 @@
   },
   "active": "d18d04f663da90d6",
   "lastOpenFiles": [
+    "Calendar/Logs/Exc-20230728.md",
+    "My Logging System.md",
+    "Inkscape tutorial en español.md",
+    "Sources/Idea Compass.md",
+    "Full video What's new Inkscape 1.3.md",
+    "Inkscape Bucket Fill.md",
+    "Extras/Templates/Logos By Nick.md",
+    "Calendar/Logs/Exc-20230726.md",
+    "Exc-20230726.sync-conflict-20230726-100733-BBO7X7A.md",
     "Calendar/Logs/Exc-20230727.md",
-    "Exc-20230726.md",
     "Calendar/Logs/Exc-20230722.md",
     "Calendar/Daily Notes/Notes/2023-07-19.md",
     "Atlas/Technology.md",
@@ -247,14 +256,6 @@
     "+ New/Exc-20230721n.sync-conflict-20230721-155609-BBO7X7A.md",
     "+ New/Exc-20230721n.md",
     "+ New/Exc-20230719n.md",
-    "Spaces/ObsPKMClass/Notes/Notes and MOCs.md",
-    "+ New/Graph view script.md",
-    "+ New/Blender Tutorial.md",
-    "Calendar/Logs/Exc-20230717.md",
-    "+ New/Exc-20230717n.md",
-    "+ New/Royalty Free Music Sources.md",
-    "+ New/Audacity Tutorial.md",
-    "+ New/Exc-20230716.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
     "IMG_20230531_103738201.jpg",
