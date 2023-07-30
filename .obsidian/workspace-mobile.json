@@ -11,9 +11,12 @@
             "id": "80e520e4974ed011",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Images/ddc23-summaries.pdf"
+                "file": "Spaces/Publishing/My Logging System.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -29,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Images/ddc23-summaries.pdf",
+                "file": "Spaces/Publishing/My Logging System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Extras/Images/ddc23-summaries.pdf",
+            "file": "Spaces/Publishing/My Logging System.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Extras/Images/ddc23-summaries.pdf",
+            "file": "Spaces/Publishing/My Logging System.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Extras/Images/ddc23-summaries.pdf"
+            "file": "Spaces/Publishing/My Logging System.md"
           }
         }
       },
@@ -215,6 +218,7 @@
   },
   "active": "80e520e4974ed011",
   "lastOpenFiles": [
+    "Extras/Images/ddc23-summaries.pdf",
     "Spaces/Publishing/My Logging System.md",
     "Spaces/Publishing/My Logging System.sync-conflict-20230729-170550-BBO7X7A.md",
     "Extras/Images/ObsSS Configure Unique Note Creator.jpeg",
@@ -250,8 +254,6 @@
     "Spaces/ObsPKMClass/Notes/3.1 Dataview.md",
     "Spaces/ObsPKMClass/Notes/Dataview Fields.md",
     "Spaces/ObsPKMClass/Notes/Dataview FROM.md",
-    "Spaces/ObsPKMClass/Notes/Dataview WHERE.md",
-    "Extras/Images/ddc23-summaries.pdf",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
     "Color Palette Options.pdf",

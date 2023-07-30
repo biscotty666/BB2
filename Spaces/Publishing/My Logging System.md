@@ -6,22 +6,24 @@ up:: [[Obsidian]]
 tags:: #note/product #effort/article
 Status:: In Progress
 %%
+
 # Logging in Obsidian
 
 ## Motivation
-I like to keep track of the work I have done in certain types of activities. Up until recently I have done this rather simply by leveraging my daily note with a special setup for my exercise logs. I recently started using Todoist for task management and that has required (inspired 😉) me to re-think how I keep my logs. I would like to do all of this in Obsidian with basic plugins except the actual task management. The Obsidian Todoist plugin is very good but still lacks some basic functionality.
+I like to keep track of the work I have done in certain types of activities. Up until recently I have done this rather simply by leveraging my daily note with a special setup for my exercise logs. I recently started using Todoist for task management and that has required (inspired 😉) me to re-think how I keep my logs. I would like to do all of this in [Obsidian](https://obsidian.md) with basic plugins except the actual task management. The Obsidian [Todoist](https://todoist.com/) plugin is very good but still lacks some basic functionality.
 
-More specifically I want to be able to:
+Specifically I want to be able to:
 - Add log information to a note
 - Create arbitrary log entries 
 - Display the day's logs on the Daily Note 
 - Create views based on, eg., type of entry or topic
+- Make log entries from anywhere with only 1 or 2 keystrokes/clicks
 
 Here I will describe my solution. In the process I found an application for the little-used core _Unique Note Creator_ plugin. In addition I will use the *Dataview* and *Templater* plugins. I will not go into detail in relation to these plugins but you should be able to easily modify the examples I give.
 
 ## Implementation
 
-I will use *tags* to indicate a log entry. I'll create template "sinippets" which can be inserted in existing documents to make a log entry related to that note. I will also create a template for a new "Log Note" with a guaranteed unique name for log entries not linked to a specific note. 
+I will use *tags* to indicate a log entry. I'll create template "snippets" which can be inserted in existing documents to make a log entry related to that note. I will also create a template for a new "Log Note" with a guaranteed unique name for log entries not linked to a specific note. 
 
 I will add _Dataview_ queries to my daily note to show the day's activities. Finally I will create a note which gathers all log entries for a specific log topic.
 
@@ -53,6 +55,7 @@ This plugin enables a new command, `Create new unique note`. I assigned this to 
 ![[Screenshot_20230729_131915.jpeg]]
 
 I created the file `Extras/Logs/Log Entry` which looks like this:
+
 ```
 # Log Entry
 
@@ -102,7 +105,9 @@ Related::
 
 Note that the use of `%%` prevents the fields from showing in *Read View*. Now to log relevant information from within the note I'm working on I just need to `Ctrl-T` to insert a template and I can again fill in the relevant information.
 
-NB. Unfortunately a given note can only contain one log entry or the *Dataview* queries break since there would be multiple fields with the same name. I do not anticipate this as a problem for what I'm logging. Worst case would be just to generate a *Log Entry* note.
+NB. Unfortunately a given note can only contain one log entry or the *Dataview* queries break since there would be multiple fields with the same name[^1]. 
+
+[^1]: I know I could create more specific fields for each snippet to have multiple log entries in a single note, but to make the unique note I need generic field names.  So this is a trade-off for the ease of automatically generating unique note names. I do not anticipate this as a problem for what I'm logging, though. And it's easy to just make a stand-alone log note and link to other notes with the `Related` field. Adds a keystroke on the rare occasion.
 
 ### The Daily Note
 
@@ -117,6 +122,7 @@ One use of these logs is to see my daily activity. To do this I have created a s
 Here is an example of a view of all my log entries related to NixOS
 
 ![[Screenshot_20230729_150225.jpeg]]
+
 And this is the query:
 
 ```
@@ -133,3 +139,11 @@ sort date desc
 It is so interesting to me how often working with Obsidian has led me to change the way I think about things and how I do things. Going through the process of developing this system has led me to reflect on my work patterns and where I can make them more efficient. 
 
 > Brian Carey, Albuquerque, 2023
+
+## Resources
+
+[Obsidian - Sharpen your thinking](https://obsidian.md)
+[Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com)
+[Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+[Introduction - Templater](https://silentvoid13.github.io/Templater/introduction.html)
+[Nix & NixOS | Reproducible builds and deployments](https://nixos.org/)

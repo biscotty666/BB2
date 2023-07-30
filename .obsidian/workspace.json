@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Publishing/My Logging System.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "footnotes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -306,10 +306,17 @@
   },
   "active": "65ea8ed7bca788fb",
   "lastOpenFiles": [
+    "Extras/HTML/My Logging System.html",
+    "Extras/HTML",
+    "HTML/My Logging System.html",
+    "HTML",
+    "Spaces/ObsPKMClass/Resources/Images.md",
+    "Spaces/Publishing/My Logging System.md",
+    "Extras/Images/Thumbnails-GV-Details-1.png",
+    "Spaces/ObsPKMClass/Notes/Footnotes in Obsidian.md",
     "Extras/Logs/2023-07-29 216pm.md",
     "NixOS.md",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.sync-conflict-20230701-033216-PJXCWFG.canvas",
-    "Spaces/Publishing/My Logging System.md",
     "Exc-20230726.sync-conflict-20230726-100733-BBO7X7A.md",
     "Extras/Logs/Log Entry.md",
     "Extras/Logs/2023-07-29 448pm.md",
@@ -331,7 +338,6 @@
     "Extras/Images/Screenshot_20230729_131915.jpeg",
     "Extras/Images/Screenshot_20230729_122215.jpeg",
     "Extras/Images/Screenshot_20230729_121842b.jpeg",
-    "Extras/Images/Screenshot_20230729_091714.png",
     "Spaces/ObsPKMClass/Notes/Logging in Obsidian.md",
     "NixOS, Kinoite and Debian.md",
     "Extras/Templates/GIMP - Webpage.md",
@@ -340,8 +346,6 @@
     "Atlas/Technology.md",
     "Distressed Text Inkscape Alternate.md",
     "Sources/Distressed Text Effect in Inkscape.md",
-    "Extras/Logs/2023-07-29 745am.md",
-    "Extras/Logs/2023-07-29 756am.md",
     "Extras/Logs",
     "Spaces/ObsPKMClass/Notes/OPKMEssentials.canvas",
     "Extras/Templates/Archive",
@@ -350,9 +354,6 @@
     "Color Palette Options.pdf",
     "Spaces/Blog/Notes/src/routes/rss.xml",
     "Spaces/Blog/Notes/lib",
-    "Spaces/Blog/Notes/src/lib/components/custom",
-    "Spaces/Blog/Notes/src/lib/components",
-    "Spaces/Blog/Notes/src/routes/slug",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
